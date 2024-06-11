@@ -1,0 +1,276 @@
+# Reference PMID: 12432063
+P67870	stimulation	P35222
+# Reference PMID: 23151663; 15735151; 21078818
+P35222	stimulation	Q9UJU2
+# Reference PMID: 19175684; 22298955
+P35222	stimulation	Q13950
+# Reference PMID: 11238441
+Q15915	stimulation	P10071
+# Reference PMID: 12435361
+P10071	inhibition	P55075
+# Reference PMID: 24209627
+P55075	stimulation	P15172
+# Reference PMID: 17194702
+P15172	stimulation	P51532
+# Reference PMID: 20006729
+P23760	stimulation	Q9UJU2
+# Reference PMID: 18854138
+P23760	stimulation	P15172
+# Reference PMID: 18316399
+P35222	stimulation	P15172
+# Reference PMID: 11238441
+Q15915	stimulation	P08151
+# Reference PMID: 23074268; 19860666
+P08151	stimulation	P24385
+# Reference PMID: 8114739
+P24385	form complex	SIGNOR-C143
+# Reference PMID: 17208333
+SIGNOR-C143	inhibition	P35222
+# Reference PMID: 19860666; 17419683
+P10071	stimulation	P24385
+# Reference PMID: 19653274
+Q9UJU2	stimulation	P24385
+# Reference PMID: 15735151; 12589056
+P35222	stimulation	P24385
+# Reference PMID: 16571352
+P10071	inhibition	P08151
+# Reference PMID: 15064403; 20858476
+Q969G9	inhibition	Q92997
+# Reference PMID: 10535959
+Q92997	stimulation	P49674
+# Reference PMID: 24715453
+P49674	inhibition	Q9GZV5
+# Reference PMID: 16300735
+Q9GZV5	stimulation	P23760
+# Reference PMID: 15747065
+P49674	inhibition	Q9UJU2
+# Reference PMID: 22153608
+Q9GZV5	stimulation	Q13950
+# Reference PMID: 12176352; 12000790
+P49674	inhibition	P35222
+# Reference PMID: 20466877
+Q9GZV5	stimulation	P15172
+# Reference PMID: 7791789
+P15172	stimulation	P38936
+# Reference PMID: 15340381
+P38936	inhibition	P06493
+# Reference PMID: 7578274
+P06493	stimulation	P67870
+# Reference PMID: 25211658
+P23760	stimulation	Q13207
+# Reference PMID: 25211658
+Q13207	inhibition	P38936
+# Reference PMID: 16280325
+P06493	inhibition	O00571
+# Reference PMID: 14522900
+P04637	stimulation	P38936
+# Reference PMID: 24173284
+P06493	stimulation	P04637
+# Reference PMID: 16407259
+P06493	stimulation	Q13950
+# Reference PMID: 14749395; 21902831
+P06493	inhibition	P15172
+# Reference PMID: 24470334
+Q13207	inhibition	P15172
+# Reference PMID: 26375055
+P06493	inhibition	Q9GZV5
+# Reference PMID: 19653274
+Q9UJU2	stimulation	P01106
+# Reference PMID: 11804592
+P01106	inhibition	Q15796
+# Reference PMID: 9689110
+Q15796	stimulation	P16220
+# Reference PMID: 21902831
+P16220	stimulation	P23760
+# Reference PMID: 10890911
+Q15796	stimulation	Q9UJU2
+# Reference PMID: 16510874
+P35222	stimulation	P01106
+# Reference PMID: 10775268
+P16220	stimulation	P35222
+# Reference PMID: 21902831
+P16220	stimulation	P15172
+# Reference PMID: 12835716
+P01106	stimulation	P24385
+# Reference PMID: 21084559
+Q9GZV5	stimulation	Q15796
+# Reference PMID: 20551174
+P01106	inhibition	P38936
+# Reference PMID: 20551513
+Q13950	stimulation	Q92793
+# Reference PMID: 9829964
+Q92793	stimulation	P16220
+# Reference PMID: 25545885
+Q92793	stimulation	P04637
+# Reference PMID: 10944526
+Q92793	stimulation	P15172
+# Reference PMID: 9566892
+O75444	inhibition	P14921
+# Reference PMID: 25373698
+P14921	stimulation	Q9Y458
+# Reference PMID: 20033915
+Q9Y458	inhibition	P35548
+# Reference PMID: 14586398
+P04637	inhibition	P14921
+# Reference PMID: 12556519
+Q92997	stimulation	Q92837
+# Reference PMID: 9635432
+Q92837	stimulation	P49841
+# Reference PMID: 18042454
+P49841	bimodal	O75444
+# Reference PMID: 11483158
+P49841	stimulation	P04637
+# Reference PMID: 23151663; 16293724; 11955436; 19303846
+P49841	inhibition	P35222
+# Reference PMID: 11955435; 16885213
+P49841	inhibition	P10071
+# Reference PMID: 16504004; 9832503; 23552696
+P49841	inhibition	P24385
+# Reference PMID: 17283049
+P49841	inhibition	P38936
+# Reference PMID: 14563837; 11018017; 16023596
+P49841	inhibition	P01106
+# Reference PMID: 12162494
+P49841	stimulation	P16220
+# Reference PMID: 16982607
+P49841	inhibition	Q92837
+# Reference PMID: 15073170
+P04637	stimulation	Q15418
+# Reference PMID: 11584304
+Q15418	inhibition	P49841
+# Reference PMID: 15073170
+P04637	stimulation	SIGNOR-PF26
+# Reference PMID: 11584304
+SIGNOR-PF26	inhibition	P49841
+# Reference PMID: 10558990
+Q15418	stimulation	P16220
+# Reference PMID: 10558990
+SIGNOR-PF26	stimulation	P16220
+# Reference PMID: 33081032
+P49841	stimulation	SIGNOR-PF26
+# Reference PMID: 22270366
+P14921	stimulation	P14780
+# Reference PMID: 10652271
+P14780	stimulation	P01137
+# Reference PMID: 11331591
+P01137	inhibition	Q13950
+# Reference PMID: 20033915
+Q9Y458	inhibition	P56178
+# Reference PMID: 22298955; 17335796
+P56178	stimulation	Q13950
+# Reference PMID: 9111364
+P35548	inhibition	P56178
+# Reference PMID: 9111364
+P56178	inhibition	P35548
+# Reference PMID: 19497851
+P56178	stimulation	P01106
+# Reference PMID: 21295277
+P35222	stimulation	Q01860
+# Reference PMID: 17068183
+Q01860	inhibition	P56178
+# Reference PMID: 19968627
+Q01860	inhibition	P38936
+# Reference PMID: 9697309
+P50458	inhibition	P28360
+# Reference PMID: 9111364
+P28360	inhibition	Q07687
+# Reference PMID: 9111364
+Q07687	inhibition	P35548
+# Reference PMID: 9111364
+P28360	inhibition	P56178
+# Reference PMID: 9111364
+P35548	inhibition	Q07687
+# Reference PMID: 9697309
+P28360	inhibition	P50458
+# Reference PMID: 15192231
+P28360	inhibition	P15172
+# Reference PMID: 9111364
+P56178	inhibition	P28360
+# Reference PMID: 9111364
+Q07687	inhibition	P28360
+# Reference PMID: 33627125
+O00571	stimulation	P08047
+# Reference PMID: 23650532
+P08047	stimulation	Q9NVW2
+# Reference PMID: 11882901
+Q9NVW2	inhibition	Q86U70
+# Reference PMID: 17005264
+Q86U70	stimulation	P50458
+# Reference PMID: 23650532
+P04637	inhibition	Q9NVW2
+# Reference PMID: 9148896
+P15172	inhibition	P08047
+# Reference PMID: 20150555
+P06493	stimulation	P08047
+# Reference PMID: 23936544
+P08047	stimulation	P01137
+# Reference PMID: 28775165
+P04637	stimulation	Q9C0B5
+# Reference PMID: 28775165
+Q9C0B5	inhibition	Q15910
+# Reference PMID: 20565746
+Q15910	inhibition	P31260
+# Reference PMID: 15494461
+P31260	stimulation	Q04743
+# Reference PMID: 10207072
+P04637	stimulation	SIGNOR-C6
+# Reference PMID: 21321929
+SIGNOR-C6	inhibition	Q01543
+# Reference PMID: 17688409
+Q01543	inhibition	P31260
+# Reference PMID: 7958853
+P04637	stimulation	Q00987
+# Reference PMID: 24488098
+Q00987	inhibition	Q96AQ6
+# Reference PMID: 24488098
+Q96AQ6	inhibition	P40425
+# Reference PMID: 15494461
+P40425	stimulation	Q04743
+# Reference PMID: 22337874; 23150757; 10935507
+Q00987	inhibition	P04637
+# Reference PMID: 10026229
+P40425	inhibition	P55075
+# Reference PMID: 10944526
+SIGNOR-C6	stimulation	P15172
+# Reference PMID: 18292944
+Q00987	inhibition	P38936
+# Reference PMID: 21659531
+P06493	inhibition	Q15910
+# Reference PMID: 17074756
+SIGNOR-C6	stimulation	Q15796
+# Reference PMID: 11559745
+Q92793	form complex	SIGNOR-C6
+# Reference PMID: 15627498
+P51532	form complex	SIGNOR-C92
+# Reference PMID: 11950834
+SIGNOR-C92	stimulation	P04637
+# Reference PMID: 17194702
+P15172	stimulation	SIGNOR-C92
+# Reference PMID: 12138206
+SIGNOR-C92	inhibition	P24385
+# Reference PMID: 16452181
+SIGNOR-C92	inhibition	P01106
+# Reference PMID: 7838153
+Q15418	stimulation	P03372
+# Reference PMID: 11517191
+P03372	stimulation	P01135
+# Reference PMID: 18757723
+P01135	stimulation	Q969F2
+# Reference PMID: 7838153
+SIGNOR-PF26	stimulation	P03372
+# Reference PMID: 10029407
+P04637	stimulation	P00533
+# Reference PMID: 11887937
+P00533	stimulation	P03372
+# Reference PMID: 15808510
+P03372	stimulation	P24385
+# Reference PMID: 11517191
+P03372	stimulation	P38936
+# Reference PMID: 8360196
+P06493	inhibition	P00533
+# Reference PMID: 26592448
+P00533	stimulation	P01106
+# Reference PMID: 16076840
+P49841	stimulation	P03372
+# Reference PMID: 16585207
+P01135	stimulation	P00533
