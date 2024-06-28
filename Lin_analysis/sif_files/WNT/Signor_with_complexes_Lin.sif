@@ -1,0 +1,742 @@
+# Reference PMID: SIF file; 23723069
+LRIG3	stimulation	ERBB4
+# Reference PMID: SIF file; 16729043
+ERBB4	stimulation	STAT5A
+# Reference PMID: SIF file; 26059451
+STAT5A	stimulation	DNMT3A
+# Reference PMID: SIF file; 28288143
+DNMT3A	inhibition	MEIS1
+# Reference PMID: SIF file; 23132946
+STAT5A	stimulation	URS000062749E_9606
+# Reference PMID: SIF file; 19219026
+URS000062749E_9606	inhibition	MEIS1
+# Reference PMID: SIF file; 16729043
+ERBB4	stimulation	PI3K
+# Reference PMID: SIF file; 19573809; 16293724; 9346240; 12167717
+PI3K	stimulation	AKT1
+# Reference PMID: SIF file; 23421998
+AKT1	inhibition	CDKN1C
+# Reference PMID: SIF file; 19573809; 12167717
+PI3K	stimulation	AKT_family
+# Reference PMID: SIF file; 23421998
+AKT_family	inhibition	CDKN1C
+# Reference PMID: SIF file; 16729043
+ERBB4	stimulation	PIK3CA
+# Reference PMID: SIF file; 19573809; 16293724; 9346240; 12167717
+PIK3CA	stimulation	AKT1
+# Reference PMID: SIF file; 19573809
+PIK3CA	stimulation	AKT_family
+# Reference PMID: SIF file; 23723069
+LRIG3	stimulation	ERBB2
+# Reference PMID: SIF file; 12049736
+ERBB2	inhibition	CDK1
+# Reference PMID: SIF file; 20150555
+CDK1	stimulation	SP1
+# Reference PMID: SIF file; 15247255
+SP1	stimulation	PDGFC
+# Reference PMID: SIF file; 8816440
+ERBB2	stimulation	EGFR
+# Reference PMID: SIF file; 22693070; 14967450
+EGFR	stimulation	STAT3
+# Reference PMID: SIF file; 26865625
+STAT3	stimulation	GAP43
+# Reference PMID: SIF file; 15173068
+ERBB2	stimulation	ESR1
+# Reference PMID: SIF file; 11517191
+ESR1	stimulation	TGFA
+# Reference PMID: SIF file; 18757723
+TGFA	stimulation	NKD2
+# Reference PMID: SIF file; 25778398
+FBXL7	stimulation	Cullin 1-RBX1-Skp1
+# Reference PMID: SIF file; 14739463
+Cullin 1-RBX1-Skp1	inhibition	JUN
+# Reference PMID: SIF file; 12393465
+JUN	stimulation	SPI1
+# Reference PMID: SIF file; 24086757
+SPI1	stimulation	TAL2
+# Reference PMID: SIF file; 14684739
+HECW1	inhibition	DVL1
+# Reference PMID: SIF file; 18347071
+DVL1	stimulation	JUN
+# Reference PMID: SIF file; 18719589
+BMP7	stimulation	MAPK14
+# Reference PMID: SIF file; 25056917
+MAPK14	stimulation	GATA2
+# Reference PMID: SIF file; 24583263
+GATA2	stimulation	SPI1
+# Reference PMID: SIF file; 18719589
+BMP7	stimulation	PPARG
+# Reference PMID: SIF file; 17681149
+PPARG	stimulation	JUN
+# Reference PMID: SIF file; 16431920
+PPARG	stimulation	CEBPA
+# Reference PMID: SIF file; 17671233
+CEBPA	stimulation	SPI1
+# Reference PMID: SIF file; 24298020
+VRK2	stimulation	DCX DET1-COP1
+# Reference PMID: SIF file; 14739464
+DCX DET1-COP1	inhibition	JUN
+# Reference PMID: SIF file; 25270598
+KCTD17	stimulation	Cullin 3-RBX1-Skp1
+# Reference PMID: SIF file; 26687681
+Cullin 3-RBX1-Skp1	inhibition	PIK3C3
+# Reference PMID: SIF file; 10698680
+PIK3C3	stimulation	AKT1
+# Reference PMID: SIF file; 10698680
+PIK3C3	stimulation	AKT_family
+# Reference PMID: SIF file; 23135275
+Cullin 3-RBX1-Skp1	inhibition	PPP2R5B
+# Reference PMID: SIF file; 16495456
+PPP2R5B	inhibition	AKT1
+# Reference PMID: SIF file; 16495456
+PPP2R5B	inhibition	AKT_family
+# Reference PMID: SIF file; 23387299; 23838290
+Cullin 3-RBX1-Skp1	inhibition	WNK1
+# Reference PMID: SIF file; 15350218
+WNK1	stimulation	SYT2
+# Reference PMID: SIF file; 10935626
+MFNG	stimulation	NOTCH1
+# Reference PMID: SIF file; 16847353
+NOTCH1	stimulation	MYC
+# Reference PMID: SIF file; 19786833
+MYC	stimulation	DNMT3A
+# Reference PMID: SIF file; 24708856
+JUN	stimulation	URS000062749E_9606
+# Reference PMID: SIF file; 26622774
+SPI1	stimulation	MEIS1
+# Reference PMID: SIF file; 22117070
+GXYLT2	stimulation	NOTCH1
+# Reference PMID: SIF file; 28067271; 21902831
+MAPK14	bimodal	EZH2
+# Reference PMID: SIF file; 20565746
+EZH2	inhibition	HOXA9
+# Reference PMID: SIF file; 9343407
+HOXA9	stimulation	MEIS1
+# Reference PMID: SIF file; 20887952
+MAPK14	stimulation	Polycomb repressive complex 2
+# Reference PMID: SIF file; 20565746
+Polycomb repressive complex 2	inhibition	HOXA9
+# Reference PMID: SIF file; 17681149
+PPARG	inhibition	NfKb-p65/p50
+# Reference PMID: SIF file; 18619954; 26055960
+NfKb-p65/p50	stimulation	URS000062749E_9606
+# Reference PMID: SIF file; 18719589
+BMP7	stimulation	PPARGC1A
+# Reference PMID: SIF file; 20404331
+PPARGC1A	inhibition	NfKb-p65/p50
+# Reference PMID: SIF file; 24298020
+VRK2	inhibition	TRiC
+# Reference PMID: SIF file; 36185250
+TRiC	stimulation	MYC
+# Reference PMID: SIF file; 9182803
+NRTN	stimulation	RET
+# Reference PMID: SIF file; 12242309; 15994200
+RET	stimulation	AKT_family
+# Reference PMID: SIF file; 8622669; 7535770; 17548358; 17126298
+RET	stimulation	MAPK14
+# Reference PMID: SIF file; 22820251
+MAPK14	stimulation	CDKN1C
+# Reference PMID: SIF file; 15994200
+RET	stimulation	AKT1
+# Reference PMID: SIF file; 25778398
+FBXL7	inhibition	BIRC5
+# Reference PMID: SIF file; 10587640; 9850056
+BIRC5	inhibition	CASP3
+# Reference PMID: SIF file; 10579725
+CASP3	inhibition	AKT_family
+# Reference PMID: SIF file; 10579725
+CASP3	inhibition	AKT1
+# Reference PMID: SIF file; 23086937
+Cullin 1-RBX1-Skp1	inhibition	BRCA1
+# Reference PMID: SIF file; 19074868
+BRCA1	inhibition	AKT_family
+# Reference PMID: SIF file; 19074868
+BRCA1	inhibition	AKT1
+# Reference PMID: SIF file; 20837657
+DVL1	inhibition	GSK3B
+# Reference PMID: SIF file; 17726008
+GSK3B	inhibition	MAPK14
+# Reference PMID: SIF file; 23151663
+DVL1	stimulation	RAC1
+# Reference PMID: SIF file; 21712438
+RAC1	stimulation	MAPK14
+# Reference PMID: SIF file; 16153436
+RET	stimulation	MAPK3
+# Reference PMID: SIF file; 11904305; 14593115; 14744793; 19318349
+MAPK3	stimulation	SP1
+# Reference PMID: SIF file; 16153436
+RET	stimulation	MAPK1
+# Reference PMID: SIF file; 11904305; 19318349
+MAPK1	stimulation	SP1
+# Reference PMID: SIF file; 16153436
+RET	stimulation	Gbeta_family
+# Reference PMID: SIF file; 11904305
+Gbeta_family	stimulation	SP1
+# Reference PMID: SIF file; 16153436
+RET	stimulation	ERK1/2_family
+# Reference PMID: SIF file; 11085989
+ERK1/2_family	stimulation	EGR1
+# Reference PMID: SIF file; 15247255
+EGR1	stimulation	PDGFC
+# Reference PMID: SIF file; 23616010
+ERK1/2_family	stimulation	SP1
+# Reference PMID: SIF file; 14551213; 19723038
+MAPK3	stimulation	STAT3
+# Reference PMID: SIF file; 18691976; 17502367
+MAPK14	stimulation	STAT3
+# Reference PMID: SIF file; 16537363
+AKT_family	stimulation	PRKACA
+# Reference PMID: SIF file; 7525582
+PRKACA	inhibition	DSP
+# Reference PMID: SIF file; 16537363
+AKT1	stimulation	PRKACA
+# Reference PMID: SIF file; 11416124
+MAPK1	stimulation	MAFA
+# Reference PMID: SIF file; 17149590
+MAFA	stimulation	PCSK1
+# Reference PMID: SIF file; 9829964
+AKT_family	stimulation	CREB1
+# Reference PMID: SIF file; 8999965
+CREB1	stimulation	PCSK1
+# Reference PMID: SIF file; 9829964
+AKT1	stimulation	CREB1
+# Reference PMID: SIF file; 11470823
+RET	stimulation	DOK4
+# Reference PMID: SIF file; 12730241
+DOK4	stimulation	FYN
+# Reference PMID: SIF file; 11711534
+FYN	stimulation	TOM1L1
+# Reference PMID: SIF file; 16081417
+AKT_family	stimulation	WNK1
+# Reference PMID: SIF file; 16081417
+AKT1	stimulation	WNK1
+# Reference PMID: SIF file; 11591772
+NOTCH1	stimulation	NFKB1
+# Reference PMID: SIF file; 9450761
+NFKB1	form_complex	NfKb-p65/p50
+# Reference PMID: SIF file; 26865625
+NfKb-p65/p50	stimulation	GAP43
+# Reference PMID: SIF file; 12107827
+NOTCH1	stimulation	PPARG
+# Reference PMID: SIF file; 17681149
+PPARG	inhibition	STAT3
+# Reference PMID: SIF file; 19319192
+Cullin 1-RBX1-Skp1	inhibition	MYOD1
+# Reference PMID: SIF file; 9148896
+MYOD1	inhibition	SP1
+# Reference PMID: SIF file; 15466486
+MAPK14	stimulation	MYOD1
+# Reference PMID: SIF file; 16431920
+PPARG	inhibition	HDAC1
+# Reference PMID: SIF file; 21983014
+HDAC1	inhibition	EGR1
+# Reference PMID: SIF file; 21983014
+NfKb-p65/p50	inhibition	EGR1
+# Reference PMID: SIF file; 10671503
+NfKb-p65/p50	stimulation	SP1
+# Reference PMID: SIF file; 26868148
+Cullin 1-RBX1-Skp1	inhibition	TP53
+# Reference PMID: SIF file; 18840648
+TP53	stimulation	ANKRD11
+# Reference PMID: SIF file; 29274743
+ANKRD11	stimulation	GAP43
+# Reference PMID: SIF file; 10321728
+Cullin 1-RBX1-Skp1	inhibition	CHUK
+# Reference PMID: SIF file; 10469655
+CHUK	inhibition	NfKb-p65/p50
+# Reference PMID: SIF file; 26171402
+Cullin 1-RBX1-Skp1	inhibition	IL22RA1
+# Reference PMID: SIF file; 12087100
+IL22RA1	stimulation	STAT3
+# Reference PMID: SIF file; 10321728
+Cullin 1-RBX1-Skp1	inhibition	IKBKB
+# Reference PMID: SIF file; 11158290; 10469655
+IKBKB	inhibition	NfKb-p65/p50
+# Reference PMID: SIF file; 25309941
+GSK3B	stimulation	NfKb-p65/p50
+# Reference PMID: SIF file; 36185250
+TRiC	stimulation	STAT3
+# Reference PMID: SIF file; 18809579
+Cullin 1-RBX1-Skp1	inhibition	HIPK2
+# Reference PMID: SIF file; 20573984
+HIPK2	stimulation	CREB1
+# Reference PMID: SIF file; 16407227
+HIPK2	stimulation	PAX6
+# Reference PMID: SIF file; 19034419
+PAX6	stimulation	PCSK1
+# Reference PMID: SIF file; 11282024
+BMP7	stimulation	ACVR1
+# Reference PMID: SIF file; 18801898
+ACVR1	inhibition	AKT1
+# Reference PMID: SIF file; 18801898
+ACVR1	inhibition	AKT_family
+# Reference PMID: SIF file; 20626350; 12181443
+MAPK14	bimodal	AKT_family
+# Reference PMID: SIF file; 18042454
+GSK3B	bimodal	MAFA
+# Reference PMID: SIF file; 12162494
+GSK3B	stimulation	CREB1
+# Reference PMID: SIF file; 20626350; 12181443
+MAPK14	bimodal	AKT2
+# Reference PMID: SIF file; 9829964
+AKT2	stimulation	CREB1
+# Reference PMID: SIF file; 14499342; 7592979; 8846784
+MAPK14	stimulation	MAPKAPK2
+# Reference PMID: SIF file; 8887554; 17389598; 20626350
+MAPKAPK2	stimulation	CREB1
+# Reference PMID: SIF file; 9687510; 15568999
+MAPK14	stimulation	RPS6KA5
+# Reference PMID: SIF file; 9687510
+RPS6KA5	stimulation	CREB1
+# Reference PMID: SIF file; 12414794; 11909979
+RPS6KA5	stimulation	ATF1
+# Reference PMID: SIF file; 8999965
+ATF1	stimulation	PCSK1
+# Reference PMID: SIF file; 9792677; 10806207
+MAPK14	stimulation	RPS6KA4
+# Reference PMID: SIF file; 17668895
+RPS6KA4	stimulation	CREB1
+# Reference PMID: SIF file; 11909979; 20626350
+RPS6KA4	stimulation	ATF1
+# Reference PMID: SIF file; 18451303; 17726008
+MAPK14	inhibition	GSK3B
+# Reference PMID: SIF file; 14512875; 15520018
+MAPK14	stimulation	SMAD3
+# Reference PMID: SIF file; 17251190
+SMAD3	inhibition	PAX6
+# Reference PMID: SIF file; 23128507
+PPARG	inhibition	PTEN
+# Reference PMID: SIF file; 21385900
+PTEN	inhibition	CREB1
+# Reference PMID: SIF file; 9748228
+BMP7	stimulation	ACVR2B
+# Reference PMID: SIF file; 21966641
+ACVR2B	stimulation	SMAD2
+# Reference PMID: SIF file; 9689110
+SMAD2	stimulation	CREB1
+# Reference PMID: SIF file; 21966641
+ACVR2B	stimulation	SMAD3
+# Reference PMID: SIF file; 17805301
+DCX DET1-COP1	inhibition	CRTC2
+# Reference PMID: SIF file; 26652733
+CRTC2	stimulation	CREB1
+# Reference PMID: SIF file; 15879307; 12138194
+MAPK14	stimulation	ESR1
+# Reference PMID: SIF file; 20188673
+MAPK14	stimulation	ADAM17
+# Reference PMID: SIF file; 26284334
+ADAM17	stimulation	TGFA
+# Reference PMID: SIF file; 25654763
+Cullin 1-RBX1-Skp1	inhibition	FBXL7
+# Reference PMID: SIF file; 8816440
+ERBB2	stimulation	ERBB4
+# Reference PMID: SIF file; 10358079; 16729043
+EGFR	stimulation	STAT5A
+# Reference PMID: SIF file; 10194762
+MAPK3	stimulation	STAT5A
+# Reference PMID: SIF file; 10194762
+MAPK1	stimulation	STAT5A
+# Reference PMID: SIF file; 10194762
+Gbeta_family	stimulation	STAT5A
+# Reference PMID: SIF file; 10194762
+ERK1/2_family	stimulation	STAT5A
+# Reference PMID: SIF file; 20596030
+PTEN	inhibition	STAT5A
+# Reference PMID: SIF file; 24280869
+DNMT3A	inhibition	HOXA9
+# Reference PMID: SIF file; 24708856
+URS000062749E_9606	stimulation	JUN
+# Reference PMID: SIF file; 22195016
+URS000062749E_9606	inhibition	SPI1
+# Reference PMID: SIF file; 25092144
+SPI1	stimulation	URS000062749E_9606
+# Reference PMID: SIF file; 19933931
+URS000062749E_9606	inhibition	MYC
+# Reference PMID: SIF file; 19805105
+PIK3CA	form_complex	PI3K
+# Reference PMID: SIF file; 14967450; 26918608
+EGFR	stimulation	PI3K
+# Reference PMID: SIF file; 16169518
+ESR1	stimulation	PI3K
+# Reference PMID: SIF file; 21779497
+PI3K	stimulation	RAC1
+# Reference PMID: SIF file; 16293724
+PI3K	stimulation	AKT2
+# Reference PMID: SIF file; 18794881
+PTEN	inhibition	PI3K
+# Reference PMID: SIF file; 11108261
+AKT1	stimulation	ESR1
+# Reference PMID: SIF file; 15837948
+AKT1	inhibition	GATA2
+# Reference PMID: SIF file; 16224021
+AKT1	inhibition	EZH2
+# Reference PMID: SIF file; 17554339
+AKT1	inhibition	PPARGC1A
+# Reference PMID: SIF file; 20085797; 17428466
+AKT1	stimulation	BRCA1
+# Reference PMID: SIF file; 9373175; 23552696; 15829723
+AKT1	inhibition	GSK3B
+# Reference PMID: SIF file; 10617634
+AKT1	inhibition	RAC1
+# Reference PMID: SIF file; 19609947
+AKT1	stimulation	CHUK
+# Reference PMID: SIF file; 15048128
+AKT1	inhibition	SMAD3
+# Reference PMID: SIF file; 20596030; 19903340
+PTEN	inhibition	AKT1
+# Reference PMID: SIF file; 11108261
+AKT_family	stimulation	ESR1
+# Reference PMID: SIF file; 12697749
+AKT_family	inhibition	MAPK14
+# Reference PMID: SIF file; 15837948
+AKT_family	inhibition	GATA2
+# Reference PMID: SIF file; 16224021
+AKT_family	inhibition	EZH2
+# Reference PMID: SIF file; 17554339
+AKT_family	inhibition	PPARGC1A
+# Reference PMID: SIF file; 20085797; 17428466
+AKT_family	stimulation	BRCA1
+# Reference PMID: SIF file; 9373175; 23552696; 28712664
+AKT_family	inhibition	GSK3B
+# Reference PMID: SIF file; 10617634
+AKT_family	inhibition	RAC1
+# Reference PMID: SIF file; 19609947
+AKT_family	stimulation	CHUK
+# Reference PMID: SIF file; 15048128
+AKT_family	inhibition	SMAD3
+# Reference PMID: SIF file; 20596030; 19903340
+PTEN	inhibition	AKT_family
+# Reference PMID: SIF file; 21779497
+PIK3CA	stimulation	RAC1
+# Reference PMID: SIF file; 16293724
+PIK3CA	stimulation	AKT2
+# Reference PMID: SIF file; 18794881
+PTEN	inhibition	PIK3CA
+# Reference PMID: SIF file; 12354693; 11279155
+EGFR	stimulation	ERBB2
+# Reference PMID: SIF file; 16554461
+NOTCH1	stimulation	ERBB2
+# Reference PMID: SIF file; 18799465
+PRKACA	stimulation	ERBB2
+# Reference PMID: SIF file; 8360196
+CDK1	inhibition	EGFR
+# Reference PMID: SIF file; 20513426
+CDK1	inhibition	PIK3C3
+# Reference PMID: SIF file; 21659531
+CDK1	inhibition	EZH2
+# Reference PMID: SIF file; 11861764
+CDK1	stimulation	BIRC5
+# Reference PMID: SIF file; 10550055; 19683496
+CDK1	stimulation	BRCA1
+# Reference PMID: SIF file; 14749395; 21902831
+CDK1	inhibition	MYOD1
+# Reference PMID: SIF file; 24173284
+CDK1	stimulation	TP53
+# Reference PMID: SIF file; 11887937
+EGFR	stimulation	ESR1
+# Reference PMID: SIF file; 16585207
+TGFA	stimulation	EGFR
+# Reference PMID: SIF file; 16932740
+MAPK14	inhibition	EGFR
+# Reference PMID: SIF file; 26592448
+EGFR	stimulation	MYC
+# Reference PMID: SIF file; 1651322
+MAPK3	inhibition	EGFR
+# Reference PMID: SIF file; 1651322
+MAPK1	inhibition	EGFR
+# Reference PMID: SIF file; 1651322
+Gbeta_family	inhibition	EGFR
+# Reference PMID: SIF file; 10816576
+ERK1/2_family	inhibition	EGFR
+# Reference PMID: SIF file; 10029407
+TP53	stimulation	EGFR
+# Reference PMID: SIF file; 20626350
+ADAM17	stimulation	EGFR
+# Reference PMID: SIF file; 21408055
+STAT3	stimulation	MYC
+# Reference PMID: SIF file; 26512963
+STAT3	stimulation	BIRC5
+# Reference PMID: SIF file; 25787076
+STAT3	stimulation	CASP3
+# Reference PMID: SIF file; 25194572
+STAT3	stimulation	MYOD1
+# Reference PMID: SIF file; 20626350; 12763138
+RPS6KA5	stimulation	STAT3
+# Reference PMID: SIF file; 16144913
+ESR1	inhibition	PPARG
+# Reference PMID: SIF file; 11244506
+BRCA1	inhibition	ESR1
+# Reference PMID: SIF file; 16076840
+GSK3B	stimulation	ESR1
+# Reference PMID: SIF file; 18372406; 17615152
+MAPK3	stimulation	ESR1
+# Reference PMID: SIF file; 18372406; 17615152; 12466266
+MAPK1	stimulation	ESR1
+# Reference PMID: SIF file; 17615152
+Gbeta_family	stimulation	ESR1
+# Reference PMID: SIF file; 17615152
+ERK1/2_family	stimulation	ESR1
+# Reference PMID: SIF file; 15193262; 9891036
+PRKACA	bimodal	ESR1
+# Reference PMID: SIF file; 23242655
+HDAC1	inhibition	ESR1
+# Reference PMID: SIF file; 11139588
+AKT2	stimulation	ESR1
+# Reference PMID: SIF file; 25778398
+Cullin 1-RBX1-Skp1	inhibition	BIRC5
+# Reference PMID: SIF file; 17041602
+SPI1	stimulation	JUN
+# Reference PMID: SIF file; 18174238
+NfKb-p65/p50	stimulation	JUN
+# Reference PMID: SIF file; 16023596; 1846781
+GSK3B	inhibition	JUN
+# Reference PMID: SIF file; 12169099
+MAPK3	stimulation	JUN
+# Reference PMID: SIF file; 23616010
+MAPK1	stimulation	JUN
+# Reference PMID: SIF file; 12169099
+Gbeta_family	stimulation	JUN
+# Reference PMID: SIF file; 23616010
+ERK1/2_family	stimulation	JUN
+# Reference PMID: SIF file; 10871633
+JUN	inhibition	SMAD3
+# Reference PMID: SIF file; 12433372
+SPI1	inhibition	GATA2
+# Reference PMID: SIF file; 16547521
+Cullin 3-RBX1-Skp1	inhibition	DVL1
+# Reference PMID: SIF file; 12589053
+MAPK14	stimulation	PPARG
+# Reference PMID: SIF file; 11741533
+MAPK14	stimulation	PPARGC1A
+# Reference PMID: SIF file; 14970175
+MAPK14	inhibition	CASP3
+# Reference PMID: SIF file; 18481201; 11842088
+MAPK1	inhibition	MAPK14
+# Reference PMID: SIF file; 11842088
+ERK1/2_family	inhibition	MAPK14
+# Reference PMID: SIF file; 15735648
+FYN	stimulation	MAPK14
+# Reference PMID: SIF file; 11258706; 22975381; 10781582; 10581258; 10747897; 17535811; 15642743
+MAPK14	stimulation	TP53
+# Reference PMID: SIF file; 12697749
+AKT2	inhibition	MAPK14
+# Reference PMID: SIF file; 19772889; 20510530
+GATA2	inhibition	PPARG
+# Reference PMID: SIF file; 32991581
+PPARG	stimulation	PPARGC1A
+# Reference PMID: SIF file; 18596912; 11733495
+MAPK3	inhibition	PPARG
+# Reference PMID: SIF file; 18596912; 11733495
+MAPK1	inhibition	PPARG
+# Reference PMID: SIF file; 18596912
+Gbeta_family	inhibition	PPARG
+# Reference PMID: SIF file; 12270934; 11733495
+ERK1/2_family	stimulation	PPARG
+# Reference PMID: SIF file; 29212876
+EGR1	inhibition	PPARG
+# Reference PMID: SIF file; 20638365
+PRKACA	stimulation	PPARG
+# Reference PMID: SIF file; 12032779
+CEBPA	inhibition	MYC
+# Reference PMID: SIF file; 10567568
+GSK3B	stimulation	CEBPA
+# Reference PMID: SIF file; 14701740
+MAPK3	inhibition	CEBPA
+# Reference PMID: SIF file; 14701740
+MAPK1	inhibition	CEBPA
+# Reference PMID: SIF file; 14701740
+Gbeta_family	inhibition	CEBPA
+# Reference PMID: SIF file; 12270934
+ERK1/2_family	stimulation	CEBPA
+# Reference PMID: SIF file; 16431920
+HDAC1	inhibition	CEBPA
+# Reference PMID: SIF file; 12524424
+SMAD3	inhibition	CEBPA
+# Reference PMID: SIF file; 24298020
+DCX DET1-COP1	inhibition	TRiC
+# Reference PMID: SIF file; 20212113
+PIK3C3	stimulation	PTEN
+# Reference PMID: SIF file; 15569672
+PPP2R5B	stimulation	CASP3
+# Reference PMID: SIF file; 12123574
+GSK3B	stimulation	NOTCH1
+# Reference PMID: SIF file; 14638857
+SMAD3	stimulation	NOTCH1
+# Reference PMID: SIF file; 10882063
+ADAM17	stimulation	NOTCH1
+# Reference PMID: SIF file; 16023596; 11018017; 14563837
+GSK3B	inhibition	MYC
+# Reference PMID: SIF file; 32482868
+MAPK3	stimulation	MYC
+# Reference PMID: SIF file; 8386367
+MAPK1	stimulation	MYC
+# Reference PMID: SIF file; 32482868
+Gbeta_family	stimulation	MYC
+# Reference PMID: SIF file; 11018017
+ERK1/2_family	stimulation	MYC
+# Reference PMID: SIF file; 11804592
+MYC	inhibition	SMAD3
+# Reference PMID: SIF file; 14993291
+SMAD3	inhibition	MYC
+# Reference PMID: SIF file; 11804592
+MYC	inhibition	SMAD2
+# Reference PMID: SIF file; 23110252
+EZH2	form_complex	Polycomb repressive complex 2
+# Reference PMID: SIF file; 17959673; 9660950
+PRKACA	stimulation	NfKb-p65/p50
+# Reference PMID: SIF file; 20219869
+NfKb-p65/p50	inhibition	MYOD1
+# Reference PMID: SIF file; 17183360
+HDAC1	inhibition	NfKb-p65/p50
+# Reference PMID: SIF file; 15044535
+NfKb-p65/p50	stimulation	TP53
+# Reference PMID: SIF file; 12628924
+RPS6KA5	stimulation	NfKb-p65/p50
+# Reference PMID: SIF file; 17183360
+RPS6KA4	stimulation	NfKb-p65/p50
+# Reference PMID: SIF file; 11557984
+CREB1	stimulation	PPARGC1A
+# Reference PMID: SIF file; 20404331
+PPARGC1A	inhibition	NFKB1
+# Reference PMID: SIF file; 17554339
+AKT2	inhibition	PPARGC1A
+# Reference PMID: SIF file; 20682772
+PRKACA	inhibition	RET
+# Reference PMID: SIF file; 11965534
+TP53	inhibition	BIRC5
+# Reference PMID: SIF file; 12149654
+CASP3	inhibition	BRCA1
+# Reference PMID: SIF file; 11741536
+CASP3	inhibition	IKBKB
+# Reference PMID: SIF file; 28646232; 16039586
+MAPK3	inhibition	GSK3B
+# Reference PMID: SIF file; 28646232; 16039586
+MAPK1	inhibition	GSK3B
+# Reference PMID: SIF file; 16039586
+Gbeta_family	inhibition	GSK3B
+# Reference PMID: SIF file; 28646232
+ERK1/2_family	inhibition	GSK3B
+# Reference PMID: SIF file; 19836308
+PRKACA	inhibition	GSK3B
+# Reference PMID: SIF file; 12871932
+GSK3B	stimulation	NFKB1
+# Reference PMID: SIF file; 11483158
+GSK3B	stimulation	TP53
+# Reference PMID: SIF file; 16293724; 23552696
+AKT2	inhibition	GSK3B
+# Reference PMID: SIF file; 18172167
+GSK3B	inhibition	SMAD3
+# Reference PMID: SIF file; 16107342
+GSK3B	inhibition	PTEN
+# Reference PMID: SIF file; 19060905
+ERK1/2_family	stimulation	MAPK3
+# Reference PMID: SIF file; 12955074
+MAPK3	stimulation	TP53
+# Reference PMID: SIF file; 14967450; 23583303
+MAPK3	stimulation	MAPKAPK2
+# Reference PMID: SIF file; 15568999
+MAPK3	stimulation	RPS6KA5
+# Reference PMID: SIF file; 9792677
+MAPK3	stimulation	RPS6KA4
+# Reference PMID: SIF file; 10197981
+MAPK3	inhibition	SMAD3
+# Reference PMID: SIF file; 12193595; 10197981; 19115199
+MAPK3	stimulation	SMAD2
+# Reference PMID: SIF file; 12058067
+MAPK3	stimulation	ADAM17
+# Reference PMID: SIF file; 8846784
+MAPK1	stimulation	MAPKAPK2
+# Reference PMID: SIF file; 18267068; 9687510; 15568999; 11940578
+MAPK1	stimulation	RPS6KA5
+# Reference PMID: SIF file; 19914168; 19914161; 10197981
+MAPK1	inhibition	SMAD3
+# Reference PMID: SIF file; 12193595; 10197981
+MAPK1	stimulation	SMAD2
+# Reference PMID: SIF file; 14967450
+Gbeta_family	stimulation	MAPKAPK2
+# Reference PMID: SIF file; 15568999
+Gbeta_family	stimulation	RPS6KA5
+# Reference PMID: SIF file; 10197981
+Gbeta_family	inhibition	SMAD3
+# Reference PMID: SIF file; 10197981
+Gbeta_family	stimulation	SMAD2
+# Reference PMID: SIF file; 14967450
+ERK1/2_family	stimulation	MAPKAPK2
+# Reference PMID: SIF file; 15568999; 18267068
+ERK1/2_family	stimulation	RPS6KA5
+# Reference PMID: SIF file; 10197981
+ERK1/2_family	inhibition	SMAD3
+# Reference PMID: SIF file; 12193595; 10197981; 26194464
+ERK1/2_family	stimulation	SMAD2
+# Reference PMID: SIF file; 12058067
+ERK1/2_family	stimulation	ADAM17
+# Reference PMID: SIF file; 10391889
+ATF1	stimulation	EGR1
+# Reference PMID: SIF file; 8336722; 21902831; 15568017
+PRKACA	stimulation	CREB1
+# Reference PMID: SIF file; 20658524
+PRKACA	stimulation	FYN
+# Reference PMID: SIF file; 17959673; 19531803
+PRKACA	stimulation	NFKB1
+# Reference PMID: SIF file; 9016641
+PRKACA	stimulation	ATF1
+# Reference PMID: SIF file; 21902831
+CREB1	stimulation	MYOD1
+# Reference PMID: SIF file; 10469655; 11297557
+CHUK	inhibition	NFKB1
+# Reference PMID: SIF file; 11158290; 10469655
+IKBKB	inhibition	NFKB1
+# Reference PMID: SIF file; 17604717
+AKT2	stimulation	NFKB1
+# Reference PMID: SIF file; 11684023
+HDAC1	inhibition	MYOD1
+# Reference PMID: SIF file; 11711431
+SMAD3	inhibition	MYOD1
+# Reference PMID: SIF file; 18840648
+ANKRD11	stimulation	TP53
+# Reference PMID: SIF file; 17210684
+HIPK2	stimulation	TP53
+# Reference PMID: SIF file; 19797274
+RPS6KA4	inhibition	TP53
+# Reference PMID: SIF file; 10022904
+CHUK	stimulation	IKBKB
+# Reference PMID: SIF file; 19609947
+AKT2	stimulation	CHUK
+# Reference PMID: 15611276; 15489227; 10521409
+CHUK	stimulation	RELA
+# Reference PMID: 19805105
+PIK3R1	form_complex	PI3K
+# Reference PMID: 10671503
+RELA	stimulation	EGR1
+# Reference PMID: 14729945
+PIK3CA	stimulation	PIK3R1
+# Reference PMID: 14665640
+PIK3R1	stimulation	PIK3CA
+# Reference PMID: 14967450; 26918608
+EGFR	stimulation	PIK3R1
+# Reference PMID: 16407239; 17183360; 22761446
+GSK3B	stimulation	RELA
+# Reference PMID: 18174238
+RELA	stimulation	JUN
+# Reference PMID: 17205132
+CUL1	form_complex	Cullin 1-RBX1-Skp1
+# Reference PMID: 17183360
+RPS6KA4	stimulation	RELA
+# Reference PMID: 17183360
+HDAC1	inhibition	RELA
+# Reference PMID: 15489227; 16046471
+IKBKB	stimulation	RELA
+# Reference PMID: 10671503
+RELA	stimulation	SP1
+# Reference PMID: 9450761
+NFKB1	stimulation	RELA
+# Reference PMID: 16169518
+ESR1	stimulation	PIK3R1
+# Reference PMID: 12835716
+MYC	stimulation	CUL1
+# Reference PMID: 9450761
+RELA	form_complex	NfKb-p65/p50
+# Reference PMID: 12628924
+RPS6KA5	stimulation	RELA
+# Reference PMID: 9660950
+PRKACA	stimulation	RELA
