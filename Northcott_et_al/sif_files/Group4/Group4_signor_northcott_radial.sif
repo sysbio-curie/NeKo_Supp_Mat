@@ -1,0 +1,7012 @@
+# Reference PMID: 23563140
+MED12	form_complex	SIGNOR-C406
+# Reference PMID: 7513049
+LHX2	stimulation	CGA
+# Reference PMID: 9697309
+LHX2	inhibition	MSX1
+# Reference PMID: 29736013
+KDM6A	inhibition	ELF4
+# Reference PMID: 29736013
+KDM6A	inhibition	ETS2
+# Reference PMID: 24561908
+KDM6A	stimulation	HOXC11
+# Reference PMID: 29736013
+KDM6A	inhibition	FLI1
+# Reference PMID: 24561908
+KDM6A	stimulation	HOXA10
+# Reference PMID: 24561908
+KDM6A	stimulation	HOXA11
+# Reference PMID: 29736013
+KDM6A	inhibition	SPI1
+# Reference PMID: 24561908
+KDM6A	stimulation	HOXA9
+# Reference PMID: 29736013
+KDM6A	inhibition	ETV6
+# Reference PMID: 29736013
+KDM6A	inhibition	ERG
+# Reference PMID: 11238441
+ZIC1	stimulation	GLI1
+# Reference PMID: 11238441
+ZIC1	stimulation	GLI3
+# Reference PMID: 16160006
+CDK6	bimodal	CDKN1B
+# Reference PMID: 8114739
+CDK6	form_complex	SIGNOR-C234
+# Reference PMID: 15809340
+CDK6	inhibition	RB1
+# Reference PMID: 16508017
+CDK6	inhibition	CDKN1A
+# Reference PMID: 8114739
+CDK6	form_complex	SIGNOR-C143
+# Reference PMID: 21059642; 16046550
+CDK6	stimulation	RUNX1
+# Reference PMID: 10026229
+EN2	inhibition	FGF8
+# Reference PMID: 24680668
+KMT2D	form_complex	SIGNOR-C88
+# Reference PMID: 16603732
+KMT2D	stimulation	ESR1
+# Reference PMID: 29326336
+ARID5B	stimulation	MYC
+# Reference PMID: 29326336
+ARID5B	stimulation	RUNX1
+# Reference PMID: 29326336
+ARID5B	stimulation	TAL1
+# Reference PMID: 21532585
+ARID5B	stimulation	PHF2
+# Reference PMID: 29326336
+ARID5B	stimulation	GATA3
+# Reference PMID: 30385408
+KMT2C	stimulation	CD274
+# Reference PMID: 21261500
+GFI1B	stimulation	MEF2C
+# Reference PMID: 16488997
+SIX1	stimulation	EZR
+# Reference PMID: 9826681
+SIX1	stimulation	MYOG
+# Reference PMID: 17197705
+GFI1	inhibition	SPI1
+# Reference PMID: 17213822
+GFI1	inhibition	ETS1
+# Reference PMID: 16923394
+GFI1	inhibition	EGR2
+# Reference PMID: 17213822
+GFI1	inhibition	BAX
+# Reference PMID: 19497851
+DLX5	stimulation	MYC
+# Reference PMID: 9111364
+DLX5	inhibition	MSX1
+# Reference PMID: 17335796
+DLX5	stimulation	SPP1
+# Reference PMID: 9111364
+DLX5	inhibition	MSX2
+# Reference PMID: 22298955; 17335796
+DLX5	stimulation	RUNX2
+# Reference PMID: 25232744
+FOXP2	stimulation	AUTS2
+# Reference PMID: 21832174
+FOXP2	inhibition	MET
+# Reference PMID: 25232744
+FOXP2	stimulation	GRIN2B
+# Reference PMID: 18212739
+BRCA2	form_complex	SIGNOR-C301
+# Reference PMID: 21228164
+TBR1	inhibition	FEZF2
+# Reference PMID: 25232744
+TBR1	stimulation	FOXP2
+# Reference PMID: 20615956
+TBR1	stimulation	AUTS2
+# Reference PMID: 21261500
+TAL1	stimulation	MEF2C
+# Reference PMID: 30653565
+TAL1	stimulation	FUBP1
+# Reference PMID: 21536859
+TAL1	stimulation	ERG
+# Reference PMID: 22792348
+TAL1	stimulation	ANGPT2
+# Reference PMID: 10623575
+LHX1	stimulation	OTX2
+# Reference PMID: 23175188
+MYCN	stimulation	SIRT2
+# Reference PMID: 21261500
+MYCN	inhibition	MEF2C
+# Reference PMID: 18566016
+MYCN	stimulation	CTSD
+# Reference PMID: 19965638
+POU2F1	stimulation	GFI1B
+# Reference PMID: 23836662
+POU2F1	stimulation	SNAI2
+# Reference PMID: 23836662
+POU2F1	stimulation	TWIST1
+# Reference PMID: 11781715
+POU2F1	inhibition	IL4
+# Reference PMID: 30770393
+LMX1A	stimulation	CUX2
+# Reference PMID: 12441302
+TLE1	stimulation	SIX6
+# Reference PMID: 17000779
+GLI3	inhibition	MED12
+# Reference PMID: 17005264
+LDB1	stimulation	LHX2
+# Reference PMID: 9697309
+MSX1	inhibition	LHX2
+# Reference PMID: 28669924
+SIGNOR-C88	stimulation	KDM6A
+# Reference PMID: 12835716
+MYC	stimulation	CDK6
+# Reference PMID: 23429262
+CDC25A	stimulation	CDK6
+# Reference PMID: 8891723; 16161044
+CDKN2A	inhibition	CDK6
+# Reference PMID: 8891723
+CDKN2C	inhibition	CDK6
+# Reference PMID: 7626805
+CDKN1A	inhibition	CDK6
+# Reference PMID: 14609955
+SIGNOR-C448	stimulation	EN2
+# Reference PMID: 22863532
+PAX7	stimulation	KMT2D
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	KMT2D
+# Reference PMID: 21532585
+PHF2	stimulation	ARID5B
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	KMT2C
+# Reference PMID: 19965638
+GATA1	stimulation	GFI1B
+# Reference PMID: 19965638
+NFYC	stimulation	GFI1B
+# Reference PMID: 19965638
+NFYB	stimulation	GFI1B
+# Reference PMID: 19965638
+NFYA	stimulation	GFI1B
+# Reference PMID: 16923394
+NAB2	inhibition	GFI1
+# Reference PMID: 20924107
+CEBPA	stimulation	GFI1
+# Reference PMID: 24708856
+URS000062749E_9606	inhibition	GFI1
+# Reference PMID: 17213822
+ETS1	inhibition	GFI1
+# Reference PMID: 16923394
+EGR2	inhibition	GFI1
+# Reference PMID: 21619873; 22298955
+SIGNOR-PF24	stimulation	DLX5
+# Reference PMID: 9111364
+MSX1	inhibition	DLX5
+# Reference PMID: 21619873; 22298955
+AKT1	stimulation	DLX5
+# Reference PMID: 12815054
+SIGNOR-C205	stimulation	DLX5
+# Reference PMID: 12815054
+SIGNOR-C215	stimulation	DLX5
+# Reference PMID: 20033915
+TBX22	inhibition	DLX5
+# Reference PMID: 19195802
+MECP2	inhibition	DLX5
+# Reference PMID: 18056716
+MAPK14	stimulation	DLX5
+# Reference PMID: 12815054
+SIGNOR-C85	stimulation	DLX5
+# Reference PMID: 9111364
+MSX2	inhibition	DLX5
+# Reference PMID: 17068183
+POU5F1	inhibition	DLX5
+# Reference PMID: 12815053
+PLK1	inhibition	BRCA2
+# Reference PMID: 19861535; 15199141
+FANCD2	stimulation	BRCA2
+# Reference PMID: 18985065
+SIGNOR-C302	stimulation	BRCA2
+# Reference PMID: 15930267
+SIGNOR-PF24	inhibition	TAL1
+# Reference PMID: 16298389
+SPI1	inhibition	TAL1
+# Reference PMID: 7632958
+GATA1	stimulation	TAL1
+# Reference PMID: 15930267
+AKT1	inhibition	TAL1
+# Reference PMID: 11904294
+MAPK3	inhibition	TAL1
+# Reference PMID: 11904294
+SIGNOR-PF25	inhibition	TAL1
+# Reference PMID: 11904294
+MAP2K1	inhibition	TAL1
+# Reference PMID: 22310283
+PRKACA	bimodal	TAL1
+# Reference PMID: 17962192
+STUB1	inhibition	TAL1
+# Reference PMID: 17068183
+POU5F1	inhibition	EOMES
+# Reference PMID: 19860666; 17419683
+GLI3	inhibition	MYCN
+# Reference PMID: 32766732
+SIGNOR-C450	stimulation	MYCN
+# Reference PMID: 23175188
+SIRT2	stimulation	MYCN
+# Reference PMID: 31583686
+SIGNOR-C451	stimulation	MYCN
+# Reference PMID: 21261500
+HOXA10	stimulation	MYCN
+# Reference PMID: 19860666
+GLI1	stimulation	MYCN
+# Reference PMID: 21261500
+HOXA9	stimulation	MYCN
+# Reference PMID: 20530484
+SOX9	stimulation	OTX2
+# Reference PMID: 31583686
+SIGNOR-C451	stimulation	OTX2
+# Reference PMID: 9556594
+HOXB1	stimulation	OTX2
+# Reference PMID: 31583686
+SIGNOR-C73	stimulation	OTX2
+# Reference PMID: 10623575
+FOXA2	inhibition	OTX2
+# Reference PMID: 9368058
+PRKDC	inhibition	POU2F1
+# Reference PMID: 23836662
+PER2	inhibition	POU2F1
+# Reference PMID: 9368058; 1684878
+PRKAA1	inhibition	POU2F1
+# Reference PMID: 15546612; 25344755
+SIGNOR-C406	inhibition	NOTCH1
+# Reference PMID: 15546612
+SIGNOR-C406	inhibition	SIGNOR-PF30
+# Reference PMID: 10993082
+SIGNOR-C406	inhibition	CCNH
+# Reference PMID: 29239838
+SIGNOR-C406	stimulation	STAT1
+# Reference PMID: 22945643; 18794899
+SIGNOR-C406	inhibition	E2F1
+# Reference PMID: 19914161; 19914168
+SIGNOR-C406	inhibition	SMAD1
+# Reference PMID: 19914161; 19914168
+SIGNOR-C406	inhibition	SMAD3
+# Reference PMID: 12045258
+CGA	stimulation	TSHR
+# Reference PMID: 8196184
+CGA	form_complex	SIGNOR-C412
+# Reference PMID: 15192231
+MSX1	inhibition	MYOD1
+# Reference PMID: 9111364
+MSX1	inhibition	DLX2
+# Reference PMID: 19380490
+ELF4	stimulation	MDM2
+# Reference PMID: 11175361
+ETS2	stimulation	SPP1
+# Reference PMID: 9582375
+HOXC11	stimulation	HNF1A
+# Reference PMID: 20879862
+FLI1	stimulation	IL10
+# Reference PMID: 12556498
+FLI1	stimulation	GATA1
+# Reference PMID: 17688409
+FLI1	inhibition	HOXA10
+# Reference PMID: 12556498
+FLI1	inhibition	KLF1
+# Reference PMID: 21536859
+FLI1	stimulation	ERG
+# Reference PMID: 21261500
+HOXA10	inhibition	MEF2C
+# Reference PMID: 17688409
+HOXA11	inhibition	HOXA10
+# Reference PMID: 19727442
+HOXA11	stimulation	PRL
+# Reference PMID: 10523830
+SPI1	stimulation	FLI1
+# Reference PMID: 16923394
+SPI1	stimulation	EGR2
+# Reference PMID: 25092144
+SPI1	stimulation	URS000062749E_9606
+# Reference PMID: 17041602
+SPI1	stimulation	JUN
+# Reference PMID: 10364157
+SPI1	inhibition	GATA1
+# Reference PMID: 12433372
+SPI1	inhibition	GATA2
+# Reference PMID: 19428102
+SPI1	inhibition	ANXA1
+# Reference PMID: 16923394
+SPI1	stimulation	NAB2
+# Reference PMID: 21261500
+HOXA9	inhibition	MEF2C
+# Reference PMID: 25252870
+HOXA9	stimulation	IGF1
+# Reference PMID: 17327400
+HOXA9	stimulation	PIM1
+# Reference PMID: 20805843
+HOXA9	stimulation	MSI2
+# Reference PMID: 16828711
+ETV6	stimulation	CDKN1A
+# Reference PMID: 15958056
+ETV6	stimulation	HBB
+# Reference PMID: 15958056
+ETV6	stimulation	HBA1
+# Reference PMID: 22140532
+ERG	stimulation	PIM1
+# Reference PMID: 23913826
+ERG	stimulation	WNT1
+# Reference PMID: 25277175
+ERG	inhibition	NKX3-1
+# Reference PMID: 21669963
+ERG	stimulation	SPP1
+# Reference PMID: 23913826
+ERG	stimulation	WNT3A
+# Reference PMID: 25277175
+ERG	stimulation	EZH2
+# Reference PMID: 18195090
+ERG	stimulation	CDH5
+# Reference PMID: 21242973
+ERG	stimulation	WNT11
+# Reference PMID: 25277175
+ERG	stimulation	MYC
+# Reference PMID: 22140532
+ERG	stimulation	SIGNOR-PF34
+# Reference PMID: 9444957
+ERG	stimulation	VWF
+# Reference PMID: 32766732
+GLI1	form_complex	SIGNOR-C450
+# Reference PMID: 16571352
+GLI1	stimulation	HHIP
+# Reference PMID: 23074268; 19860666
+GLI1	stimulation	CCND1
+# Reference PMID: 19860666; 16571352
+GLI1	stimulation	PTCH1
+# Reference PMID: 16571352
+GLI3	inhibition	GLI1
+# Reference PMID: 19860666; 17419683
+GLI3	stimulation	CCND1
+# Reference PMID: 16571352; 17419683
+GLI3	stimulation	PTCH1
+# Reference PMID: 12435361
+GLI3	inhibition	FGF8
+# Reference PMID: 17409098
+CDKN1B	inhibition	SIGNOR-C16
+# Reference PMID: 17409098
+CDKN1B	inhibition	CDK2
+# Reference PMID: 15340381
+CDKN1B	inhibition	CDK1
+# Reference PMID: 28607489
+SIGNOR-C234	inhibition	PKM
+# Reference PMID: 21059642
+SIGNOR-C234	stimulation	RUNX1
+# Reference PMID: 22569856
+RB1	inhibition	E2F2
+# Reference PMID: 21902831
+RB1	stimulation	MYOD1
+# Reference PMID: 15716273
+RB1	inhibition	ANP32A
+# Reference PMID: 8242749
+RB1	inhibition	ABL1
+# Reference PMID: 8255752
+RB1	inhibition	E2F1
+# Reference PMID: 9256431
+RB1	inhibition	TRIP11
+# Reference PMID: 14560017
+RB1	stimulation	HDAC3
+# Reference PMID: 15340381
+CDKN1A	inhibition	CDK1
+# Reference PMID: 11154267
+CDKN1A	inhibition	SIGNOR-C16
+# Reference PMID: 10439039
+CDKN1A	stimulation	RB1
+# Reference PMID: 19158493
+CDKN1A	inhibition	CCNB1
+# Reference PMID: 16982699
+CDKN1A	inhibition	CDK2
+# Reference PMID: 7626805
+CDKN1A	inhibition	CDK4
+# Reference PMID: 10913154
+CDKN1A	inhibition	SIGNOR-C17
+# Reference PMID: 7626805
+CDKN1A	inhibition	CDK3
+# Reference PMID: 17208333
+SIGNOR-C143	inhibition	CTNNB1
+# Reference PMID: 32294430
+SIGNOR-C143	stimulation	TSC2
+# Reference PMID: 12091906
+RUNX1	stimulation	CDKN2A
+# Reference PMID: 26910834
+RUNX1	stimulation	URS000062749E_9606
+# Reference PMID: 34902205
+RUNX1	stimulation	SIGNOR-FP6
+# Reference PMID: 23817177
+RUNX1	stimulation	SPI1
+# Reference PMID: 25092144
+RUNX1	stimulation	URS000037EC34_9606
+# Reference PMID: 22689058
+RUNX1	stimulation	MECOM
+# Reference PMID: 14594802
+RUNX1	stimulation	ELANE
+# Reference PMID: 29958106
+RUNX1	inhibition	MYC
+# Reference PMID: 12495904
+RUNX1	form_complex	SIGNOR-C214
+# Reference PMID: 12771199
+RUNX1	stimulation	CCL3
+# Reference PMID: 22021368
+RUNX1	inhibition	SIGNOR-C14
+# Reference PMID: 30500954
+RUNX1	stimulation	KIT
+# Reference PMID: 17725493
+RUNX1	stimulation	ITGA2B
+# Reference PMID: 24209627
+FGF8	stimulation	MYOD1
+# Reference PMID: 28669924
+SIGNOR-C88	stimulation	SIGNOR-C6
+# Reference PMID: 22863532
+SIGNOR-C88	form_complex	SIGNOR-C91
+# Reference PMID: 16603732
+SIGNOR-C88	stimulation	ESR1
+# Reference PMID: 11477071
+ESR1	stimulation	NCOA2
+# Reference PMID: 11000528
+ESR1	inhibition	AR
+# Reference PMID: 10648597
+ESR1	inhibition	NR0B2
+# Reference PMID: 18247370
+ESR1	stimulation	SIGNOR-C154
+# Reference PMID: 18588516
+ESR1	inhibition	SNAI2
+# Reference PMID: 16169518
+ESR1	stimulation	SIGNOR-C156
+# Reference PMID: 11517191
+ESR1	stimulation	TGFA
+# Reference PMID: 8408641
+ESR1	stimulation	CRH
+# Reference PMID: 20682797
+ESR1	stimulation	KDM4B
+# Reference PMID: 11517191
+ESR1	stimulation	CDKN1A
+# Reference PMID: 10022879
+ESR1	stimulation	ESR2
+# Reference PMID: 16144913
+ESR1	inhibition	PPARG
+# Reference PMID: 15808510
+ESR1	stimulation	CCND1
+# Reference PMID: 17666587
+ESR1	stimulation	GREB1
+# Reference PMID: 11000528
+ESR1	inhibition	PGR
+# Reference PMID: 16169518
+ESR1	stimulation	PIK3R1
+# Reference PMID: 26049753
+MYC	stimulation	SIRT1
+# Reference PMID: 32453420
+MYC	stimulation	CLK3
+# Reference PMID: 29731393
+MYC	stimulation	NFE2L2
+# Reference PMID: 11154267
+MYC	stimulation	CDC25A
+# Reference PMID: 26049753
+MYC	stimulation	USP22
+# Reference PMID: 20551174
+MYC	inhibition	CDKN2A
+# Reference PMID: 10823814
+MYC	stimulation	ENO1
+# Reference PMID: 12368264
+MYC	stimulation	VEGFA
+# Reference PMID: 32814769
+MYC	inhibition	HECTD4
+# Reference PMID: 19219026
+MYC	stimulation	GLS
+# Reference PMID: 20010808
+MYC	stimulation	HNRNPA2B1
+# Reference PMID: 23175188
+MYC	stimulation	SIRT2
+# Reference PMID: 11313917
+MYC	inhibition	CDKN1B
+# Reference PMID: 32482868
+MYC	inhibition	BRD4
+# Reference PMID: 16731620
+MYC	inhibition	URS0000283D0A_9606
+# Reference PMID: 12835716
+MYC	stimulation	CDK4
+# Reference PMID: 17485441
+MYC	inhibition	DKK1
+# Reference PMID: 20551174
+MYC	inhibition	CDKN1A
+# Reference PMID: 32814769
+MYC	inhibition	MYCBP2
+# Reference PMID: 26179066
+MYC	stimulation	SIGNOR-FP6
+# Reference PMID: 10823814
+MYC	stimulation	SIGNOR-PF74
+# Reference PMID: 11909865
+MYC	stimulation	MYCT1
+# Reference PMID: 19786833
+MYC	stimulation	DNMT3A
+# Reference PMID: 12835716
+MYC	inhibition	CDKN2B
+# Reference PMID: 8266081
+MYC	inhibition	YY1
+# Reference PMID: 18677108; 18628958
+MYC	stimulation	IMPDH2
+# Reference PMID: 12835716
+MYC	stimulation	CCND1
+# Reference PMID: 26179066
+MYC	stimulation	BCR
+# Reference PMID: 11804592
+MYC	inhibition	SMAD3
+# Reference PMID: 17485441
+MYC	inhibition	SFRP1
+# Reference PMID: 11804592
+MYC	inhibition	SMAD2
+# Reference PMID: 19219026
+MYC	inhibition	URS00001CC864_9606
+# Reference PMID: 9188852
+MYC	stimulation	CCNE1
+# Reference PMID: 12835716
+MYC	stimulation	CCNA2
+# Reference PMID: 12835716
+MYC	stimulation	CUL1
+# Reference PMID: 17139329
+GATA3	inhibition	CEBPA
+# Reference PMID: 16386358
+GATA3	inhibition	TBX21
+# Reference PMID: 15632071
+GATA3	inhibition	PPARG
+# Reference PMID: 12876556
+GATA3	stimulation	IL4
+# Reference PMID: 15632071
+GATA3	inhibition	CEBPB
+# Reference PMID: 21536859
+GATA3	stimulation	ERG
+# Reference PMID: 11015443
+CD274	stimulation	PDCD1
+# Reference PMID: 9069290
+MEF2C	stimulation	JUN
+# Reference PMID: 21598020
+MEF2C	stimulation	CTNNA3
+# Reference PMID: 9418854
+MEF2C	stimulation	MYOD1
+# Reference PMID: 20513142
+MEF2C	stimulation	MECP2
+# Reference PMID: 21598020
+MEF2C	stimulation	SIGNOR-PF72
+# Reference PMID: 18046454
+EZR	stimulation	FES
+# Reference PMID: 17548510
+MYOG	inhibition	PAX7
+# Reference PMID: 17194702
+MYOG	stimulation	SIGNOR-C92
+# Reference PMID: 17194702
+MYOG	form_complex	SIGNOR-C94
+# Reference PMID: 18568019
+MYOG	stimulation	URS00005EB596_9606
+# Reference PMID: 25211658
+MYOG	inhibition	CDKN1A
+# Reference PMID: 19631210
+MYOG	inhibition	FBXO32
+# Reference PMID: 22270366
+ETS1	stimulation	MMP9
+# Reference PMID: 1722028
+ETS1	stimulation	FOS
+# Reference PMID: 25373698
+ETS1	stimulation	TBX22
+# Reference PMID: 9444957
+ETS1	stimulation	VWF
+# Reference PMID: 15001984
+ETS1	stimulation	TNC
+# Reference PMID: 22270366
+ETS1	stimulation	MMP13
+# Reference PMID: 17213822
+ETS1	inhibition	BAX
+# Reference PMID: 20506119
+EGR2	bimodal	NAB2
+# Reference PMID: 16054051
+EGR2	stimulation	CEBPB
+# Reference PMID: 14585074
+BAX	stimulation	HTRA2
+# Reference PMID: 18097445
+BAX	stimulation	CYCS
+# Reference PMID: 21210296
+BAX	stimulation	DIABLO
+# Reference PMID: 8358790
+BAX	inhibition	BCL2
+# Reference PMID: 24241034
+SPP1	stimulation	SIGNOR-C166
+# Reference PMID: 10835423
+SPP1	stimulation	SIGNOR-C177
+# Reference PMID: 9111364
+MSX2	inhibition	DLX2
+# Reference PMID: 19835636
+MSX2	stimulation	SPEN
+# Reference PMID: 11331591
+RUNX2	stimulation	TNFSF11
+# Reference PMID: 11331591
+RUNX2	stimulation	COL1A1
+# Reference PMID: 22641097
+RUNX2	stimulation	VEGFA
+# Reference PMID: 22641097
+RUNX2	stimulation	SNAI2
+# Reference PMID: 19049325
+RUNX2	stimulation	ENPP1
+# Reference PMID: 22641097
+RUNX2	stimulation	TWIST1
+# Reference PMID: 11331591
+RUNX2	stimulation	SPP1
+# Reference PMID: 15564063
+RUNX2	stimulation	MMP13
+# Reference PMID: 22641097
+RUNX2	stimulation	VEGFC
+# Reference PMID: 20740684
+RUNX2	inhibition	NOTCH1
+# Reference PMID: 14594802
+RUNX2	stimulation	ELANE
+# Reference PMID: 22641097
+RUNX2	stimulation	MMP2
+# Reference PMID: 20551513
+RUNX2	stimulation	CREBBP
+# Reference PMID: 15765505
+RUNX2	stimulation	BMP2
+# Reference PMID: 25533347
+AUTS2	stimulation	ELMO2
+# Reference PMID: 25533347
+AUTS2	stimulation	DOCK1
+# Reference PMID: 25533347
+AUTS2	stimulation	PREX1
+# Reference PMID: 12147692
+MET	stimulation	RANBP9
+# Reference PMID: 16782899; 20802513
+MET	stimulation	PTK2
+# Reference PMID: 22128289
+MET	stimulation	GRB2
+# Reference PMID: 10734310
+MET	stimulation	GAB1
+# Reference PMID: 12871085
+GRIN2B	form_complex	SIGNOR-C348
+# Reference PMID: 23438602
+SIGNOR-C301	stimulation	CHEK2
+# Reference PMID: 23677067
+FEZF2	inhibition	MDM2
+# Reference PMID: 26490982
+FUBP1	stimulation	MYC
+# Reference PMID: 30500954
+FUBP1	stimulation	KIT
+# Reference PMID: 19637194
+FUBP1	inhibition	CDKN2B
+# Reference PMID: 19637194
+FUBP1	inhibition	TNF
+# Reference PMID: 19637194
+FUBP1	stimulation	CDKN1A
+# Reference PMID: 9723709
+ANGPT2	stimulation	TEK
+# Reference PMID: 23175188
+SIRT2	stimulation	MYC
+# Reference PMID: 23175188
+SIRT2	inhibition	NEDD4
+# Reference PMID: 12887892
+SIRT2	inhibition	MYOD1
+# Reference PMID: 12887892
+SIRT2	inhibition	KAT2B
+# Reference PMID: 14522900
+SIRT2	inhibition	CDKN1A
+# Reference PMID: 8943232; 10605825
+CTSD	inhibition	APP
+# Reference PMID: 22074556
+SNAI2	stimulation	MMP9
+# Reference PMID: 20509143
+SNAI2	stimulation	JAG1
+# Reference PMID: 15311212
+SNAI2	inhibition	CDH1
+# Reference PMID: 21044962
+SNAI2	inhibition	UBE2D3
+# Reference PMID: 20509143
+SNAI2	inhibition	ESR1
+# Reference PMID: 21044962
+SNAI2	stimulation	CCND1
+# Reference PMID: 22975381
+TWIST1	inhibition	CSNK2A1
+# Reference PMID: 15311212
+TWIST1	inhibition	CDH1
+# Reference PMID: 19051271
+TWIST1	inhibition	RBL2
+# Reference PMID: 20646316
+TWIST1	stimulation	HGF
+# Reference PMID: 19051271
+TWIST1	inhibition	F2R
+# Reference PMID: 20646316
+TWIST1	stimulation	SNAI2
+# Reference PMID: 19051271
+TWIST1	stimulation	FOS
+# Reference PMID: 19051271
+TWIST1	stimulation	ATM
+# Reference PMID: 19051271
+TWIST1	inhibition	ILK
+# Reference PMID: 19051271
+TWIST1	stimulation	NR2F1
+# Reference PMID: 19051271
+TWIST1	inhibition	NF1
+# Reference PMID: 21931630
+TWIST1	inhibition	RUNX2
+# Reference PMID: 20646316
+TWIST1	stimulation	MMP2
+# Reference PMID: 19051271
+TWIST1	inhibition	RAP1A
+# Reference PMID: 17487558
+TWIST1	stimulation	ITGB1
+# Reference PMID: 20646316
+TWIST1	stimulation	FN1
+# Reference PMID: 10219247; 12704343; 18852293
+IL4	stimulation	IL4R
+# Reference PMID: 12704343
+IL4	stimulation	IL13RA1
+# Reference PMID: 11418623
+IL4	stimulation	IL2RG
+# Reference PMID: 22354967; 15367661
+CSNK2A1	stimulation	TLE1
+# Reference PMID: 17283082; 16371461
+BTRC	inhibition	GLI3
+# Reference PMID: 16885213; 11955435
+GSK3B	inhibition	GLI3
+# Reference PMID: 10564661; 10433919; 20463034
+SUFU	inhibition	GLI3
+# Reference PMID: 16481469
+CSNK1A1L	stimulation	GLI3
+# Reference PMID: 17419683; 10693759
+PRKACA	inhibition	GLI3
+# Reference PMID: 19592253
+KIF7	stimulation	GLI3
+# Reference PMID: 16885213
+CXCL1	stimulation	GLI3
+# Reference PMID: 11882901
+RLIM	inhibition	LDB1
+# Reference PMID: 9111364
+DLX2	inhibition	MSX1
+# Reference PMID: 22863532
+PAX7	stimulation	SIGNOR-C88
+# Reference PMID: 11689553
+SIGNOR-C8	inhibition	MYC
+# Reference PMID: 24317510
+GATA6	stimulation	MYC
+# Reference PMID: 11018017
+SIGNOR-PF1	stimulation	MYC
+# Reference PMID: 22025562
+CSNK2A1	inhibition	MYC
+# Reference PMID: 26522984
+ZMIZ1	stimulation	MYC
+# Reference PMID: 20852628
+SIGNOR-C135	inhibition	MYC
+# Reference PMID: 25280219
+PIM1	stimulation	MYC
+# Reference PMID: 2005901
+ENO1	inhibition	MYC
+# Reference PMID: 20852628
+SIGNOR-C5	stimulation	MYC
+# Reference PMID: 27923907
+USP13	stimulation	MYC
+# Reference PMID: 16987807
+PPP2CB	inhibition	MYC
+# Reference PMID: 19855079
+SIGNOR-FP2	stimulation	MYC
+# Reference PMID: 24856037
+SIGNOR-C2	stimulation	MYC
+# Reference PMID: 10551811
+MAPK9	stimulation	MYC
+# Reference PMID: 11689553
+SIGNOR-C9	inhibition	MYC
+# Reference PMID: 32814769
+HECTD4	inhibition	MYC
+# Reference PMID: 25280219
+FLT3	stimulation	MYC
+# Reference PMID: 16510874
+CTNNB1	stimulation	MYC
+# Reference PMID: 20383333
+CDR2	stimulation	MYC
+# Reference PMID: 19933931
+URS000062749E_9606	inhibition	MYC
+# Reference PMID: 16452181
+SIGNOR-C92	inhibition	MYC
+# Reference PMID: 32482868
+BRD4	inhibition	MYC
+# Reference PMID: 19653274
+LEF1	stimulation	MYC
+# Reference PMID: 32482868
+MAPK3	stimulation	MYC
+# Reference PMID: 12032779
+PRDM1	inhibition	MYC
+# Reference PMID: 20852628
+SIGNOR-C136	inhibition	MYC
+# Reference PMID: 12032779
+CTCF	inhibition	MYC
+# Reference PMID: 32814769
+MYCBP2	inhibition	MYC
+# Reference PMID: 2005901
+SIGNOR-PF74	inhibition	MYC
+# Reference PMID: 15665309
+GH1	stimulation	MYC
+# Reference PMID: 21408055
+STAT3	stimulation	MYC
+# Reference PMID: 16847353
+NOTCH1	stimulation	MYC
+# Reference PMID: 8386367
+MAPK1	stimulation	MYC
+# Reference PMID: 11689553
+SMAD4	inhibition	MYC
+# Reference PMID: 8266081
+YY1	inhibition	MYC
+# Reference PMID: 23716601
+PIN1	stimulation	MYC
+# Reference PMID: 20852628; 15103331
+FBXW7	inhibition	MYC
+# Reference PMID: 16023596
+GSK3A	inhibition	MYC
+# Reference PMID: 20852628
+SKP2	inhibition	MYC
+# Reference PMID: 24067369
+HIC1	inhibition	MYC
+# Reference PMID: 18852287
+TCF4	stimulation	MYC
+# Reference PMID: 16847353
+SIGNOR-C97	stimulation	MYC
+# Reference PMID: 24856037
+SIGNOR-C3	stimulation	MYC
+# Reference PMID: 14993291
+SMAD3	inhibition	MYC
+# Reference PMID: 26592448
+EGFR	stimulation	MYC
+# Reference PMID: 24940000
+SARS1	inhibition	MYC
+# Reference PMID: 12032779
+CEBPA	inhibition	MYC
+# Reference PMID: 23887393
+PLK1	stimulation	MYC
+# Reference PMID: 12370803
+JAK2	stimulation	MYC
+# Reference PMID: 8425218
+MAX	stimulation	MYC
+# Reference PMID: 11018017; 14563837; 16023596
+GSK3B	inhibition	MYC
+# Reference PMID: 24349431
+NDN	stimulation	MYC
+# Reference PMID: 17558397
+USP28	stimulation	MYC
+# Reference PMID: 32482868
+SIGNOR-PF4	stimulation	MYC
+# Reference PMID: 10551811
+MAPK8	stimulation	MYC
+# Reference PMID: 25883140
+SIGNOR-C447	stimulation	MYC
+# Reference PMID: 20008130
+HLX	inhibition	MYC
+# Reference PMID: 12676583; 14559997; 11298456
+CHEK2	inhibition	CDC25A
+# Reference PMID: 17292828
+MAPKAPK2	inhibition	CDC25A
+# Reference PMID: 19734889
+NEK11	inhibition	CDC25A
+# Reference PMID: 23708659
+SIGNOR-PF26	inhibition	CDC25A
+# Reference PMID: 12234927
+FZR1	inhibition	CDC25A
+# Reference PMID: 15340381
+BTRC	stimulation	CDC25A
+# Reference PMID: 20348946
+GSK3B	inhibition	CDC25A
+# Reference PMID: 15340381
+SIGNOR-C5	stimulation	CDC25A
+# Reference PMID: 17110335
+CDK2	inhibition	CDC25A
+# Reference PMID: 20068082
+CHEK1	inhibition	CDC25A
+# Reference PMID: 23708659
+RPS6KA1	inhibition	CDC25A
+# Reference PMID: 11154267
+E2F1	stimulation	CDC25A
+# Reference PMID: 12411508
+CDK1	stimulation	CDC25A
+# Reference PMID: 12411508
+SIGNOR-C17	stimulation	CDC25A
+# Reference PMID: 22740686
+SMAD3	inhibition	CDC25A
+# Reference PMID: 21746878
+PBX1	stimulation	CDKN2A
+# Reference PMID: 11830546
+POMC	stimulation	CDKN2A
+# Reference PMID: 20152798
+IKBKB	inhibition	CDKN2A
+# Reference PMID: 24392140
+NDN	stimulation	CDKN2A
+# Reference PMID: 26350239
+DNMT3A	inhibition	CDKN2A
+# Reference PMID: 22469984
+SIGNOR-C130	inhibition	CDKN2A
+# Reference PMID: 18332116
+SIGNOR-C92	stimulation	CDKN2A
+# Reference PMID: 20551323
+BMI1	inhibition	CDKN2A
+# Reference PMID: 23303449
+CTBP1	inhibition	CDKN2A
+# Reference PMID: 20802524
+TBX5	stimulation	CDKN2A
+# Reference PMID: 21746878
+MEIS2	stimulation	CDKN2A
+# Reference PMID: 26350239
+DNMT3A	inhibition	CDKN2C
+# Reference PMID: 17442339
+KLF1	stimulation	CDKN2C
+# Reference PMID: 19364816
+SIGNOR-PF1	inhibition	CDKN1A
+# Reference PMID: 30755245
+DRAM2	inhibition	CDKN1A
+# Reference PMID: 31575057; 16982699
+AKT1	stimulation	CDKN1A
+# Reference PMID: 31575057; 20307683
+PIM1	stimulation	CDKN1A
+# Reference PMID: 23684607
+TCF3	stimulation	CDKN1A
+# Reference PMID: 25211658
+TBX3	inhibition	CDKN1A
+# Reference PMID: 16281084
+AR	inhibition	CDKN1A
+# Reference PMID: 23026136
+RNF126	inhibition	CDKN1A
+# Reference PMID: 16364914
+KHSRP	inhibition	CDKN1A
+# Reference PMID: 15003515
+FLT3	stimulation	CDKN1A
+# Reference PMID: 16982699
+SIGNOR-PF24	stimulation	CDKN1A
+# Reference PMID: 12853982
+RNF144B	inhibition	CDKN1A
+# Reference PMID: 15003515
+STAT5A	stimulation	CDKN1A
+# Reference PMID: 12058028
+MAPK14	stimulation	CDKN1A
+# Reference PMID: 15851482
+DYRK1B	stimulation	CDKN1A
+# Reference PMID: 28073943
+KDM4B	inhibition	CDKN1A
+# Reference PMID: 11517191
+ESR2	stimulation	CDKN1A
+# Reference PMID: 9736735
+SIGNOR-C136	inhibition	CDKN1A
+# Reference PMID: 18292944
+MDM2	inhibition	CDKN1A
+# Reference PMID: 31575057
+PLCG1	stimulation	CDKN1A
+# Reference PMID: 19536131
+MKRN1	inhibition	CDKN1A
+# Reference PMID: 17050675
+RBM38	stimulation	CDKN1A
+# Reference PMID: 19364816
+MAPK1	inhibition	CDKN1A
+# Reference PMID: 16982699
+AKT2	inhibition	CDKN1A
+# Reference PMID: 31534127
+CELF6	stimulation	CDKN1A
+# Reference PMID: 30518405
+IMPDH2	inhibition	CDKN1A
+# Reference PMID: 15964852
+CDK2	inhibition	CDKN1A
+# Reference PMID: 15998794
+SKP2	inhibition	CDKN1A
+# Reference PMID: 21262772
+STK38	inhibition	CDKN1A
+# Reference PMID: 11432830
+RBPJ	stimulation	CDKN1A
+# Reference PMID: 19968627
+POU5F1	inhibition	CDKN1A
+# Reference PMID: 17700533
+TP73	stimulation	CDKN1A
+# Reference PMID: 15866158
+SIGNOR-C97	stimulation	CDKN1A
+# Reference PMID: 20501643
+SPRY4	stimulation	CDKN1A
+# Reference PMID: 14522900
+TP53	stimulation	CDKN1A
+# Reference PMID: 20307683
+PIM2	stimulation	CDKN1A
+# Reference PMID: 19273910
+SOX9	stimulation	CDKN1A
+# Reference PMID: 17283049
+GSK3B	inhibition	CDKN1A
+# Reference PMID: 19491292
+PRKAA1	inhibition	CDKN1A
+# Reference PMID: 7791789
+MYOD1	stimulation	CDKN1A
+# Reference PMID: 14522900
+ING1	stimulation	CDKN1A
+# Reference PMID: 20307683
+SIGNOR-PF34	stimulation	CDKN1A
+# Reference PMID: 31575057
+PLCG2	stimulation	CDKN1A
+# Reference PMID: 12058028
+MAPK8	stimulation	CDKN1A
+# Reference PMID: 16055744
+PRKCA	stimulation	CDKN1A
+# Reference PMID: 17325029
+MAP3K5	stimulation	CDKN1A
+# Reference PMID: 14609955
+RBBP7	form_complex	SIGNOR-C448
+# Reference PMID: 20819939
+URS0000389B41_9606	inhibition	PAX7
+# Reference PMID: 22493066
+NOTCH1	stimulation	PAX7
+# Reference PMID: 24708856
+URS000075CF56_9606	inhibition	PAX7
+# Reference PMID: 20887952
+SIGNOR-C102	inhibition	PAX7
+# Reference PMID: 20887952
+SIGNOR-C130	inhibition	PAX7
+# Reference PMID: 22863532; 29681515
+CARM1	stimulation	PAX7
+# Reference PMID: 22493066
+RBPJ	stimulation	PAX7
+# Reference PMID: 22493066
+SIGNOR-PF30	stimulation	PAX7
+# Reference PMID: 22493066
+SIGNOR-C97	stimulation	PAX7
+# Reference PMID: 34199813
+SIGNOR-PF89	form_complex	SIGNOR-C497
+# Reference PMID: 21532585
+SIGNOR-PF17	stimulation	PHF2
+# Reference PMID: 16107690
+SIGNOR-PF24	stimulation	GATA1
+# Reference PMID: 27858941
+DAB2IP	stimulation	GATA1
+# Reference PMID: 16107690
+AKT1	stimulation	GATA1
+# Reference PMID: 12432220; 21853041
+GATA2	stimulation	GATA1
+# Reference PMID: 15889140
+MECOM	stimulation	GATA1
+# Reference PMID: 15496512
+RNF4	stimulation	NFYC
+# Reference PMID: 15496512
+RNF4	stimulation	NFYB
+# Reference PMID: 12857729
+CDK2	stimulation	NFYA
+# Reference PMID: 15496512
+RNF4	stimulation	NFYA
+# Reference PMID: 20506119
+EGR1	stimulation	NAB2
+# Reference PMID: 22431919
+BCAR1	stimulation	NAB2
+# Reference PMID: 22128144
+IL2	stimulation	NAB2
+# Reference PMID: 20506119
+EGR3	bimodal	NAB2
+# Reference PMID: 11279134
+NR3C1	stimulation	CEBPA
+# Reference PMID: 12270934
+SIGNOR-PF1	stimulation	CEBPA
+# Reference PMID: 19797526
+SIGNOR-FP2	inhibition	CEBPA
+# Reference PMID: 12524424
+SIGNOR-C9	inhibition	CEBPA
+# Reference PMID: 16431920
+HDAC1	inhibition	CEBPA
+# Reference PMID: 17094771
+NR0B2	inhibition	CEBPA
+# Reference PMID: 16146838; 14592841
+FLT3	inhibition	CEBPA
+# Reference PMID: 10937998
+CTNNB1	inhibition	CEBPA
+# Reference PMID: 10937998
+FZD1	inhibition	CEBPA
+# Reference PMID: 19620402
+LEF1	stimulation	CEBPA
+# Reference PMID: 14701740
+MAPK3	inhibition	CEBPA
+# Reference PMID: 14701740
+MAPK1	inhibition	CEBPA
+# Reference PMID: 19825991
+GATA1	inhibition	CEBPA
+# Reference PMID: 16431920
+PPARG	stimulation	CEBPA
+# Reference PMID: 7588595
+DDIT3	inhibition	CEBPA
+# Reference PMID: 12524424
+SMAD3	inhibition	CEBPA
+# Reference PMID: 7862113
+USF1	stimulation	CEBPA
+# Reference PMID: 10937998
+FZD2	inhibition	CEBPA
+# Reference PMID: 10567568
+GSK3B	stimulation	CEBPA
+# Reference PMID: 12270934
+SIGNOR-PF25	stimulation	CEBPA
+# Reference PMID: 14701740
+SIGNOR-PF4	inhibition	CEBPA
+# Reference PMID: 12270934
+MAP2K1	stimulation	CEBPA
+# Reference PMID: 11279134
+INS	stimulation	CEBPA
+# Reference PMID: 25477897
+FLT3	stimulation	URS000062749E_9606
+# Reference PMID: 24708856
+JUN	stimulation	URS000062749E_9606
+# Reference PMID: 18619954; 26055960
+SIGNOR-C13	stimulation	URS000062749E_9606
+# Reference PMID: 23132946
+STAT5A	stimulation	URS000062749E_9606
+# Reference PMID: 12048211
+MAPK7	stimulation	ETS1
+# Reference PMID: 14586398
+TP53	inhibition	ETS1
+# Reference PMID: 9566892
+MAF	inhibition	ETS1
+# Reference PMID: 12475968
+CAMK2A	inhibition	ETS1
+# Reference PMID: 11948414
+MAPK3	stimulation	ETS1
+# Reference PMID: 11494141
+PTEN	stimulation	EGR2
+# Reference PMID: 20506119
+NAB2	inhibition	EGR2
+# Reference PMID: 19651900
+WWP2	inhibition	EGR2
+# Reference PMID: 16227604
+PDCD1	inhibition	SIGNOR-PF24
+# Reference PMID: 18801898
+ACVR1	inhibition	SIGNOR-PF24
+# Reference PMID: 16227604
+CTLA4	inhibition	SIGNOR-PF24
+# Reference PMID: 16266983
+FLT3	stimulation	SIGNOR-PF24
+# Reference PMID: 10698680
+PIK3C3	stimulation	SIGNOR-PF24
+# Reference PMID: 10942391
+INPPL1	inhibition	SIGNOR-PF24
+# Reference PMID: 19573809
+PIK3CA	stimulation	SIGNOR-PF24
+# Reference PMID: 17688959
+SHH	stimulation	SIGNOR-PF24
+# Reference PMID: 21329883
+TBK1	stimulation	SIGNOR-PF24
+# Reference PMID: 12791994
+TRIB3	inhibition	SIGNOR-PF24
+# Reference PMID: 21658387; 24916379
+LRRK2	stimulation	SIGNOR-PF24
+# Reference PMID: 12530968
+INS	stimulation	SIGNOR-PF24
+# Reference PMID: 18160256; 11839802; 15367694
+PPP2CA	inhibition	SIGNOR-PF24
+# Reference PMID: 10579725
+SIGNOR-C221	inhibition	SIGNOR-PF24
+# Reference PMID: 19261608; 15808505
+PHLPP1	inhibition	SIGNOR-PF24
+# Reference PMID: 15632081
+PTPN1	inhibition	SIGNOR-PF24
+# Reference PMID: 12600984; 11445557
+SRC	stimulation	SIGNOR-PF24
+# Reference PMID: 15818404; 21735093
+CSNK2A1	stimulation	SIGNOR-PF24
+# Reference PMID: 14633703
+PPP1CC	inhibition	SIGNOR-PF24
+# Reference PMID: 22410793
+MUL1	inhibition	SIGNOR-PF24
+# Reference PMID: 26084673
+ID1	stimulation	SIGNOR-PF24
+# Reference PMID: 20059950
+TTC3	inhibition	SIGNOR-PF24
+# Reference PMID: 12181443; 20626350
+MAPK14	bimodal	SIGNOR-PF24
+# Reference PMID: 11313365; 9736715
+ILK	stimulation	SIGNOR-PF24
+# Reference PMID: 14633703
+PPP1CB	inhibition	SIGNOR-PF24
+# Reference PMID: 21592956; 15718470
+MTOR	stimulation	SIGNOR-PF24
+# Reference PMID: 30518405
+IMPDH2	stimulation	SIGNOR-PF24
+# Reference PMID: 16407838
+FHIT	inhibition	SIGNOR-PF24
+# Reference PMID: 23041284
+POU5F1	inhibition	SIGNOR-PF24
+# Reference PMID: 14633703
+SIGNOR-PF54	inhibition	SIGNOR-PF24
+# Reference PMID: 20333297
+TNK2	stimulation	SIGNOR-PF24
+# Reference PMID: 19074868
+BRCA1	inhibition	SIGNOR-PF24
+# Reference PMID: 23884910
+PIAS1	stimulation	SIGNOR-PF24
+# Reference PMID: 21775285
+SIRT1	stimulation	SIGNOR-PF24
+# Reference PMID: 10579725
+CASP3	inhibition	SIGNOR-PF24
+# Reference PMID: 18160256; 8650155
+PPP2CB	inhibition	SIGNOR-PF24
+# Reference PMID: 21592956; 18566586; 15718470; 21157483; 24670654
+SIGNOR-C2	stimulation	SIGNOR-PF24
+# Reference PMID: 20596030; 19903340
+PTEN	inhibition	SIGNOR-PF24
+# Reference PMID: 19573809; 12167717
+SIGNOR-C156	stimulation	SIGNOR-PF24
+# Reference PMID: 19357233
+MSTN	inhibition	SIGNOR-PF24
+# Reference PMID: 17353188
+ACP1	inhibition	SIGNOR-PF24
+# Reference PMID: 10833263
+CAMKK1	stimulation	SIGNOR-PF24
+# Reference PMID: 11715022
+IGF1R	stimulation	SIGNOR-PF24
+# Reference PMID: 27858941
+DAB2IP	inhibition	SIGNOR-PF24
+# Reference PMID: 18718903
+FSTL1	stimulation	SIGNOR-PF24
+# Reference PMID: 27119228
+HECW2	stimulation	SIGNOR-PF24
+# Reference PMID: 14633703; 20186153
+PPP1CA	inhibition	SIGNOR-PF24
+# Reference PMID: 11287630
+TNF	stimulation	SIGNOR-PF24
+# Reference PMID: 16697957
+NKX3-1	inhibition	SIGNOR-PF24
+# Reference PMID: 26721223
+SIGNOR-PH59	inhibition	SIGNOR-PF24
+# Reference PMID: 18534819
+ATM	inhibition	SIGNOR-PF24
+# Reference PMID: 24670654
+SIGNOR-C83	stimulation	SIGNOR-PF24
+# Reference PMID: 18439899
+PRKDC	stimulation	SIGNOR-PF24
+# Reference PMID: 12242309; 15994200
+RET	stimulation	SIGNOR-PF24
+# Reference PMID: 18042541
+PPP2R2A	inhibition	SIGNOR-PF24
+# Reference PMID: 11782444
+CCN4	stimulation	SIGNOR-PF24
+# Reference PMID: 10226025; 15743829; 15718470; 21798082; 9512493; 12808134
+PDPK1	stimulation	SIGNOR-PF24
+# Reference PMID: 23142783
+GSK3A	inhibition	SIGNOR-PF24
+# Reference PMID: 18042541
+SIGNOR-C132	inhibition	SIGNOR-PF24
+# Reference PMID: 10579725
+CASP3	inhibition	AKT1
+# Reference PMID: 10579725
+SIGNOR-C221	inhibition	AKT1
+# Reference PMID: 19261608; 15808505
+PHLPP1	inhibition	AKT1
+# Reference PMID: 15632081
+PTPN1	inhibition	AKT1
+# Reference PMID: 12600984; 11445557
+SRC	stimulation	AKT1
+# Reference PMID: 21775285
+SIRT1	stimulation	AKT1
+# Reference PMID: 14633703; 20186153
+PPP1CA	inhibition	AKT1
+# Reference PMID: 15818404; 21735093
+CSNK2A1	stimulation	AKT1
+# Reference PMID: 11287630
+TNF	stimulation	AKT1
+# Reference PMID: 18801898
+ACVR1	inhibition	AKT1
+# Reference PMID: 8650155
+PPP2CB	inhibition	AKT1
+# Reference PMID: 21592956; 18566586; 15718470; 21157483; 24670654
+SIGNOR-C2	stimulation	AKT1
+# Reference PMID: 14633703
+PPP1CC	inhibition	AKT1
+# Reference PMID: 22410793
+MUL1	inhibition	AKT1
+# Reference PMID: 16266983
+FLT3	stimulation	AKT1
+# Reference PMID: 20596030; 19903340
+PTEN	inhibition	AKT1
+# Reference PMID: 26084673
+ID1	stimulation	AKT1
+# Reference PMID: 19573809; 12167717; 9346240; 16293724
+SIGNOR-C156	stimulation	AKT1
+# Reference PMID: 20059950
+TTC3	inhibition	AKT1
+# Reference PMID: 10698680
+PIK3C3	stimulation	AKT1
+# Reference PMID: 18534819
+ATM	inhibition	AKT1
+# Reference PMID: 11313365; 9736715
+ILK	stimulation	AKT1
+# Reference PMID: 24670654
+SIGNOR-C83	stimulation	AKT1
+# Reference PMID: 10942391
+INPPL1	inhibition	AKT1
+# Reference PMID: 19573809; 12167717; 9346240; 16293724
+PIK3CA	stimulation	AKT1
+# Reference PMID: 14633703; 20186153
+PPP1CB	inhibition	AKT1
+# Reference PMID: 18439899
+PRKDC	stimulation	AKT1
+# Reference PMID: 15994200
+RET	stimulation	AKT1
+# Reference PMID: 18042541
+PPP2R2A	inhibition	AKT1
+# Reference PMID: 24743741
+PDGFRA	stimulation	AKT1
+# Reference PMID: 10226025; 12167717; 15718470; 21798082; 19951971; 12808134
+PDPK1	stimulation	AKT1
+# Reference PMID: 21333377
+TRIM13	inhibition	AKT1
+# Reference PMID: 21592956; 15718470; 21157483
+MTOR	stimulation	AKT1
+# Reference PMID: 17688959
+SHH	stimulation	AKT1
+# Reference PMID: 16407838
+FHIT	inhibition	AKT1
+# Reference PMID: 23142783
+GSK3A	inhibition	AKT1
+# Reference PMID: 23041284
+POU5F1	inhibition	AKT1
+# Reference PMID: 17353188
+ACP1	inhibition	AKT1
+# Reference PMID: 10833263
+CAMKK1	stimulation	AKT1
+# Reference PMID: 21329883
+TBK1	stimulation	AKT1
+# Reference PMID: 14633703
+SIGNOR-PF54	inhibition	AKT1
+# Reference PMID: 15896785
+PTPRF	inhibition	AKT1
+# Reference PMID: 11715022
+IGF1R	stimulation	AKT1
+# Reference PMID: 12791994
+TRIB3	inhibition	AKT1
+# Reference PMID: 20333297
+TNK2	stimulation	AKT1
+# Reference PMID: 21658387; 24916379
+LRRK2	stimulation	AKT1
+# Reference PMID: 16306447
+MAPK8	stimulation	AKT1
+# Reference PMID: 19074868
+BRCA1	inhibition	AKT1
+# Reference PMID: 23884910
+PIAS1	stimulation	AKT1
+# Reference PMID: 18042541
+SIGNOR-C132	inhibition	AKT1
+# Reference PMID: 12530968
+INS	stimulation	AKT1
+# Reference PMID: 18160256; 11839802; 15367694
+PPP2CA	inhibition	AKT1
+# Reference PMID: 9442019; 19620713
+BMPR1A	stimulation	SIGNOR-C205
+# Reference PMID: 20957627
+SMAD4	form_complex	SIGNOR-C205
+# Reference PMID: 9442019; 20957627
+SMAD5	form_complex	SIGNOR-C205
+# Reference PMID: 9436979; 20957627
+SMAD4	form_complex	SIGNOR-C215
+# Reference PMID: 20957627
+SIGNOR-PF35	form_complex	SIGNOR-C215
+# Reference PMID: 19820693
+HIPK2	stimulation	MECP2
+# Reference PMID: 11742987
+NR3C1	inhibition	MAPK14
+# Reference PMID: 11842088
+SIGNOR-PF1	inhibition	MAPK14
+# Reference PMID: 11359773
+DUSP16	inhibition	MAPK14
+# Reference PMID: 15735649; 20626350
+GADD45A	inhibition	MAPK14
+# Reference PMID: 16813528
+TNF	stimulation	MAPK14
+# Reference PMID: 8622669
+MAP3K6	stimulation	MAPK14
+# Reference PMID: 11672426; 20887952; 17151142
+TNFRSF1A	stimulation	MAPK14
+# Reference PMID: 15735648
+ZAP70	stimulation	MAPK14
+# Reference PMID: 11101524; 19713933
+PPM1D	inhibition	MAPK14
+# Reference PMID: 11781339; 20974802
+FGF2	stimulation	MAPK14
+# Reference PMID: 28137827
+TLR4	stimulation	MAPK14
+# Reference PMID: 21712438
+RAC1	stimulation	MAPK14
+# Reference PMID: 12697749
+SIGNOR-PF24	inhibition	MAPK14
+# Reference PMID: 12807881
+TRIM27	stimulation	MAPK14
+# Reference PMID: 21152872
+MAP3K4	stimulation	MAPK14
+# Reference PMID: 11847341; 16407200
+TAB1	stimulation	MAPK14
+# Reference PMID: 15735648
+LCK	stimulation	MAPK14
+# Reference PMID: 12697749
+AKT2	inhibition	MAPK14
+# Reference PMID: 11842088; 18481201
+MAPK1	inhibition	MAPK14
+# Reference PMID: 7535770; 17126298; 8622669; 17548358
+RET	stimulation	MAPK14
+# Reference PMID: 11711538
+PTPRR	inhibition	MAPK14
+# Reference PMID: 20887952; 17151142
+TNFRSF1B	stimulation	MAPK14
+# Reference PMID: 7535770; 8622669; 7839144
+MAP2K3	stimulation	MAPK14
+# Reference PMID: 17055984
+GRK2	inhibition	MAPK14
+# Reference PMID: 17251915
+PKN1	stimulation	MAPK14
+# Reference PMID: 9707433
+PPM1A	inhibition	MAPK14
+# Reference PMID: 7535770; 7839144
+MAP2K4	stimulation	MAPK14
+# Reference PMID: 15735648
+FYN	stimulation	MAPK14
+# Reference PMID: 12356755; 17158101; 20626350
+DUSP1	inhibition	MAPK14
+# Reference PMID: 17726008
+GSK3B	inhibition	MAPK14
+# Reference PMID: 19047375; 10206983
+PTPN7	inhibition	MAPK14
+# Reference PMID: 19620713
+BMPR1A	stimulation	MAPK14
+# Reference PMID: 8974401; 20551513; 10480932; 8622669
+MAP2K6	stimulation	MAPK14
+# Reference PMID: 18719589
+BMP7	stimulation	MAPK14
+# Reference PMID: 20660302
+SIGNOR-C15	stimulation	MAPK14
+# Reference PMID: 18481201
+MAP2K1	inhibition	MAPK14
+# Reference PMID: 21902831
+CDC42	stimulation	MAPK14
+# Reference PMID: 12589053
+BMP2	stimulation	MAPK14
+# Reference PMID: 19620713
+BMPR1A	stimulation	SIGNOR-C85
+# Reference PMID: 9436979
+SMAD4	form_complex	SIGNOR-C85
+# Reference PMID: 12419246; 22298955
+SKIL	inhibition	SIGNOR-C85
+# Reference PMID: 12857866
+SMAD6	inhibition	SIGNOR-C85
+# Reference PMID: 8893010; 9436979
+SMAD1	form_complex	SIGNOR-C85
+# Reference PMID: 31548378
+SIGNOR-C529	inhibition	MSX2
+# Reference PMID: 20033915
+TBX22	inhibition	MSX2
+# Reference PMID: 9111364
+DLX2	inhibition	MSX2
+# Reference PMID: 23041284
+SIGNOR-PF24	stimulation	POU5F1
+# Reference PMID: 21295277
+CTNNB1	stimulation	POU5F1
+# Reference PMID: 19274063
+WWP2	inhibition	POU5F1
+# Reference PMID: 31306665
+CDK7	stimulation	POU5F1
+# Reference PMID: 18757303
+SIGNOR-C175	stimulation	POU5F1
+# Reference PMID: 23041284
+AKT2	stimulation	POU5F1
+# Reference PMID: 23024368
+MAPK1	inhibition	POU5F1
+# Reference PMID: 23024368
+SIGNOR-PF1	inhibition	POU5F1
+# Reference PMID: 20953172
+PRDM14	stimulation	POU5F1
+# Reference PMID: 31306665
+SIGNOR-C16	stimulation	POU5F1
+# Reference PMID: 23041284
+AKT1	stimulation	POU5F1
+# Reference PMID: 18757303
+SIGNOR-C164	stimulation	POU5F1
+# Reference PMID: 23024368
+MAPK3	inhibition	POU5F1
+# Reference PMID: 23024368
+SIGNOR-PF4	inhibition	POU5F1
+# Reference PMID: 31583686
+SIGNOR-C73	stimulation	POU5F1
+# Reference PMID: 24550733
+ZNF322	stimulation	POU5F1
+# Reference PMID: 23041284
+AKT3	stimulation	POU5F1
+# Reference PMID: 12207013
+MAP3K8	stimulation	PLK1
+# Reference PMID: 18427546
+PAK1	stimulation	PLK1
+# Reference PMID: 17442268
+CHFR	inhibition	PLK1
+# Reference PMID: 23455152
+DCTN6	stimulation	PLK1
+# Reference PMID: 18615013
+BORA	stimulation	PLK1
+# Reference PMID: 18615013
+AURKA	stimulation	PLK1
+# Reference PMID: 19386263
+FMNL2	stimulation	PLK1
+# Reference PMID: 18695677
+MAPKAPK2	stimulation	PLK1
+# Reference PMID: 22108192
+STAT3	stimulation	PLK1
+# Reference PMID: 16760428
+BUB1	stimulation	PLK1
+# Reference PMID: 23887393
+PDPK1	stimulation	PLK1
+# Reference PMID: 26259146
+CDK1	stimulation	PLK1
+# Reference PMID: 24413556
+HASPIN	stimulation	PLK1
+# Reference PMID: 27899378
+ABL1	stimulation	PLK1
+# Reference PMID: 30021153
+WAC	stimulation	PLK1
+# Reference PMID: 27065329
+CEP76	inhibition	PLK1
+# Reference PMID: 18082604
+USP1	inhibition	FANCD2
+# Reference PMID: 17396147; 18985065
+FANCL	stimulation	FANCD2
+# Reference PMID: 12485996
+SIGNOR-C297	stimulation	FANCD2
+# Reference PMID: 17396147; 18985065
+SIGNOR-C300	stimulation	FANCD2
+# Reference PMID: 12086603
+ATM	stimulation	FANCD2
+# Reference PMID: 12485996
+BRCA1	stimulation	FANCD2
+# Reference PMID: 19861535
+CHEK1	stimulation	FANCD2
+# Reference PMID: 16943440
+ATR	stimulation	FANCD2
+# Reference PMID: 17412408
+FANCD2	form_complex	SIGNOR-C302
+# Reference PMID: 17412408
+FANCI	form_complex	SIGNOR-C302
+# Reference PMID: 16146838; 14592841
+FLT3	inhibition	SPI1
+# Reference PMID: 12393465
+JUN	stimulation	SPI1
+# Reference PMID: 17671233
+CEBPA	stimulation	SPI1
+# Reference PMID: 12393465
+SIGNOR-C154	stimulation	SPI1
+# Reference PMID: 22195016
+URS000062749E_9606	inhibition	SPI1
+# Reference PMID: 24583263
+ETV2	stimulation	SPI1
+# Reference PMID: 22012064
+SIGNOR-C214	stimulation	SPI1
+# Reference PMID: 10753833
+GATA1	inhibition	SPI1
+# Reference PMID: 24583263
+GATA2	stimulation	SPI1
+# Reference PMID: 22012064
+KMT2A	stimulation	SPI1
+# Reference PMID: 11742987
+NR3C1	inhibition	MAPK3
+# Reference PMID: 19060905
+SIGNOR-PF1	stimulation	MAPK3
+# Reference PMID: 12840032
+PPP1CA	inhibition	MAPK3
+# Reference PMID: 15672448
+CDC25A	inhibition	MAPK3
+# Reference PMID: 17673906
+SHC1	stimulation	MAPK3
+# Reference PMID: 12840032; 10224087
+DUSP3	inhibition	MAPK3
+# Reference PMID: 20974802
+FGF2	stimulation	MAPK3
+# Reference PMID: 17998336
+LCK	stimulation	MAPK3
+# Reference PMID: 16456541
+PPP2R5C	inhibition	MAPK3
+# Reference PMID: 16153436
+RET	stimulation	MAPK3
+# Reference PMID: 19494114; 12771128
+PTPRJ	inhibition	MAPK3
+# Reference PMID: 12840032
+SIGNOR-PF54	inhibition	MAPK3
+# Reference PMID: 10617468; 7535768
+DUSP1	inhibition	MAPK3
+# Reference PMID: 11702783
+PEA15	inhibition	MAPK3
+# Reference PMID: 12270934; 9677429; 11730323
+SIGNOR-PF25	stimulation	MAPK3
+# Reference PMID: 12270934; 11730323; 9677429
+MAP2K1	stimulation	MAPK3
+# Reference PMID: 12840032
+DUSP6	inhibition	MAPK3
+# Reference PMID: 1411546; 11730323
+MAP2K2	stimulation	MAPK3
+# Reference PMID: 20457810
+FN1	stimulation	MAPK3
+# Reference PMID: 16456541; 12840032
+PPP2CA	inhibition	MAPK3
+# Reference PMID: 15466476; 8131746
+MAP3K8	stimulation	SIGNOR-PF25
+# Reference PMID: 10567369; 14993270
+SIGNOR-PF1	inhibition	SIGNOR-PF25
+# Reference PMID: 12876277
+PAK1	stimulation	SIGNOR-PF25
+# Reference PMID: 22740686
+PDCD1	inhibition	SIGNOR-PF25
+# Reference PMID: 8131746
+MAP3K1	stimulation	SIGNOR-PF25
+# Reference PMID: 12839928
+MAPK11	inhibition	SIGNOR-PF25
+# Reference PMID: 12839928
+MAPK14	inhibition	SIGNOR-PF25
+# Reference PMID: 16129686
+SIGNOR-PF13	stimulation	SIGNOR-PF25
+# Reference PMID: 10567369; 14993270
+MAPK1	inhibition	SIGNOR-PF25
+# Reference PMID: 15175348
+PDPK1	stimulation	SIGNOR-PF25
+# Reference PMID: 11018021
+RAF1	stimulation	SIGNOR-PF25
+# Reference PMID: 8114697
+CDK1	inhibition	SIGNOR-PF25
+# Reference PMID: 12270934
+FGFR2	stimulation	SIGNOR-PF25
+# Reference PMID: 12270934
+FGFR1	stimulation	SIGNOR-PF25
+# Reference PMID: 21779497; 8621729
+ARAF	stimulation	SIGNOR-PF25
+# Reference PMID: 28138032
+CHEK1	inhibition	SIGNOR-PF25
+# Reference PMID: 8131746; 8668348; 21900390; 8413257
+BRAF	stimulation	SIGNOR-PF25
+# Reference PMID: 20626350
+PPP2CA	inhibition	SIGNOR-PF25
+# Reference PMID: 8131746; 15466476
+MAP3K8	stimulation	MAP2K1
+# Reference PMID: 10567369; 14993270
+SIGNOR-PF1	inhibition	MAP2K1
+# Reference PMID: 12876277
+PAK1	stimulation	MAP2K1
+# Reference PMID: 8131746
+MAP3K1	stimulation	MAP2K1
+# Reference PMID: 16129686
+SIGNOR-PF13	stimulation	MAP2K1
+# Reference PMID: 23325602
+GIT1	stimulation	MAP2K1
+# Reference PMID: 10567369; 14993270
+MAPK1	inhibition	MAP2K1
+# Reference PMID: 15175348
+PDPK1	stimulation	MAP2K1
+# Reference PMID: 10359597
+RAF1	stimulation	MAP2K1
+# Reference PMID: 8114697
+CDK1	inhibition	MAP2K1
+# Reference PMID: 7731726
+MOS	stimulation	MAP2K1
+# Reference PMID: 12270934
+FGFR2	stimulation	MAP2K1
+# Reference PMID: 12270934
+FGFR1	stimulation	MAP2K1
+# Reference PMID: 11684694
+SIGNOR-C144	inhibition	MAP2K1
+# Reference PMID: 8621729
+ARAF	stimulation	MAP2K1
+# Reference PMID: 8131746; 8413257
+BRAF	stimulation	MAP2K1
+# Reference PMID: 20626350
+PPP2CA	inhibition	MAP2K1
+# Reference PMID: 16537363
+SIGNOR-PF24	stimulation	PRKACA
+# Reference PMID: 26687711
+PRKAR1A	inhibition	PRKACA
+# Reference PMID: 16537363
+AKT1	stimulation	PRKACA
+# Reference PMID: 14657015
+AKAP12	stimulation	PRKACA
+# Reference PMID: 17251915
+GNG12	inhibition	PRKACA
+# Reference PMID: 21902831
+WNT7A	stimulation	PRKACA
+# Reference PMID: 26687711
+PRKAR2B	inhibition	PRKACA
+# Reference PMID: 21902831
+WNT1	stimulation	PRKACA
+# Reference PMID: 27065076
+ADCY1	stimulation	PRKACA
+# Reference PMID: 17251915
+CXCL1	inhibition	PRKACA
+# Reference PMID: 11676916
+BAG1	stimulation	STUB1
+# Reference PMID: 32766732
+GLI2	form_complex	SIGNOR-C450
+# Reference PMID: 24996174
+SRC	inhibition	SIRT2
+# Reference PMID: 18332217
+SIGNOR-C16	inhibition	SIRT2
+# Reference PMID: 14522900
+ING1	inhibition	SIRT2
+# Reference PMID: 18332217
+CDK2	inhibition	SIRT2
+# Reference PMID: 17488717
+CDK1	inhibition	SIRT2
+# Reference PMID: 23474895
+POU5F1	form_complex	SIGNOR-C451
+# Reference PMID: 23474895
+SOX17	form_complex	SIGNOR-C451
+# Reference PMID: 19022774
+PTPN11	stimulation	HOXA10
+# Reference PMID: 17688409
+GATA1	inhibition	HOXA10
+# Reference PMID: 20565746
+EZH2	inhibition	HOXA10
+# Reference PMID: 16571352
+GLI2	stimulation	GLI1
+# Reference PMID: 15545630; 17845852
+MTSS1	stimulation	GLI1
+# Reference PMID: 16293631
+PRKACA	inhibition	GLI1
+# Reference PMID: 19549984
+KIF7	stimulation	GLI1
+# Reference PMID: 20081843
+HDAC1	stimulation	GLI1
+# Reference PMID: 17157787; 17845852
+PTEN	inhibition	GLI1
+# Reference PMID: 16421275
+BTRC	inhibition	GLI1
+# Reference PMID: 20818436; 17115028
+ITCH	inhibition	GLI1
+# Reference PMID: 17845852
+AKT2	stimulation	GLI1
+# Reference PMID: 32917954
+KAT2B	inhibition	GLI1
+# Reference PMID: 15367681
+SUFU	inhibition	GLI1
+# Reference PMID: 25790864
+SGK1	inhibition	GLI1
+# Reference PMID: 20818436
+NUMB	inhibition	GLI1
+# Reference PMID: 22439934
+RPS6KB1	stimulation	GLI1
+# Reference PMID: 26190112
+PRKAA1	inhibition	GLI1
+# Reference PMID: 17845852
+NRAS	stimulation	GLI1
+# Reference PMID: 26190112; 26843621
+SIGNOR-C15	inhibition	GLI1
+# Reference PMID: 16293631
+SIGNOR-PF17	inhibition	GLI1
+# Reference PMID: 16885213
+CXCL1	stimulation	GLI1
+# Reference PMID: 24280869
+DNMT3A	inhibition	HOXA9
+# Reference PMID: 20565746
+SIGNOR-C130	inhibition	HOXA9
+# Reference PMID: 24051379
+SALL4	stimulation	HOXA9
+# Reference PMID: 20565746
+EZH2	inhibition	HOXA9
+# Reference PMID: 20854876
+SIGNOR-C117	stimulation	HOXA9
+# Reference PMID: 22269951
+PRMT5	stimulation	HOXA9
+# Reference PMID: 30205049
+NPM1	inhibition	HOXA9
+# Reference PMID: 20457810
+SIGNOR-PF1	stimulation	SOX9
+# Reference PMID: 24155239
+UBE3A	inhibition	SOX9
+# Reference PMID: 15889150
+PRKACA	stimulation	SOX9
+# Reference PMID: 20457810
+MAPK3	stimulation	SOX9
+# Reference PMID: 20039424
+ROCK1	stimulation	SOX9
+# Reference PMID: 19254573
+DLK1	stimulation	SOX9
+# Reference PMID: 15240568
+TCF4	stimulation	SOX9
+# Reference PMID: 10052460
+PBX1	stimulation	HOXB1
+# Reference PMID: 7590241
+POU5F1	form_complex	SIGNOR-C73
+# Reference PMID: 7590241
+SOX2	form_complex	SIGNOR-C73
+# Reference PMID: 14500912
+SIGNOR-PF24	inhibition	FOXA2
+# Reference PMID: 22945641
+CTNNB1	stimulation	FOXA2
+# Reference PMID: 22196886
+CHUK	inhibition	FOXA2
+# Reference PMID: 22795133
+NANOG	inhibition	FOXA2
+# Reference PMID: 22795133
+POU5F1	inhibition	FOXA2
+# Reference PMID: 24979766
+RNF144A	inhibition	PRKDC
+# Reference PMID: 19133841
+XRCC6	stimulation	PRKDC
+# Reference PMID: 17308091
+HOXB7	stimulation	PRKDC
+# Reference PMID: 17189255
+ATM	stimulation	PRKDC
+# Reference PMID: 16908529
+ATR	stimulation	PRKDC
+# Reference PMID: 19805059
+NR3C1	stimulation	PER2
+# Reference PMID: 22260161
+CEBPA	stimulation	PER2
+# Reference PMID: 22750052
+SIGNOR-C195	stimulation	PER2
+# Reference PMID: 20817722
+SIGNOR-C431	stimulation	PER2
+# Reference PMID: 17525164; 15767683
+CSNK1E	inhibition	PER2
+# Reference PMID: 22750052
+CLOCK	stimulation	PER2
+# Reference PMID: 11165242
+CSNK1D	inhibition	PER2
+# Reference PMID: 17876059
+SIGNOR-C5	inhibition	PER2
+# Reference PMID: 22750052
+BMAL1	stimulation	PER2
+# Reference PMID: 14672706
+BHLHE40	inhibition	PER2
+# Reference PMID: 21460634
+ULK1	inhibition	PRKAA1
+# Reference PMID: 27784766
+PRKCB	inhibition	PRKAA1
+# Reference PMID: 27784766
+PRKCA	inhibition	PRKAA1
+# Reference PMID: 16340011
+SIGNOR-PF24	inhibition	PRKAA1
+# Reference PMID: 16054095; 14976552
+STK11	stimulation	PRKAA1
+# Reference PMID: 21918180
+CAMKK2	stimulation	PRKAA1
+# Reference PMID: 27784766; 16340011
+AKT1	inhibition	PRKAA1
+# Reference PMID: 21918180
+BRSK2	stimulation	PRKAA1
+# Reference PMID: 17023420
+SIGNOR-C15	inhibition	PRKAA1
+# Reference PMID: 17023420; 27784766
+PRKACA	inhibition	PRKAA1
+# Reference PMID: 21918180
+CAMKK1	stimulation	PRKAA1
+# Reference PMID: 19165418
+NOTCH1	stimulation	HES1
+# Reference PMID: 26522984
+NOTCH1	stimulation	ZMIZ1
+# Reference PMID: 9528794
+NOTCH1	inhibition	TCF3
+# Reference PMID: 11404076; 10713164
+NOTCH1	stimulation	SNW1
+# Reference PMID: 11486044
+NOTCH1	stimulation	HEY1
+# Reference PMID: 16256737
+NOTCH1	stimulation	HIF1A
+# Reference PMID: 22298955
+NOTCH1	stimulation	SIGNOR-C29
+# Reference PMID: 16554461
+NOTCH1	stimulation	ERBB2
+# Reference PMID: 11591772
+NOTCH1	stimulation	NFKB1
+# Reference PMID: 12107827
+NOTCH1	stimulation	PPARG
+# Reference PMID: 19151708
+NOTCH1	stimulation	PIN1
+# Reference PMID: 19165418
+NOTCH1	stimulation	RBPJ
+# Reference PMID: 7566092
+NOTCH1	form_complex	SIGNOR-C97
+# Reference PMID: 15207708; 22298955
+NOTCH1	stimulation	LFNG
+# Reference PMID: 16990763
+NOTCH1	stimulation	BCL2
+# Reference PMID: 12370315
+SIGNOR-PF30	stimulation	MAML3
+# Reference PMID: 32195003
+SIGNOR-PF30	stimulation	HES1
+# Reference PMID: 22298955
+SIGNOR-PF30	stimulation	SIGNOR-C29
+# Reference PMID: 12386158
+SIGNOR-PF30	stimulation	MAML2
+# Reference PMID: 11486031
+SIGNOR-PF30	stimulation	CCND1
+# Reference PMID: 19151708
+SIGNOR-PF30	stimulation	PIN1
+# Reference PMID: 10713164
+SIGNOR-PF30	stimulation	SNW1
+# Reference PMID: 22298955
+SIGNOR-PF30	stimulation	LFNG
+# Reference PMID: 15207708
+SIGNOR-PF30	stimulation	HEY1
+# Reference PMID: 12548545
+SIGNOR-PF30	stimulation	HEY2
+# Reference PMID: 16990763
+SIGNOR-PF30	stimulation	BCL2
+# Reference PMID: 22045613; 12361602; 7566092; 23729744
+SIGNOR-PF30	form_complex	SIGNOR-C97
+# Reference PMID: 20953350
+SIGNOR-PF30	stimulation	JAG1
+# Reference PMID: 30860024
+CCNH	form_complex	SIGNOR-C456
+# Reference PMID: 16386358
+STAT1	stimulation	TBX21
+# Reference PMID: 19643666
+STAT1	stimulation	SOCS3
+# Reference PMID: 19029990
+STAT1	stimulation	SIGNOR-PH54
+# Reference PMID: 17179173
+STAT1	inhibition	MMP13
+# Reference PMID: 16481475
+STAT1	inhibition	RELA
+# Reference PMID: 19482358
+STAT1	stimulation	SOCS1
+# Reference PMID: 9551976; 19029990
+STAT1	stimulation	CIITA
+# Reference PMID: 16481475
+STAT1	inhibition	SIGNOR-C13
+# Reference PMID: 20805247
+E2F1	stimulation	ELF4
+# Reference PMID: 18396012
+E2F1	stimulation	RASGEF1B
+# Reference PMID: 23213415
+E2F1	stimulation	HDAC1
+# Reference PMID: 22832221
+E2F1	stimulation	ATM
+# Reference PMID: 8649818
+E2F1	stimulation	SIGNOR-C16
+# Reference PMID: 12110166
+E2F1	stimulation	PPARG
+# Reference PMID: 19491197
+E2F1	stimulation	HIC1
+# Reference PMID: 14618416
+E2F1	stimulation	CDK1
+# Reference PMID: 14618416; 8649818
+E2F1	stimulation	CCNE1
+# Reference PMID: 19874716
+E2F1	stimulation	DLK1
+# Reference PMID: 21596315
+E2F1	stimulation	USP37
+# Reference PMID: 8832394
+E2F1	stimulation	TFDP1
+# Reference PMID: 21454478; 20957627
+SMAD1	stimulation	SMAD4
+# Reference PMID: 12589053
+SMAD1	stimulation	PPARG
+# Reference PMID: 16621789
+SMAD1	stimulation	DVL1
+# Reference PMID: 22298955
+SMAD1	stimulation	RUNX2
+# Reference PMID: 22219353
+SMAD1	stimulation	SMAD6
+# Reference PMID: 22219353
+SMAD1	stimulation	GATA3
+# Reference PMID: 12524424
+SMAD3	inhibition	CEBPB
+# Reference PMID: 9843571
+SMAD3	form_complex	SIGNOR-C9
+# Reference PMID: 10890911
+SMAD3	stimulation	LEF1
+# Reference PMID: 14638857
+SMAD3	stimulation	SIGNOR-PF30
+# Reference PMID: 14638857
+SMAD3	stimulation	NOTCH1
+# Reference PMID: 23032366
+SMAD3	stimulation	CDKN2B
+# Reference PMID: 9843571
+SMAD3	stimulation	SMAD4
+# Reference PMID: 11331591
+SMAD3	inhibition	RUNX2
+# Reference PMID: 11711431
+SMAD3	inhibition	MYOD1
+# Reference PMID: 18003659
+SMAD3	inhibition	FOXA1
+# Reference PMID: 26194464
+SMAD3	form_complex	SIGNOR-C204
+# Reference PMID: 16766264
+SMAD3	inhibition	BCL2
+# Reference PMID: 25878058
+TSHR	stimulation	GNAS
+# Reference PMID: 25905363
+SIGNOR-C412	stimulation	TSHR
+# Reference PMID: 9148896
+MYOD1	inhibition	SP1
+# Reference PMID: 18094043
+MYOD1	stimulation	VEGFA
+# Reference PMID: 17194702
+MYOD1	stimulation	SIGNOR-C92
+# Reference PMID: 15130492
+MYOD1	stimulation	FST
+# Reference PMID: 15870273; 18676376
+MYOD1	stimulation	MYOG
+# Reference PMID: 17194702
+MYOD1	stimulation	SMARCA4
+# Reference PMID: 10373569
+MYOD1	stimulation	RB1
+# Reference PMID: 17194702
+MYOD1	form_complex	SIGNOR-C93
+# Reference PMID: 15870273
+MYOD1	stimulation	SMARCD3
+# Reference PMID: 28067271
+MYOD1	stimulation	PJA1
+# Reference PMID: 11070080
+MDM2	inhibition	EP300
+# Reference PMID: 10640274
+MDM2	inhibition	HIF1A
+# Reference PMID: 22337874; 10935507; 23150757
+MDM2	inhibition	TP53
+# Reference PMID: 16511560
+MDM2	inhibition	MDM4
+# Reference PMID: 23252402
+MDM2	stimulation	NOTCH1
+# Reference PMID: 12646252
+MDM2	inhibition	NUMB
+# Reference PMID: 11927554
+MDM2	inhibition	KAT5
+# Reference PMID: 19965871
+MDM2	inhibition	DYRK2
+# Reference PMID: 18292944
+MDM2	inhibition	CDKN2AIP
+# Reference PMID: 24488098
+MDM2	inhibition	PBXIP1
+# Reference PMID: 17700533
+MDM2	inhibition	TP73
+# Reference PMID: 11073989
+MDM2	inhibition	EID1
+# Reference PMID: 10050749
+HNF1A	stimulation	IGF1
+# Reference PMID: 20568120
+HNF1A	stimulation	CDH17
+# Reference PMID: 10347215; 26260587
+IL10	stimulation	IL10RA
+# Reference PMID: 25726523
+GATA1	stimulation	HDAC4
+# Reference PMID: 10523830
+GATA1	stimulation	FLI1
+# Reference PMID: 19825991
+GATA1	inhibition	CBFB
+# Reference PMID: 25726523
+GATA1	stimulation	HDAC3
+# Reference PMID: 12432220
+GATA1	inhibition	GATA2
+# Reference PMID: 8195185
+GATA1	stimulation	KLF1
+# Reference PMID: 27858941
+GATA1	inhibition	KIT
+# Reference PMID: 21853041
+GATA1	stimulation	ZFPM1
+# Reference PMID: 17725493
+GATA1	stimulation	ITGA2B
+# Reference PMID: 17725493
+GATA1	stimulation	RUNX1
+# Reference PMID: 9707565
+KLF1	stimulation	HBB
+# Reference PMID: 12556498
+KLF1	inhibition	FLI1
+# Reference PMID: 20103718
+PRL	stimulation	KRT14
+# Reference PMID: 24708856
+URS000062749E_9606	stimulation	JUN
+# Reference PMID: 19219026
+URS000062749E_9606	stimulation	SIGNOR-C154
+# Reference PMID: 24708856
+URS000062749E_9606	stimulation	FOS
+# Reference PMID: 25477897
+URS000062749E_9606	inhibition	CEBPB
+# Reference PMID: 31390932
+URS000062749E_9606	inhibition	JARID2
+# Reference PMID: 24708856
+URS000062749E_9606	inhibition	INPP5D
+# Reference PMID: 28111979
+JUN	stimulation	GLS
+# Reference PMID: 2467839; 3142692; 1904542; 25875593
+JUN	form_complex	SIGNOR-C154
+# Reference PMID: 20338993
+JUN	stimulation	MMP13
+# Reference PMID: 9312063
+JUN	stimulation	SMAD4
+# Reference PMID: 19299913
+JUN	stimulation	DDIT3
+# Reference PMID: 16007074
+JUN	stimulation	TCF4
+# Reference PMID: 10871633
+JUN	inhibition	SMAD3
+# Reference PMID: 23936544
+JUN	stimulation	TGFB1
+# Reference PMID: 24583263
+GATA2	stimulation	ETV2
+# Reference PMID: 20510530; 19772889
+GATA2	inhibition	PPARG
+# Reference PMID: 8195185
+GATA2	stimulation	KLF1
+# Reference PMID: 27426034
+ANXA1	stimulation	TNF
+# Reference PMID: 27426034
+ANXA1	stimulation	IL1B
+# Reference PMID: 27426034
+ANXA1	stimulation	IL6
+# Reference PMID: 20506119
+NAB2	inhibition	EGR1
+# Reference PMID: 22431919
+NAB2	stimulation	BCAR1
+# Reference PMID: 20506119
+NAB2	inhibition	EGR3
+# Reference PMID: 19029956; 21798082
+IGF1	stimulation	IGF1R
+# Reference PMID: 16039586
+IGF1	inhibition	SIGNOR-C110
+# Reference PMID: 10448861
+IGF1	stimulation	PPP3CC
+# Reference PMID: 10448861
+IGF1	stimulation	SIGNOR-C155
+# Reference PMID: 10448861
+IGF1	stimulation	SIGNOR-PF18
+# Reference PMID: 10448861
+IGF1	stimulation	PPP3CB
+# Reference PMID: 12734180
+IGF1	inhibition	MMP13
+# Reference PMID: 10448861
+IGF1	stimulation	PPP3CA
+# Reference PMID: 20663873
+PIM1	inhibition	FZR1
+# Reference PMID: 18593906
+PIM1	inhibition	SIGNOR-PF27
+# Reference PMID: 18593906
+PIM1	inhibition	FOXO3
+# Reference PMID: 16403219
+PIM1	inhibition	BAD
+# Reference PMID: 24040307
+PIM1	stimulation	FLT3
+# Reference PMID: 18593906
+PIM1	inhibition	CDKN1B
+# Reference PMID: 18467333
+PIM1	stimulation	MDM2
+# Reference PMID: 19911008
+PIM1	stimulation	RELA
+# Reference PMID: 20663873
+PIM1	stimulation	SKP2
+# Reference PMID: 19749799
+PIM1	inhibition	MAP3K5
+# Reference PMID: 21084860
+MSI2	inhibition	NUMB
+# Reference PMID: 11901318
+HBB	stimulation	TNF
+# Reference PMID: 11901318
+HBA1	stimulation	TNF
+# Reference PMID: 11149923
+WNT1	stimulation	CTNNB1
+# Reference PMID: 21078818
+WNT1	stimulation	LRP6
+# Reference PMID: 22944199; 16936075; 15578921
+WNT1	stimulation	FZD1
+# Reference PMID: 22944199; 9753670
+WNT1	stimulation	MYF5
+# Reference PMID: 15578921
+WNT1	stimulation	FZD3
+# Reference PMID: 16936075; 18697834
+WNT1	stimulation	SIGNOR-PF11
+# Reference PMID: 16697957
+NKX3-1	stimulation	TP53
+# Reference PMID: 16697957
+NKX3-1	inhibition	AR
+# Reference PMID: 16697957
+NKX3-1	inhibition	HDAC1
+# Reference PMID: 21078818; 16890161; 15578921
+WNT3A	stimulation	LRP6
+# Reference PMID: 10601008; 21078818
+WNT3A	stimulation	FZD1
+# Reference PMID: 19910923
+WNT3A	stimulation	FZD2
+# Reference PMID: 10601008; 21078818
+WNT3A	stimulation	FZD3
+# Reference PMID: 21078818; 18697834
+WNT3A	stimulation	SIGNOR-PF11
+# Reference PMID: 18772438
+WNT3A	stimulation	DVL1
+# Reference PMID: 23836662
+EZH2	inhibition	SNAI2
+# Reference PMID: 23836662
+EZH2	inhibition	TWIST1
+# Reference PMID: 22808286
+EZH2	inhibition	HOXB13
+# Reference PMID: 23110252
+EZH2	form_complex	SIGNOR-C130
+# Reference PMID: 16712789
+EZH2	form_complex	SIGNOR-C77
+# Reference PMID: 23239736
+EZH2	stimulation	AR
+# Reference PMID: 21255999
+CDH5	stimulation	CTNNB1
+# Reference PMID: 15578921
+WNT11	stimulation	LRP6
+# Reference PMID: 16273260; 15578921
+WNT11	stimulation	FZD3
+# Reference PMID: 16273260
+WNT11	stimulation	SIGNOR-PF11
+# Reference PMID: 10862746
+WNT11	stimulation	FZD7
+# Reference PMID: 18593906
+SIGNOR-PF34	inhibition	CDKN1B
+# Reference PMID: 18593906
+SIGNOR-PF34	inhibition	SIGNOR-PF27
+# Reference PMID: 19911008
+SIGNOR-PF34	stimulation	RELA
+# Reference PMID: 19749799
+SIGNOR-PF34	inhibition	MAP3K5
+# Reference PMID: 18593906
+SIGNOR-PF34	inhibition	FOXO3
+# Reference PMID: 16403219; 10837473
+SIGNOR-PF34	inhibition	BAD
+# Reference PMID: 18467333
+SIGNOR-PF34	stimulation	MDM2
+# Reference PMID: 25297919
+VWF	stimulation	SIGNOR-C173
+# Reference PMID: 32766732
+SIGNOR-C450	stimulation	BCL2
+# Reference PMID: 32766732
+SIGNOR-C450	stimulation	CCND1
+# Reference PMID: 10050855
+HHIP	inhibition	IHH
+# Reference PMID: 10050855
+HHIP	inhibition	SHH
+# Reference PMID: 20443831
+CCND1	stimulation	NOTCH1
+# Reference PMID: 7736585
+CCND1	form_complex	SIGNOR-C18
+# Reference PMID: 8114739
+CCND1	form_complex	SIGNOR-C143
+# Reference PMID: 23562856; 7736585
+CCND1	stimulation	CDK4
+# Reference PMID: 15713663
+CCND1	stimulation	HDAC3
+# Reference PMID: 20443831
+CCND1	stimulation	MSI1
+# Reference PMID: 15713663
+CCND1	stimulation	HDAC2
+# Reference PMID: 11331587
+PTCH1	stimulation	CCNB1
+# Reference PMID: 12192414; 14556242
+PTCH1	inhibition	SMO
+# Reference PMID: 12105215
+SIGNOR-C16	stimulation	SF3B1
+# Reference PMID: 24662826
+SIGNOR-C16	inhibition	SNAI2
+# Reference PMID: 12058066; 14670079; 11278991
+SIGNOR-C16	inhibition	NPM1
+# Reference PMID: 12676926
+SIGNOR-C16	inhibition	TP73
+# Reference PMID: 20530684
+SIGNOR-C16	stimulation	CDC25C
+# Reference PMID: 9029153
+SIGNOR-C16	inhibition	ID2
+# Reference PMID: 16582606
+SIGNOR-C16	stimulation	PRKAR1A
+# Reference PMID: 21902831
+SIGNOR-C16	inhibition	MYOD1
+# Reference PMID: 10207050
+SIGNOR-C16	inhibition	RB1
+# Reference PMID: 21596315
+SIGNOR-C16	stimulation	USP37
+# Reference PMID: 12006580; 11157749
+CDK2	inhibition	RBL2
+# Reference PMID: 16582606
+CDK2	stimulation	PRKAR1A
+# Reference PMID: 9139732; 21902831
+CDK2	inhibition	RB1
+# Reference PMID: 14536078; 19561641
+CDK2	inhibition	CCNE1
+# Reference PMID: 16085715
+CDK2	inhibition	WEE1
+# Reference PMID: 10655479
+CDK2	inhibition	PGR
+# Reference PMID: 10652300
+CDK2	stimulation	CCNA2
+# Reference PMID: 22369944; 17601773
+CDK2	stimulation	CEBPB
+# Reference PMID: 17038621; 19188143
+CDK2	inhibition	SIGNOR-PF27
+# Reference PMID: 12058066; 11278991
+CDK2	inhibition	NPM1
+# Reference PMID: 20080565
+CDK2	inhibition	GRK2
+# Reference PMID: 10428798; 23390529
+CDK2	stimulation	ESR1
+# Reference PMID: 12676926
+CDK2	inhibition	TP73
+# Reference PMID: 20530684
+CDK2	stimulation	CDC25C
+# Reference PMID: 12202491
+CDK2	inhibition	SIGNOR-PF54
+# Reference PMID: 11113184
+CDK2	stimulation	CDK7
+# Reference PMID: 21902831
+CDK2	inhibition	MYOD1
+# Reference PMID: 10550055; 19683496
+CDK2	stimulation	BRCA1
+# Reference PMID: 17038621
+CDK2	inhibition	FOXO1
+# Reference PMID: 17015473; 16046550
+CDK2	stimulation	RUNX1
+# Reference PMID: 9199329
+CDK2	stimulation	NR3C1
+# Reference PMID: 12560341
+CDK2	inhibition	FZR1
+# Reference PMID: 11598016
+CDK2	stimulation	SP1
+# Reference PMID: 21565170
+CDK2	stimulation	DNMT1
+# Reference PMID: 23241245
+CDK2	stimulation	EZH2
+# Reference PMID: 9372912
+CDK2	inhibition	ID3
+# Reference PMID: 19114991; 15241418
+CDK2	inhibition	SMAD3
+# Reference PMID: 9029153
+CDK2	inhibition	ID2
+# Reference PMID: 21596315
+CDK2	stimulation	USP37
+# Reference PMID: 19665013
+CDK2	form_complex	SIGNOR-C16
+# Reference PMID: 19202191
+CDK2	stimulation	RBBP8
+# Reference PMID: 12202491
+CDK2	inhibition	PPP1CA
+# Reference PMID: 12105215
+CDK2	stimulation	SF3B1
+# Reference PMID: 16027724
+CDK2	inhibition	CDX2
+# Reference PMID: 23972993
+CDK2	inhibition	CDH1
+# Reference PMID: 17409098
+CDK2	inhibition	CDKN1B
+# Reference PMID: 19056339
+CDK2	form_complex	SIGNOR-C83
+# Reference PMID: 20807815
+CDK2	stimulation	PELP1
+# Reference PMID: 33082307
+CDK2	stimulation	MECOM
+# Reference PMID: 18239684
+CDK2	stimulation	SKP2
+# Reference PMID: 25364462
+CDK2	stimulation	CCNO
+# Reference PMID: 24173284
+CDK2	stimulation	TP53
+# Reference PMID: 21765472
+CDK2	stimulation	CHEK1
+# Reference PMID: 19066288
+CDK2	stimulation	DLG1
+# Reference PMID: 31875566
+CDK1	inhibition	ATAD5
+# Reference PMID: 33309518
+CDK1	inhibition	PPM1D
+# Reference PMID: 20513426
+CDK1	inhibition	PIK3C3
+# Reference PMID: 7578274
+CDK1	stimulation	CSNK2B
+# Reference PMID: 32152317
+CDK1	stimulation	USP9X
+# Reference PMID: 31776402
+CDK1	inhibition	KDM5B
+# Reference PMID: 16407259
+CDK1	stimulation	RUNX2
+# Reference PMID: 8360196
+CDK1	inhibition	EGFR
+# Reference PMID: 1902553
+CDK1	inhibition	RAB1A
+# Reference PMID: 1756735
+CDK1	inhibition	RB1
+# Reference PMID: 16085715; 15070733
+CDK1	inhibition	WEE1
+# Reference PMID: 14551205
+CDK1	inhibition	TSC1
+# Reference PMID: 23348582
+CDK1	stimulation	PTPN1
+# Reference PMID: 7592773; 19941816
+CDK1	stimulation	CSNK2A1
+# Reference PMID: 23116119
+CDK1	stimulation	USP1
+# Reference PMID: 18408765
+CDK1	inhibition	SIGNOR-PF27
+# Reference PMID: 26375055
+CDK1	inhibition	WWTR1
+# Reference PMID: 29930204
+CDK1	stimulation	FMNL2
+# Reference PMID: 15037602
+CDK1	stimulation	RANGAP1
+# Reference PMID: 12058066; 14670079; 11278991
+CDK1	inhibition	NPM1
+# Reference PMID: 18234856
+CDK1	stimulation	NME1
+# Reference PMID: 21840486
+CDK1	inhibition	PML
+# Reference PMID: 12676926
+CDK1	inhibition	TP73
+# Reference PMID: 10037602; 8119945; 10864927
+CDK1	stimulation	CDC25C
+# Reference PMID: 23500464
+CDK1	inhibition	UBXN2B
+# Reference PMID: 24413556
+CDK1	stimulation	HASPIN
+# Reference PMID: 12202491
+CDK1	inhibition	SIGNOR-PF54
+# Reference PMID: 9271440; 11705993; 15774499; 12586835
+CDK1	stimulation	RPS6KB1
+# Reference PMID: 14749395; 21902831
+CDK1	inhibition	MYOD1
+# Reference PMID: 10550055; 19683496
+CDK1	stimulation	BRCA1
+# Reference PMID: 10766756; 19917720
+CDK1	bimodal	BCL2
+# Reference PMID: 17015473; 21059642; 16046550
+CDK1	stimulation	RUNX1
+# Reference PMID: 18408765
+CDK1	inhibition	FOXO1
+# Reference PMID: 19107194
+CDK1	stimulation	SIRT1
+# Reference PMID: 20150555
+CDK1	stimulation	SP1
+# Reference PMID: 10764745
+CDK1	inhibition	EPN1
+# Reference PMID: 21565170
+CDK1	stimulation	DNMT1
+# Reference PMID: 17466630; 16287866
+CDK1	inhibition	CASP9
+# Reference PMID: 24677263
+CDK1	stimulation	BAD
+# Reference PMID: 21799006
+CDK1	stimulation	AR
+# Reference PMID: 21659531
+CDK1	inhibition	EZH2
+# Reference PMID: 15367677
+CDK1	stimulation	FANCG
+# Reference PMID: 26933062
+CDK1	stimulation	YAP1
+# Reference PMID: 16760428
+CDK1	stimulation	BUB1
+# Reference PMID: 30021153
+CDK1	stimulation	WAC
+# Reference PMID: 11861764
+CDK1	stimulation	BIRC5
+# Reference PMID: 24530506
+CDK1	inhibition	EP300
+# Reference PMID: 12202491
+CDK1	inhibition	PPP1CA
+# Reference PMID: 29870721
+CDK1	form_complex	SIGNOR-C420
+# Reference PMID: 12719431
+CDK1	inhibition	PIK3C2A
+# Reference PMID: 20801879; 12107172
+CDK1	stimulation	CDC25B
+# Reference PMID: 25603287
+CDK1	form_complex	SIGNOR-C17
+# Reference PMID: 23455152
+CDK1	stimulation	DCTN6
+# Reference PMID: 8087847
+CDK1	stimulation	E2F1
+# Reference PMID: 16880739
+CDK1	stimulation	SREBF1
+# Reference PMID: 16378098
+CDK1	stimulation	INCENP
+# Reference PMID: 15735705
+CDK1	inhibition	MDM4
+# Reference PMID: 10931950
+CDK1	inhibition	CDKN1B
+# Reference PMID: 16103124
+CDK1	stimulation	KAT5
+# Reference PMID: 20937773
+CDK1	inhibition	CASP8
+# Reference PMID: 37584777
+CDK1	stimulation	AMBRA1
+# Reference PMID: 23063527
+CDK1	stimulation	AKAP12
+# Reference PMID: 24173284
+CDK1	stimulation	TP53
+# Reference PMID: 21900237
+CDK1	inhibition	ABI1
+# Reference PMID: 11466319; 21767532
+CDK1	inhibition	CREM
+# Reference PMID: 21765472
+CDK1	stimulation	CHEK1
+# Reference PMID: 22306293
+PKM	stimulation	STAT3
+# Reference PMID: 8649818
+E2F2	stimulation	CCNE1
+# Reference PMID: 8832394
+E2F2	stimulation	TFDP1
+# Reference PMID: 12522243
+ANP32A	stimulation	CASP9
+# Reference PMID: 11494128
+ABL1	inhibition	EPHB2
+# Reference PMID: 11790798
+ABL1	stimulation	VAV1
+# Reference PMID: 12637538
+ABL1	stimulation	PRKD1
+# Reference PMID: 12468540; 8692915
+ABL1	stimulation	PTPN6
+# Reference PMID: 11278340
+ABL1	stimulation	MAP4K1
+# Reference PMID: 22590567
+ABL1	stimulation	STK3
+# Reference PMID: 9144171
+ABL1	stimulation	RIN1
+# Reference PMID: 15657060
+ABL1	stimulation	CASP9
+# Reference PMID: 22590567
+ABL1	stimulation	SIGNOR-PF41
+# Reference PMID: 19563810
+ABL1	stimulation	CEBPB
+# Reference PMID: 17626041
+ABL1	stimulation	ERCC6
+# Reference PMID: 11120811
+ABL1	stimulation	CD19
+# Reference PMID: 19423701
+ABL1	stimulation	RACK1
+# Reference PMID: 23581475
+ABL1	inhibition	UBE3A
+# Reference PMID: 17254966
+ABL1	inhibition	CDKN1B
+# Reference PMID: 11163214
+ABL1	stimulation	PSTPIP1
+# Reference PMID: 10896159
+ABL1	stimulation	CDK5
+# Reference PMID: 17018282
+ABL1	stimulation	DDX5
+# Reference PMID: 24044023
+ABL1	inhibition	KAT5
+# Reference PMID: 25944899
+ABL1	stimulation	HIPK2
+# Reference PMID: 12652307
+ABL1	inhibition	PLCG1
+# Reference PMID: 12110584; 21081495
+ABL1	inhibition	MDM2
+# Reference PMID: 10637231
+ABL1	stimulation	JUN
+# Reference PMID: 22327338
+ABL1	stimulation	NCK1
+# Reference PMID: 12445832
+ABL1	inhibition	BTK
+# Reference PMID: 12107171
+ABL1	inhibition	DDB2
+# Reference PMID: 18280240
+ABL1	stimulation	YAP1
+# Reference PMID: 25368164
+ABL1	stimulation	PPARG
+# Reference PMID: 10753870
+ABL1	inhibition	MTOR
+# Reference PMID: 19275932
+ABL1	bimodal	PDGFRB
+# Reference PMID: 20798688
+ABL1	stimulation	ATR
+# Reference PMID: 20101225
+ABL1	stimulation	ESR1
+# Reference PMID: 10391251
+ABL1	stimulation	TP73
+# Reference PMID: 16943190
+ABL1	stimulation	EGFR
+# Reference PMID: 11593427
+ABL1	stimulation	JAK2
+# Reference PMID: 12415271
+ABL1	inhibition	MYOD1
+# Reference PMID: 21320496
+ABL1	stimulation	ABI1
+# Reference PMID: 21715626
+ABL1	stimulation	STK4
+# Reference PMID: 25219501
+ABL1	stimulation	HDAC2
+# Reference PMID: 9256431
+TRIP11	stimulation	THRA
+# Reference PMID: 9256431
+TRIP11	stimulation	SIGNOR-PF84
+# Reference PMID: 9256431
+TRIP11	stimulation	THRB
+# Reference PMID: 27758890
+HDAC3	stimulation	FASN
+# Reference PMID: 23213415
+HDAC3	stimulation	SMAD7
+# Reference PMID: 11486036
+HDAC3	inhibition	YY1
+# Reference PMID: 25726523
+HDAC3	inhibition	CDH1
+# Reference PMID: 23213415
+HDAC3	stimulation	E2F1
+# Reference PMID: 23213415
+HDAC3	stimulation	HDAC1
+# Reference PMID: 25603287
+CCNB1	form_complex	SIGNOR-C17
+# Reference PMID: 21902831
+CDK4	inhibition	MEF2C
+# Reference PMID: 19351720
+CDK4	inhibition	RUNX3
+# Reference PMID: 20807815
+CDK4	stimulation	PELP1
+# Reference PMID: 21902831
+CDK4	inhibition	MYOG
+# Reference PMID: 21902831
+CDK4	inhibition	MEF2A
+# Reference PMID: 7736585
+CDK4	form_complex	SIGNOR-C18
+# Reference PMID: 24870244
+CDK4	stimulation	KAT2A
+# Reference PMID: 19114991; 15241418
+CDK4	inhibition	SMAD3
+# Reference PMID: 21902831
+CDK4	inhibition	MYOD1
+# Reference PMID: 15809340; 9139732; 23336272
+CDK4	inhibition	RB1
+# Reference PMID: 17334399
+CDK4	inhibition	BRCA1
+# Reference PMID: 14551205
+SIGNOR-C17	inhibition	TSC1
+# Reference PMID: 23348582
+SIGNOR-C17	stimulation	PTPN1
+# Reference PMID: 19107194
+SIGNOR-C17	stimulation	SIRT1
+# Reference PMID: 20150555
+SIGNOR-C17	stimulation	SP1
+# Reference PMID: 17466630; 16287866
+SIGNOR-C17	inhibition	CASP9
+# Reference PMID: 12107172
+SIGNOR-C17	stimulation	CDC25B
+# Reference PMID: 33309518
+SIGNOR-C17	inhibition	PPM1D
+# Reference PMID: 18521620
+SIGNOR-C17	stimulation	BORA
+# Reference PMID: 16880739
+SIGNOR-C17	stimulation	SREBF1
+# Reference PMID: 26375055
+SIGNOR-C17	inhibition	WWTR1
+# Reference PMID: 16478538
+SIGNOR-C17	inhibition	MEF2C
+# Reference PMID: 12468530
+SIGNOR-C17	stimulation	KAT5
+# Reference PMID: 20937773
+SIGNOR-C17	inhibition	CASP8
+# Reference PMID: 15037602
+SIGNOR-C17	stimulation	RANGAP1
+# Reference PMID: 32152317
+SIGNOR-C17	stimulation	USP9X
+# Reference PMID: 11687586
+SIGNOR-C17	stimulation	RGCC
+# Reference PMID: 12058066
+SIGNOR-C17	inhibition	NPM1
+# Reference PMID: 37584777
+SIGNOR-C17	stimulation	AMBRA1
+# Reference PMID: 26933062
+SIGNOR-C17	stimulation	YAP1
+# Reference PMID: 23063527
+SIGNOR-C17	stimulation	AKAP12
+# Reference PMID: 15541388
+SIGNOR-C17	stimulation	PBK
+# Reference PMID: 18234856
+SIGNOR-C17	stimulation	NME1
+# Reference PMID: 12676926
+SIGNOR-C17	inhibition	TP73
+# Reference PMID: 10864927; 10913154
+SIGNOR-C17	stimulation	CDC25C
+# Reference PMID: 14749395; 21902831
+SIGNOR-C17	inhibition	MYOD1
+# Reference PMID: 21900237
+SIGNOR-C17	inhibition	ABI1
+# Reference PMID: 23051732
+SIGNOR-C17	inhibition	WEE1
+# Reference PMID: 21059642
+SIGNOR-C17	stimulation	RUNX1
+# Reference PMID: 25344755
+CDK3	form_complex	SIGNOR-C545
+# Reference PMID: 19118012
+CDK3	stimulation	JUN
+# Reference PMID: 25344755
+CDK3	inhibition	NOTCH1
+# Reference PMID: 15084261
+CDK3	inhibition	RB1
+# Reference PMID: 33082307
+CDK3	stimulation	MECOM
+# Reference PMID: 18794154
+CDK3	stimulation	ATF1
+# Reference PMID: 26202215
+CDK3	stimulation	ESR1
+# Reference PMID: 10775268
+CTNNB1	stimulation	EP300
+# Reference PMID: 24482235
+CTNNB1	stimulation	KLF4
+# Reference PMID: 24291232; 24482235
+CTNNB1	bimodal	SOX2
+# Reference PMID: 23151663; 21078818; 15735151
+CTNNB1	stimulation	LEF1
+# Reference PMID: 19000719
+CTNNB1	stimulation	NOTCH1
+# Reference PMID: 10716946
+CTNNB1	stimulation	CCN4
+# Reference PMID: 10937998
+CTNNB1	inhibition	PPARG
+# Reference PMID: 21255999
+CTNNB1	stimulation	SIGNOR-PF72
+# Reference PMID: 21255999
+CTNNB1	stimulation	SCRIB
+# Reference PMID: 11713476
+CTNNB1	stimulation	TCF4
+# Reference PMID: 15735151; 12589056
+CTNNB1	stimulation	CCND1
+# Reference PMID: 22298955; 19175684
+CTNNB1	stimulation	RUNX2
+# Reference PMID: 18316399
+CTNNB1	stimulation	MYOD1
+# Reference PMID: 12172553
+TSC2	form_complex	SIGNOR-C101
+# Reference PMID: 15340059
+TSC2	inhibition	RHEB
+# Reference PMID: 12271141
+TSC2	inhibition	MTOR
+# Reference PMID: 10807585
+TSC2	stimulation	TSC1
+# Reference PMID: 23416275
+CDKN2A	inhibition	MDM2
+# Reference PMID: 12091906
+CDKN2A	stimulation	TP53
+# Reference PMID: 15775976
+CDKN2A	stimulation	ATR
+# Reference PMID: 14636574
+CDKN2A	inhibition	NPM1
+# Reference PMID: 11684015
+SIGNOR-FP6	inhibition	CASP3
+# Reference PMID: 11684015
+SIGNOR-FP6	inhibition	SIGNOR-C221
+# Reference PMID: 11790798
+SIGNOR-FP6	stimulation	VAV1
+# Reference PMID: 17318191
+SIGNOR-FP6	bimodal	CTNNB1
+# Reference PMID: 23027962
+SIGNOR-FP6	inhibition	RHOA
+# Reference PMID: 11593427
+SIGNOR-FP6	stimulation	JAK2
+# Reference PMID: 8402896
+SIGNOR-FP6	stimulation	NRAS
+# Reference PMID: 8642285
+SIGNOR-FP6	stimulation	STAT5A
+# Reference PMID: 24317448
+SIGNOR-FP6	stimulation	USP7
+# Reference PMID: 20554525; 11726515; 8402896
+SIGNOR-FP6	inhibition	GRB2
+# Reference PMID: 8758906; 14500898
+SIGNOR-FP6	stimulation	SIGNOR-C212
+# Reference PMID: 9467953; 8622703
+SIGNOR-FP6	inhibition	BCR
+# Reference PMID: 24332853
+URS000037EC34_9606	inhibition	CARM1
+# Reference PMID: 19767769
+MECOM	stimulation	PBX1
+# Reference PMID: 21695170
+MECOM	stimulation	DNMT3A
+# Reference PMID: 15889140
+MECOM	stimulation	TEK
+# Reference PMID: 15889140
+MECOM	stimulation	GATA2
+# Reference PMID: 15889140
+MECOM	stimulation	ANGPT2
+# Reference PMID: 17575132
+MECOM	inhibition	RUNX1
+# Reference PMID: 15889140
+MECOM	stimulation	ANGPT1
+# Reference PMID: 9665135
+MECOM	inhibition	SMAD3
+# Reference PMID: 10978167
+ELANE	inhibition	F2R
+# Reference PMID: 10978167
+ELANE	inhibition	F2RL1
+# Reference PMID: 10734056; 20219869
+CCL3	stimulation	CCR1
+# Reference PMID: 20219869; 15075201
+CCL3	stimulation	CCR5
+# Reference PMID: 15075201
+CCL3	stimulation	CCR2
+# Reference PMID: 22056382
+SIGNOR-C14	stimulation	HES1
+# Reference PMID: 17977820
+SIGNOR-C14	inhibition	IKBKG
+# Reference PMID: 28704656
+SIGNOR-C14	inhibition	MTURN
+# Reference PMID: 21232017; 9346241
+SIGNOR-C14	inhibition	NFKBIA
+# Reference PMID: 19609947; 15489227
+SIGNOR-C14	stimulation	SIGNOR-C13
+# Reference PMID: 15494311
+SIGNOR-C14	inhibition	NCOR2
+# Reference PMID: 15084260; 19188143
+SIGNOR-C14	inhibition	SIGNOR-PF27
+# Reference PMID: 15084260; 19188143
+SIGNOR-C14	inhibition	FOXO3
+# Reference PMID: 23332762
+SIGNOR-C14	inhibition	BAD
+# Reference PMID: 15526160
+KIT	stimulation	SIGNOR-PF1
+# Reference PMID: 15526160
+KIT	stimulation	JAK2
+# Reference PMID: 22806893
+KIT	stimulation	PTPN11
+# Reference PMID: 18179858; 15526160; 7509796
+KIT	stimulation	SIGNOR-C156
+# Reference PMID: 10377264
+KIT	stimulation	GRB2
+# Reference PMID: 21135090
+KIT	stimulation	STAT1
+# Reference PMID: 7509796
+KIT	stimulation	PIK3R1
+# Reference PMID: 10679268
+KIT	stimulation	STAP1
+# Reference PMID: 16988024
+ITGA2B	form_complex	SIGNOR-C173
+# Reference PMID: 11062529
+SIGNOR-C6	stimulation	MEF2C
+# Reference PMID: 17074756
+SIGNOR-C6	stimulation	SMAD2
+# Reference PMID: 12527917
+SIGNOR-C6	stimulation	DDX5
+# Reference PMID: 10944526
+SIGNOR-C6	stimulation	MYOD1
+# Reference PMID: 11486036
+SIGNOR-C6	stimulation	YY1
+# Reference PMID: 9707565
+SIGNOR-C6	stimulation	KLF1
+# Reference PMID: 16382138
+SIGNOR-C6	stimulation	RELA
+# Reference PMID: 21321929
+SIGNOR-C6	inhibition	FLI1
+# Reference PMID: 12419246
+SIGNOR-C6	stimulation	SMAD1
+# Reference PMID: 17074756; 9865691
+SIGNOR-C6	stimulation	SMAD3
+# Reference PMID: 22863532
+SIGNOR-C91	stimulation	MYF5
+# Reference PMID: 29170386
+NCOA2	stimulation	NR3C1
+# Reference PMID: 12503607
+NCOA2	stimulation	RARA
+# Reference PMID: 18584035
+NCOA2	stimulation	PPARG
+# Reference PMID: 11851396
+NCOA2	stimulation	RXRA
+# Reference PMID: 24239470
+NCOA2	stimulation	AR
+# Reference PMID: 9162033
+AR	inhibition	NR3C1
+# Reference PMID: 16281084
+AR	inhibition	CLK3
+# Reference PMID: 16697957
+AR	stimulation	NKX3-1
+# Reference PMID: 11916967
+AR	inhibition	CTNNB1
+# Reference PMID: 16446741
+AR	inhibition	CRH
+# Reference PMID: 16281084
+AR	inhibition	NRAS
+# Reference PMID: 16281084
+AR	inhibition	WEE1
+# Reference PMID: 12198243
+NR0B2	inhibition	NR1H2
+# Reference PMID: 11369442
+NR0B2	stimulation	PPARA
+# Reference PMID: 12198243
+NR0B2	inhibition	NR1H3
+# Reference PMID: 11368516
+NR0B2	inhibition	THRA
+# Reference PMID: 11368516
+NR0B2	inhibition	SIGNOR-PF84
+# Reference PMID: 11735420
+NR0B2	inhibition	AR
+# Reference PMID: 10648597
+NR0B2	inhibition	ESR2
+# Reference PMID: 11861507
+NR0B2	inhibition	ESR1
+# Reference PMID: 16473826
+SIGNOR-C154	stimulation	SIGNOR-C432
+# Reference PMID: 15928679
+SIGNOR-C154	stimulation	NFATC1
+# Reference PMID: 12509763
+SIGNOR-C154	stimulation	CCND1
+# Reference PMID: 20086235
+SIGNOR-C154	stimulation	IL6
+# Reference PMID: 11160134
+SIGNOR-C156	inhibition	IRS1
+# Reference PMID: 21779497
+SIGNOR-C156	stimulation	RAC1
+# Reference PMID: 16293724
+SIGNOR-C156	stimulation	AKT2
+# Reference PMID: 10201980
+SIGNOR-C156	stimulation	BTK
+# Reference PMID: 14665640
+SIGNOR-C156	stimulation	PIK3CG
+# Reference PMID: 18721898
+SIGNOR-C156	stimulation	MTOR
+# Reference PMID: 15526160
+SIGNOR-C156	inhibition	BAD
+# Reference PMID: 16585207
+TGFA	stimulation	EGFR
+# Reference PMID: 15468147
+CRH	inhibition	KRT14
+# Reference PMID: 11416224
+CRH	stimulation	CRHR1
+# Reference PMID: 23435229
+KDM4B	stimulation	AR
+# Reference PMID: 11517191
+ESR2	stimulation	TGFA
+# Reference PMID: 8408641
+ESR2	stimulation	CRH
+# Reference PMID: 20553736
+PPARG	stimulation	IL10
+# Reference PMID: 16431920
+PPARG	inhibition	HDAC1
+# Reference PMID: 33754076
+PPARG	inhibition	GLS
+# Reference PMID: 23128507
+PPARG	inhibition	PTEN
+# Reference PMID: 20303941
+PPARG	inhibition	CTNNB1
+# Reference PMID: 17681149
+PPARG	stimulation	JUN
+# Reference PMID: 17681149
+PPARG	inhibition	STAT3
+# Reference PMID: 17681149
+PPARG	inhibition	SIGNOR-C13
+# Reference PMID: 19041764
+PPARG	stimulation	BMAL1
+# Reference PMID: 32991581
+PPARG	stimulation	PPARGC1A
+# Reference PMID: 12821652
+PPARG	stimulation	NR1D1
+# Reference PMID: 31462641
+GREB1	inhibition	SMAD2
+# Reference PMID: 31462641
+GREB1	inhibition	SMAD3
+# Reference PMID: 12612073
+PGR	stimulation	ESR1
+# Reference PMID: 14665640
+PIK3R1	stimulation	PIK3CA
+# Reference PMID: 19805105
+PIK3R1	form_complex	SIGNOR-C156
+# Reference PMID: 14665640
+PIK3R1	stimulation	PIK3CG
+# Reference PMID: 19047049
+SIRT1	inhibition	EP300
+# Reference PMID: 22395773
+SIRT1	stimulation	NCOR1
+# Reference PMID: 24003218; 14976264
+SIRT1	inhibition	SIGNOR-PF27
+# Reference PMID: 24003218; 14976264
+SIRT1	inhibition	FOXO3
+# Reference PMID: 27776347
+SIRT1	stimulation	CTNNB1
+# Reference PMID: 22395773
+SIRT1	stimulation	NCOR2
+# Reference PMID: 24870244
+SIRT1	stimulation	PLCG1
+# Reference PMID: 22223095
+SIRT1	inhibition	NOTCH1
+# Reference PMID: 19299583
+SIRT1	inhibition	SIGNOR-C195
+# Reference PMID: 17098745
+SIRT1	inhibition	SMAD7
+# Reference PMID: 21633182
+SIRT1	inhibition	PPARG
+# Reference PMID: 19010791
+SIRT1	inhibition	FOXL2
+# Reference PMID: 15152190
+SIRT1	inhibition	RELA
+# Reference PMID: 25280219; 19047049
+SIRT1	inhibition	TP53
+# Reference PMID: 12887892
+SIRT1	inhibition	MYOD1
+# Reference PMID: 19553684
+SIRT1	stimulation	PPARGC1A
+# Reference PMID: 24003218; 22395773
+SIRT1	bimodal	FOXO1
+# Reference PMID: 32453420
+CLK3	stimulation	USP13
+# Reference PMID: 22493435
+NFE2L2	stimulation	SOD1
+# Reference PMID: 11154267
+CDC25A	stimulation	SIGNOR-C16
+# Reference PMID: 23429262
+CDC25A	stimulation	SIGNOR-C18
+# Reference PMID: 12411508; 22263797; 11154267; 10454565
+CDC25A	stimulation	CDK2
+# Reference PMID: 23429262
+CDC25A	stimulation	CDK4
+# Reference PMID: 7744247
+CDC25A	inhibition	RAF1
+# Reference PMID: 10454565
+CDC25A	stimulation	CDK1
+# Reference PMID: 26049753
+USP22	stimulation	SIRT1
+# Reference PMID: 8891723; 11154267
+CDKN2A	inhibition	SIGNOR-C18
+# Reference PMID: 10022885
+CDKN2A	inhibition	CDK2
+# Reference PMID: 8891723; 16161044
+CDKN2A	inhibition	CDK4
+# Reference PMID: 8891723
+CDKN2A	inhibition	SIGNOR-C143
+# Reference PMID: 17658244
+VEGFA	stimulation	KDR
+# Reference PMID: 14704231
+VEGFA	stimulation	FLT1
+# Reference PMID: 22426001
+VEGFA	stimulation	DLL4
+# Reference PMID: 32814769
+HECTD4	inhibition	AR
+# Reference PMID: 28053289
+GLS	stimulation	SIGNOR-PH119
+# Reference PMID: 24792867
+HNRNPA2B1	inhibition	CDK5R1
+# Reference PMID: 32544088
+BRD4	stimulation	EP300
+# Reference PMID: 30921702
+BRD4	stimulation	KDM5C
+# Reference PMID: 16109377
+BRD4	stimulation	SIGNOR-C238
+# Reference PMID: 21135128
+URS0000283D0A_9606	inhibition	GLS
+# Reference PMID: 19874086; 22298955
+DKK1	inhibition	WNT3A
+# Reference PMID: 11448771
+DKK1	inhibition	LRP6
+# Reference PMID: 14559897
+MYCBP2	inhibition	SIGNOR-C101
+# Reference PMID: 32814769
+MYCBP2	inhibition	AR
+# Reference PMID: 30283340
+MYCT1	stimulation	CASP3
+# Reference PMID: 30283340
+MYCT1	stimulation	BAX
+# Reference PMID: 30283340
+MYCT1	inhibition	CCNE2
+# Reference PMID: 30283340
+MYCT1	stimulation	CASP9
+# Reference PMID: 30283340
+MYCT1	inhibition	CCNE1
+# Reference PMID: 30283340
+MYCT1	inhibition	BCL2
+# Reference PMID: 30283340
+MYCT1	inhibition	CCND1
+# Reference PMID: 26350239
+DNMT3A	inhibition	CDKN2B
+# Reference PMID: 19786833
+DNMT3A	inhibition	CCND1
+# Reference PMID: 9042862
+CDKN2B	inhibition	CDK4
+# Reference PMID: 12913000
+YY1	inhibition	NOTCH1
+# Reference PMID: 19013255
+YY1	inhibition	HOXB13
+# Reference PMID: 20887952
+YY1	form_complex	SIGNOR-C102
+# Reference PMID: 17158804
+YY1	stimulation	SIGNOR-C130
+# Reference PMID: 12913000
+YY1	inhibition	SIGNOR-PF30
+# Reference PMID: 30518405
+IMPDH2	inhibition	CDKN1B
+# Reference PMID: 30518405
+IMPDH2	stimulation	CCND1
+# Reference PMID: 32203420
+BCR	inhibition	RAC1
+# Reference PMID: 10347172
+SFRP1	inhibition	SIGNOR-PF40
+# Reference PMID: 10347172; 10523516
+SFRP1	inhibition	WNT1
+# Reference PMID: 11287180
+SFRP1	inhibition	WNT4
+# Reference PMID: 11274206
+SMAD2	form_complex	SIGNOR-C8
+# Reference PMID: 9689110
+SMAD2	stimulation	CREB1
+# Reference PMID: 11160896
+SMAD2	stimulation	MEF2A
+# Reference PMID: 11389444
+SMAD2	stimulation	SMURF2
+# Reference PMID: 10890911
+SMAD2	stimulation	LEF1
+# Reference PMID: 11274206
+SMAD2	stimulation	SMAD4
+# Reference PMID: 20060380
+URS00001CC864_9606	inhibition	GLS
+# Reference PMID: 23437375
+CCNE1	stimulation	CDK2
+# Reference PMID: 29870721
+CCNA2	form_complex	SIGNOR-C420
+# Reference PMID: 19056339
+CCNA2	form_complex	SIGNOR-C83
+# Reference PMID: 10023660
+CUL1	inhibition	CTNNB1
+# Reference PMID: 12835716
+CUL1	inhibition	CDKN1B
+# Reference PMID: 15340381
+CUL1	form_complex	SIGNOR-C135
+# Reference PMID: 17205132
+CUL1	form_complex	SIGNOR-C529
+# Reference PMID: 10851089
+CUL1	stimulation	RNF7
+# Reference PMID: 10023660
+CUL1	form_complex	SIGNOR-C5
+# Reference PMID: 15340381
+CUL1	form_complex	SIGNOR-C136
+# Reference PMID: 24183681
+CEBPA	inhibition	SOX4
+# Reference PMID: 9706399
+CEBPA	stimulation	S100A9
+# Reference PMID: 19620402
+CEBPA	stimulation	ELANE
+# Reference PMID: 7862113
+CEBPA	stimulation	USF1
+# Reference PMID: 20154735
+TBX21	inhibition	IL10
+# Reference PMID: 17541280
+TBX21	inhibition	IL4
+# Reference PMID: 17541280
+TBX21	stimulation	IFNG
+# Reference PMID: 10761931
+TBX21	inhibition	IL2
+# Reference PMID: 16386358
+TBX21	inhibition	GATA3
+# Reference PMID: 12493739
+CEBPB	stimulation	IL10
+# Reference PMID: 16054042
+CEBPB	stimulation	KLF5
+# Reference PMID: 22355693
+CEBPB	stimulation	SREBF1
+# Reference PMID: 9706399
+CEBPB	stimulation	S100A9
+# Reference PMID: 16431920; 7557387
+CEBPB	stimulation	PPARG
+# Reference PMID: 22740686
+PDCD1	inhibition	SIGNOR-PF1
+# Reference PMID: 21598020
+CTNNA3	stimulation	CTNNB1
+# Reference PMID: 21598020
+CTNNA3	stimulation	CDH1
+# Reference PMID: 24708856
+MECP2	stimulation	URS0000759977_9606
+# Reference PMID: 26214522
+MECP2	inhibition	PTPN1
+# Reference PMID: 12473678
+MECP2	stimulation	DNMT1
+# Reference PMID: 18952054
+MECP2	inhibition	GRIN2B
+# Reference PMID: 16002417
+MECP2	inhibition	FKBP5
+# Reference PMID: 18511691
+MECP2	inhibition	MEF2C
+# Reference PMID: 25420914
+MECP2	inhibition	DLL1
+# Reference PMID: 17108082
+MECP2	inhibition	CRH
+# Reference PMID: 25420914
+MECP2	inhibition	NOTCH1
+# Reference PMID: 24150225
+MECP2	inhibition	MET
+# Reference PMID: 23242655; 15870696
+MECP2	inhibition	ESR1
+# Reference PMID: 15870696
+MECP2	inhibition	CCND1
+# Reference PMID: 16002417
+MECP2	inhibition	SGK1
+# Reference PMID: 18511691
+MECP2	stimulation	CREB1
+# Reference PMID: 21598020
+SIGNOR-PF72	stimulation	CTNNB1
+# Reference PMID: 23431053
+SIGNOR-PF72	inhibition	YAP1
+# Reference PMID: 21598020
+SIGNOR-PF72	stimulation	CDH1
+# Reference PMID: 8955135
+FES	inhibition	BCR
+# Reference PMID: 22863532
+PAX7	form_complex	SIGNOR-C91
+# Reference PMID: 29681515
+PAX7	stimulation	MYF5
+# Reference PMID: 18854138; 17548510
+PAX7	bimodal	MYOD1
+# Reference PMID: 22863532
+PAX7	stimulation	KMT2A
+# Reference PMID: 11950834
+SIGNOR-C92	stimulation	TP53
+# Reference PMID: 20506188
+SIGNOR-C92	stimulation	RUNX1
+# Reference PMID: 18332116
+SIGNOR-C92	stimulation	CDKN2B
+# Reference PMID: 17194702
+SIGNOR-C92	form_complex	SIGNOR-C94
+# Reference PMID: 17194702
+SIGNOR-C92	form_complex	SIGNOR-C93
+# Reference PMID: 12138206
+SIGNOR-C92	inhibition	CCND1
+# Reference PMID: 17194702
+SIGNOR-C94	stimulation	MYOG
+# Reference PMID: 17996649
+URS00005EB596_9606	inhibition	IGF1R
+# Reference PMID: 19319192
+FBXO32	stimulation	SIGNOR-C529
+# Reference PMID: 19319192
+FBXO32	inhibition	MYOD1
+# Reference PMID: 17318226
+MMP9	inhibition	SIGNOR-ST20
+# Reference PMID: 10652271
+MMP9	stimulation	TGFB1
+# Reference PMID: 2516828
+FOS	stimulation	JUN
+# Reference PMID: 2467839; 3142692; 1904542; 25875593
+FOS	form_complex	SIGNOR-C154
+# Reference PMID: 24241034
+TNC	stimulation	SIGNOR-C166
+# Reference PMID: 17318226
+MMP13	inhibition	SIGNOR-ST20
+# Reference PMID: 10930399
+MMP13	inhibition	FGG
+# Reference PMID: 11583623
+HTRA2	inhibition	XIAP
+# Reference PMID: 15328349
+HTRA2	inhibition	PEA15
+# Reference PMID: 9390557
+CYCS	stimulation	CASP9
+# Reference PMID: 10206961
+CYCS	form_complex	SIGNOR-C230
+# Reference PMID: 11583623; 10929711; 14523016
+DIABLO	inhibition	XIAP
+# Reference PMID: 10929711
+DIABLO	stimulation	CASP9
+# Reference PMID: 17546047; 10929711
+DIABLO	inhibition	BIRC5
+# Reference PMID: 18570871; 17643073; 17446862
+BCL2	inhibition	BECN1
+# Reference PMID: 14585074
+BCL2	inhibition	HTRA2
+# Reference PMID: 12624108
+BCL2	inhibition	CYCS
+# Reference PMID: 14585074
+BCL2	inhibition	DIABLO
+# Reference PMID: 8183370
+BCL2	inhibition	BAX
+# Reference PMID: 24241034
+SIGNOR-C166	stimulation	TNF
+# Reference PMID: 24241034
+SIGNOR-C166	stimulation	IL1B
+# Reference PMID: 15688067
+SIGNOR-C166	stimulation	PTK2
+# Reference PMID: 24241034
+SIGNOR-C166	stimulation	IL6
+# Reference PMID: 15688067
+SIGNOR-C177	stimulation	PTK2
+# Reference PMID: 12374742
+SPEN	inhibition	RBPJ
+# Reference PMID: 12897775
+TNFSF11	stimulation	TNFRSF11A
+# Reference PMID: 17318226; 9659900
+COL1A1	stimulation	DDR1
+# Reference PMID: 17318226
+COL1A1	stimulation	DDR2
+# Reference PMID: 10615944
+ENPP1	inhibition	INSR
+# Reference PMID: 9435229
+VEGFC	stimulation	KDR
+# Reference PMID: 9211848
+MMP2	stimulation	SIGNOR-C184
+# Reference PMID: 17318226
+MMP2	inhibition	SIGNOR-ST20
+# Reference PMID: 10652271
+MMP2	stimulation	TGFB1
+# Reference PMID: 21131905
+CREBBP	form_complex	SIGNOR-C7
+# Reference PMID: 11062529
+CREBBP	stimulation	MEF2C
+# Reference PMID: 10931853
+CREBBP	stimulation	POU1F1
+# Reference PMID: 11259590
+CREBBP	stimulation	KLF1
+# Reference PMID: 16382138
+CREBBP	stimulation	RELA
+# Reference PMID: 11559745
+CREBBP	form_complex	SIGNOR-C6
+# Reference PMID: 28790157
+CREBBP	inhibition	DDX21
+# Reference PMID: 25545885
+CREBBP	stimulation	TP53
+# Reference PMID: 9829964
+CREBBP	stimulation	CREB1
+# Reference PMID: 10801129
+CREBBP	stimulation	CSK
+# Reference PMID: 10944526
+CREBBP	stimulation	MYOD1
+# Reference PMID: 22298955
+BMP2	stimulation	SMAD5
+# Reference PMID: 22298955
+BMP2	stimulation	SMAD9
+# Reference PMID: 7791754
+BMP2	stimulation	BMPR2
+# Reference PMID: 21793042
+BMP2	stimulation	SMAD2
+# Reference PMID: 7791754; 11714695
+BMP2	stimulation	SIGNOR-C29
+# Reference PMID: 18937504; 26330344
+BMP2	stimulation	BMPR1A
+# Reference PMID: 19855020
+BMP2	inhibition	SHH
+# Reference PMID: 22298955
+BMP2	stimulation	SIGNOR-PF35
+# Reference PMID: 22298955
+BMP2	stimulation	SMAD1
+# Reference PMID: 25533347
+ELMO2	stimulation	RAC1
+# Reference PMID: 25533347
+DOCK1	stimulation	RAC1
+# Reference PMID: 32203420
+PREX1	stimulation	RAC1
+# Reference PMID: 14500717
+RANBP9	inhibition	DYRK1B
+# Reference PMID: 12551902
+PTK2	stimulation	TRIO
+# Reference PMID: 15688067
+PTK2	stimulation	PXN
+# Reference PMID: 9416004
+PTK2	stimulation	SIGNOR-C156
+# Reference PMID: 21454698
+PTK2	stimulation	RET
+# Reference PMID: 9566877
+PTK2	stimulation	SHC1
+# Reference PMID: 22493428
+PTK2	stimulation	NANOG
+# Reference PMID: 15688067
+PTK2	stimulation	GRB2
+# Reference PMID: 9416004
+PTK2	stimulation	PIK3R1
+# Reference PMID: 15688067
+PTK2	stimulation	TLN1
+# Reference PMID: 8479541; 23452850; 10570290
+GRB2	stimulation	SOS1
+# Reference PMID: 9891069
+GRB2	stimulation	MAP4K1
+# Reference PMID: 11823423
+GRB2	stimulation	CBL
+# Reference PMID: 17904548
+GRB2	inhibition	KIT
+# Reference PMID: 8402896
+GRB2	stimulation	ABL1
+# Reference PMID: 24737791
+GRB2	stimulation	GAB2
+# Reference PMID: 32323266
+GRB2	stimulation	INPP5D
+# Reference PMID: 12766170
+GRB2	stimulation	GAB1
+# Reference PMID: 11043767
+GAB1	stimulation	SIGNOR-C156
+# Reference PMID: 11043767
+GAB1	stimulation	PIK3CA
+# Reference PMID: 11052931
+SIGNOR-C348	stimulation	CAMK2A
+# Reference PMID: 24647101
+CHEK2	stimulation	SOD1
+# Reference PMID: 19151762
+CHEK2	stimulation	TTK
+# Reference PMID: 12717439; 22558186
+CHEK2	stimulation	E2F1
+# Reference PMID: 16163388; 18356162
+CHEK2	inhibition	MDM4
+# Reference PMID: 32187724
+CHEK2	stimulation	BECN1
+# Reference PMID: 15380617
+CHEK2	stimulation	PPP2R5C
+# Reference PMID: 22071692
+CHEK2	stimulation	VHL
+# Reference PMID: 12835754
+CHEK2	inhibition	CDC25C
+# Reference PMID: 10801407; 10673501; 15659650; 10710310; 17339337; 10656682
+CHEK2	stimulation	TP53
+# Reference PMID: 22558186
+CHEK2	stimulation	KIT
+# Reference PMID: 17380128
+CHEK2	stimulation	RB1
+# Reference PMID: 14701743
+CHEK2	stimulation	BRCA1
+# Reference PMID: 17350185
+TNF	inhibition	BMP4
+# Reference PMID: 22190977
+TNF	stimulation	HES1
+# Reference PMID: 9397972
+TNF	inhibition	SIGNOR-PF83
+# Reference PMID: 14732063; 23070005; 10634209; 11502070; 21133840; 17151142
+TNF	stimulation	TNFRSF1A
+# Reference PMID: 20509143
+TNF	stimulation	SNAI2
+# Reference PMID: 10485710
+TNF	stimulation	SIGNOR-C156
+# Reference PMID: 32446778
+TNF	stimulation	IL6
+# Reference PMID: 11287630
+TNF	inhibition	IRS1
+# Reference PMID: 10485710
+TNF	stimulation	PIK3CA
+# Reference PMID: 11287630
+TNF	stimulation	AKT2
+# Reference PMID: 14586405
+TNF	stimulation	NOTCH1
+# Reference PMID: 10485710
+TNF	stimulation	PIK3CG
+# Reference PMID: 12040173; 17151142; 14732063
+TNF	stimulation	TNFRSF1B
+# Reference PMID: 14586405
+TNF	stimulation	JAG2
+# Reference PMID: 8530143
+TNF	stimulation	SIGNOR-C13
+# Reference PMID: 18647246
+TNF	stimulation	NOD2
+# Reference PMID: 9767234
+TNF	inhibition	MC1R
+# Reference PMID: 26042050
+TEK	stimulation	MYOG
+# Reference PMID: 14665640
+TEK	stimulation	SIGNOR-C156
+# Reference PMID: 14665640
+TEK	stimulation	SHC1
+# Reference PMID: 26042050
+TEK	stimulation	MYOD1
+# Reference PMID: 14665640
+TEK	stimulation	PIK3R1
+# Reference PMID: 11046148
+NEDD4	inhibition	SYK
+# Reference PMID: 10683340
+NEDD4	inhibition	LYN
+# Reference PMID: 19864419
+NEDD4	inhibition	SPRY2
+# Reference PMID: 23029358; 22120716
+KAT2B	stimulation	NOTCH1
+# Reference PMID: 11062529
+KAT2B	stimulation	MEF2C
+# Reference PMID: 17074756
+KAT2B	stimulation	SMAD2
+# Reference PMID: 10944526
+KAT2B	stimulation	MYOD1
+# Reference PMID: 21131905
+KAT2B	form_complex	SIGNOR-C7
+# Reference PMID: 22120716
+KAT2B	stimulation	SIGNOR-PF30
+# Reference PMID: 11058129
+KAT2B	stimulation	SMAD3
+# Reference PMID: 11578751
+APP	stimulation	SIGNOR-PH59
+# Reference PMID: 16446437
+APP	stimulation	GSK3A
+# Reference PMID: 10551863
+JAG1	stimulation	SIGNOR-PF30
+# Reference PMID: 10551863; 10958687; 18660822
+JAG1	stimulation	NOTCH2
+# Reference PMID: 18660822
+JAG1	stimulation	NOTCH3
+# Reference PMID: 18660822
+JAG1	stimulation	NOTCH1
+# Reference PMID: 21255999
+CDH1	stimulation	CTNNB1
+# Reference PMID: 20940130
+CDH1	stimulation	LRP6
+# Reference PMID: 24336504
+CDH1	stimulation	SIGNOR-PF72
+# Reference PMID: 18662541
+CDH1	stimulation	SIGNOR-C150
+# Reference PMID: 25207814
+UBE2D3	stimulation	MPG
+# Reference PMID: 10066810
+CSNK2A1	stimulation	PTPRC
+# Reference PMID: 12748192
+CSNK2A1	stimulation	RNF7
+# Reference PMID: 24962073
+CSNK2A1	stimulation	CCAR2
+# Reference PMID: 23263282
+CSNK2A1	inhibition	TTI1
+# Reference PMID: 9405642
+CSNK2A1	inhibition	FKBP4
+# Reference PMID: 19623618; 15747065; 2861485
+CSNK2A1	stimulation	LEF1
+# Reference PMID: 15199154; 16809543
+CSNK2A1	stimulation	DEK
+# Reference PMID: 19933278
+CSNK2A1	stimulation	RPS6KA4
+# Reference PMID: 1516134
+CSNK2A1	inhibition	JUN
+# Reference PMID: 9722526
+CSNK2A1	stimulation	KLF1
+# Reference PMID: 8662759
+CSNK2A1	inhibition	EGR1
+# Reference PMID: 16085715
+CSNK2A1	inhibition	WEE1
+# Reference PMID: 22361354
+CSNK2A1	stimulation	USP7
+# Reference PMID: 18250151
+CSNK2A1	inhibition	NR1H3
+# Reference PMID: 21559372
+CSNK2A1	stimulation	TWIST1
+# Reference PMID: 29021214
+CSNK2A1	inhibition	CCNF
+# Reference PMID: 16428860
+CSNK2A1	stimulation	RANGAP1
+# Reference PMID: 9858576
+CSNK2A1	stimulation	NKX2-5
+# Reference PMID: 18591256
+CSNK2A1	inhibition	HSP90AB1
+# Reference PMID: 15788687
+CSNK2A1	stimulation	CDK1
+# Reference PMID: 16873060
+CSNK2A1	inhibition	PML
+# Reference PMID: 20043841
+CSNK2A1	inhibition	ESR1
+# Reference PMID: 15064744
+CSNK2A1	inhibition	CDC25C
+# Reference PMID: 28436950
+CSNK2A1	stimulation	MRE11
+# Reference PMID: 14729945
+CSNK2A1	stimulation	PIK3R1
+# Reference PMID: 19217413
+CSNK2A1	stimulation	PIAS1
+# Reference PMID: 12082111; 20388487
+CSNK2A1	stimulation	HDAC2
+# Reference PMID: 9153193
+CSNK2A1	inhibition	SP1
+# Reference PMID: 16837460
+CSNK2A1	inhibition	SLK
+# Reference PMID: 34785775
+CSNK2A1	stimulation	OTUB1
+# Reference PMID: 21779440; 12297295
+CSNK2A1	inhibition	PTEN
+# Reference PMID: 8663403
+CSNK2A1	stimulation	MEF2C
+# Reference PMID: 12972610
+CSNK2A1	stimulation	HES6
+# Reference PMID: 8622692; 10398585
+CSNK2A1	inhibition	NFKBIA
+# Reference PMID: 15805470
+CSNK2A1	stimulation	HDAC3
+# Reference PMID: 21316371; 18971378; 17567956; 22123909
+CSNK2A1	stimulation	MYH9
+# Reference PMID: 9407077
+CSNK2A1	stimulation	PPP1R8
+# Reference PMID: 12876286
+CSNK2A1	inhibition	DDIT3
+# Reference PMID: 23226345
+CSNK2A1	stimulation	YY1
+# Reference PMID: 20864032; 23263282
+CSNK2A1	inhibition	TELO2
+# Reference PMID: 19941816
+CSNK2A1	inhibition	SIGNOR-PF72
+# Reference PMID: 10938077
+CSNK2A1	stimulation	RELA
+# Reference PMID: 8663317; 20730097
+CSNK2A1	inhibition	ATF1
+# Reference PMID: 8018564
+CSNK2A1	inhibition	MAX
+# Reference PMID: 23123191
+CSNK2A1	inhibition	ATF4
+# Reference PMID: 9461343
+CSNK2A1	stimulation	MYF5
+# Reference PMID: 15537897
+CSNK2A1	inhibition	GRIN2B
+# Reference PMID: 12527891
+CSNK2A1	stimulation	CDC25B
+# Reference PMID: 10671552
+CSNK2A1	stimulation	CDH1
+# Reference PMID: 9405437; 8288648
+CSNK2A1	stimulation	PPP1R2
+# Reference PMID: 11602581
+CSNK2A1	stimulation	HDAC1
+# Reference PMID: 12700239; 12432063
+CSNK2A1	stimulation	CTNNB1
+# Reference PMID: 2557337
+CSNK2A1	stimulation	PPP1R1B
+# Reference PMID: 21474068
+CSNK2A1	stimulation	DAXX
+# Reference PMID: 26675311
+CSNK2A1	inhibition	CALM1
+# Reference PMID: 11290787
+CSNK2A1	inhibition	HOXB7
+# Reference PMID: 23858473
+CSNK2A1	stimulation	MECOM
+# Reference PMID: 19923321
+CSNK2A1	stimulation	SNAI1
+# Reference PMID: 16129408
+CSNK2A1	inhibition	ARNT
+# Reference PMID: 10747897; 12628923
+CSNK2A1	bimodal	TP53
+# Reference PMID: 10801445
+RBL2	inhibition	MYOD1
+# Reference PMID: 16600870
+RBL2	stimulation	RAD50
+# Reference PMID: 8380735
+HGF	stimulation	MET
+# Reference PMID: 31160049
+F2R	stimulation	GNAI3
+# Reference PMID: 31160049
+F2R	stimulation	GNAO1
+# Reference PMID: 22318735; 31160049
+F2R	stimulation	GNAI1
+# Reference PMID: 21072196
+F2R	stimulation	SDC4
+# Reference PMID: 21072196
+F2R	stimulation	KLF6
+# Reference PMID: 22972936
+F2R	inhibition	LATS2
+# Reference PMID: 16497931
+ATM	inhibition	IKBKG
+# Reference PMID: 18536714
+ATM	inhibition	SIAH1
+# Reference PMID: 22735644
+ATM	stimulation	CCAR2
+# Reference PMID: 24821553
+ATM	stimulation	HNF1A
+# Reference PMID: 10973490; 12024051; 16481012
+ATM	stimulation	CHEK2
+# Reference PMID: 11331603; 17936559; 19816404; 12383858
+ATM	inhibition	MDM2
+# Reference PMID: 18571408
+ATM	stimulation	AVEN
+# Reference PMID: 26774286
+ATM	stimulation	FBXW7
+# Reference PMID: 30886146
+ATM	stimulation	UFL1
+# Reference PMID: 20096447
+ATM	stimulation	USP10
+# Reference PMID: 22588298
+ATM	stimulation	SMAD1
+# Reference PMID: 17396146
+ATM	stimulation	TAOK1
+# Reference PMID: 21329876
+ATM	stimulation	KHSRP
+# Reference PMID: 27941124
+ATM	stimulation	UCHL3
+# Reference PMID: 19109555
+ATM	stimulation	FANCA
+# Reference PMID: 23871434
+ATM	stimulation	PRKAA2
+# Reference PMID: 27879648
+ATM	stimulation	DCK
+# Reference PMID: 10097108
+ATM	inhibition	CDC25C
+# Reference PMID: 15073328
+ATM	inhibition	CREB1
+# Reference PMID: 10608806
+ATM	stimulation	MRE11
+# Reference PMID: 31938050
+ATM	inhibition	USP28
+# Reference PMID: 12024016; 12183412; 10550055; 19683496
+ATM	stimulation	BRCA1
+# Reference PMID: 19965871
+ATM	stimulation	DYRK2
+# Reference PMID: 26337656
+ATM	stimulation	XRCC6
+# Reference PMID: 24162653
+ATM	inhibition	EZH2
+# Reference PMID: 26778126
+ATM	stimulation	ABRAXAS1
+# Reference PMID: 22099307
+ATM	stimulation	BUB1
+# Reference PMID: 32615088
+ATM	stimulation	METTL3
+# Reference PMID: 20471956
+ATM	stimulation	EP300
+# Reference PMID: 10910365
+ATM	inhibition	RBBP8
+# Reference PMID: 11459832
+ATM	stimulation	E2F1
+# Reference PMID: 18250156
+ATM	inhibition	PPP1R2
+# Reference PMID: 23890999
+ATM	inhibition	NKX3-1
+# Reference PMID: 21095582
+ATM	stimulation	HIF1A
+# Reference PMID: 16943424; 16082221
+ATM	inhibition	MDM4
+# Reference PMID: 12234250
+ATM	stimulation	STK11
+# Reference PMID: 23405218
+ATM	inhibition	DAXX
+# Reference PMID: 10608806; 10802669; 10839544; 10839545
+ATM	stimulation	NBN
+# Reference PMID: 18250156
+ATM	inhibition	AURKB
+# Reference PMID: 23435430
+ATM	stimulation	ITCH
+# Reference PMID: 29939287
+ATM	stimulation	MECOM
+# Reference PMID: 21460856
+ATM	stimulation	PPP2R5D
+# Reference PMID: 17967874; 17157788; 15254178; 20663147; 11875057
+ATM	stimulation	TP53
+# Reference PMID: 9168117; 9168116
+ATM	stimulation	ABL1
+# Reference PMID: 20068082
+ATM	stimulation	CHEK1
+# Reference PMID: 12144526
+ILK	stimulation	PPP1R14A
+# Reference PMID: 12144526
+ILK	stimulation	PPP1R14B
+# Reference PMID: 10900149
+NR2F1	stimulation	RXRA
+# Reference PMID: 19777070; 24431436
+NF1	inhibition	HRAS
+# Reference PMID: 32697994
+NF1	inhibition	KRAS
+# Reference PMID: 21791615
+RAP1A	stimulation	CAMK1
+# Reference PMID: 24290981
+RAP1A	stimulation	BRAF
+# Reference PMID: 16988024
+ITGB1	form_complex	SIGNOR-C175
+# Reference PMID: 16988024
+ITGB1	form_complex	SIGNOR-C164
+# Reference PMID: 15688067
+ITGB1	stimulation	PTK2
+# Reference PMID: 16988024
+ITGB1	form_complex	SIGNOR-C166
+# Reference PMID: 23290138
+FN1	form_complex	SIGNOR-C210
+# Reference PMID: 23290138
+FN1	stimulation	SDC4
+# Reference PMID: 12704343
+IL4R	stimulation	IRS1
+# Reference PMID: 7538655
+IL4R	stimulation	JAK3
+# Reference PMID: 18852293
+IL4R	stimulation	JAK2
+# Reference PMID: 12704343
+IL4R	stimulation	IRS2
+# Reference PMID: 20824124
+IL4R	stimulation	STAT5A
+# Reference PMID: 7538655
+IL4R	stimulation	JAK1
+# Reference PMID: 8266078; 12704343
+IL4R	stimulation	IL2RG
+# Reference PMID: 12704343
+IL13RA1	stimulation	TYK2
+# Reference PMID: 18445337
+IL2RG	stimulation	JAK3
+# Reference PMID: 19941816
+SIGNOR-PF1	stimulation	CSNK2A1
+# Reference PMID: 19941816
+MAPK1	stimulation	CSNK2A1
+# Reference PMID: 33861966
+SIGNOR-C3	stimulation	BTRC
+# Reference PMID: 28646232
+SIGNOR-PF1	inhibition	GSK3B
+# Reference PMID: 15229249
+LRP6	stimulation	GSK3B
+# Reference PMID: 15829723; 23552696; 9373175
+AKT1	inhibition	GSK3B
+# Reference PMID: 19836308
+PRKACA	inhibition	GSK3B
+# Reference PMID: 28712664; 23552696; 9373175
+SIGNOR-PF24	inhibition	GSK3B
+# Reference PMID: 14657655
+STK11	inhibition	GSK3B
+# Reference PMID: 28646232; 16039586
+MAPK3	inhibition	GSK3B
+# Reference PMID: 20837657
+DVL1	inhibition	GSK3B
+# Reference PMID: 18451303; 17726008
+MAPK14	inhibition	GSK3B
+# Reference PMID: 11584304
+RPS6KA1	inhibition	GSK3B
+# Reference PMID: 23552696
+AKT3	inhibition	GSK3B
+# Reference PMID: 23552696; 16293724
+AKT2	inhibition	GSK3B
+# Reference PMID: 28646232; 16039586
+MAPK1	inhibition	GSK3B
+# Reference PMID: 26088133
+SIGNOR-PF54	stimulation	GSK3B
+# Reference PMID: 11584304
+SIGNOR-PF26	inhibition	GSK3B
+# Reference PMID: 20080667
+DAB2IP	stimulation	GSK3B
+# Reference PMID: 15020233
+SIGNOR-PF25	stimulation	GSK3B
+# Reference PMID: 26088133
+SIGNOR-PF17	inhibition	GSK3B
+# Reference PMID: 15020233
+MAP2K1	stimulation	GSK3B
+# Reference PMID: 16039586
+SIGNOR-PF4	inhibition	GSK3B
+# Reference PMID: 19836308
+PRKCA	inhibition	GSK3B
+# Reference PMID: 14657655
+CDC42	inhibition	GSK3B
+# Reference PMID: 8250835
+INS	inhibition	GSK3B
+# Reference PMID: 22114142
+SMO	inhibition	SUFU
+# Reference PMID: 15545630
+MTSS1	stimulation	SUFU
+# Reference PMID: 23337587; 21317289
+PRKACA	stimulation	SUFU
+# Reference PMID: 16481469
+PRKACA	stimulation	CSNK1A1L
+# Reference PMID: 19666503
+SMO	stimulation	KIF7
+# Reference PMID: 17251915; 14977528
+FZD3	stimulation	CXCL1
+# Reference PMID: 16885213
+SMO	stimulation	CXCL1
+# Reference PMID: 23650532
+SP1	stimulation	RLIM
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	RLIM
+# Reference PMID: 23650532
+TP53	inhibition	RLIM
+# Reference PMID: 11274206
+SMAD4	form_complex	SIGNOR-C8
+# Reference PMID: 12793438
+SKIL	inhibition	SIGNOR-C8
+# Reference PMID: 22795133
+POU5F1	inhibition	GATA6
+# Reference PMID: 27273097
+GSK3A	inhibition	GATA6
+# Reference PMID: 15983365; 22795133
+NANOG	inhibition	GATA6
+# Reference PMID: 11742987
+NR3C1	inhibition	SIGNOR-PF1
+# Reference PMID: 20219869
+CCR1	stimulation	SIGNOR-PF1
+# Reference PMID: 9013873
+VAV1	stimulation	SIGNOR-PF1
+# Reference PMID: 16484370
+MAP3K8	stimulation	SIGNOR-PF1
+# Reference PMID: 12840032
+PPP1CA	inhibition	SIGNOR-PF1
+# Reference PMID: 17673906
+SHC1	stimulation	SIGNOR-PF1
+# Reference PMID: 10224087
+DUSP3	inhibition	SIGNOR-PF1
+# Reference PMID: 12049732
+MAP3K1	inhibition	SIGNOR-PF1
+# Reference PMID: 28137827
+TLR4	stimulation	SIGNOR-PF1
+# Reference PMID: 14981546; 30552988
+FLT3	stimulation	SIGNOR-PF1
+# Reference PMID: 20974802
+FGF2	stimulation	SIGNOR-PF1
+# Reference PMID: 17998336
+LCK	stimulation	SIGNOR-PF1
+# Reference PMID: 11085989
+PTPN11	stimulation	SIGNOR-PF1
+# Reference PMID: 16456541
+PPP2R5C	inhibition	SIGNOR-PF1
+# Reference PMID: 16153436
+RET	stimulation	SIGNOR-PF1
+# Reference PMID: 24743741
+PDGFRA	stimulation	SIGNOR-PF1
+# Reference PMID: 12771128
+PTPRJ	inhibition	SIGNOR-PF1
+# Reference PMID: 20622900
+SCRIB	inhibition	SIGNOR-PF1
+# Reference PMID: 19436055
+SIGNOR-C212	stimulation	SIGNOR-PF1
+# Reference PMID: 12840032
+SIGNOR-PF54	inhibition	SIGNOR-PF1
+# Reference PMID: 20219869
+CCR5	stimulation	SIGNOR-PF1
+# Reference PMID: 20219869
+CCR2	stimulation	SIGNOR-PF1
+# Reference PMID: 10617468
+DUSP1	inhibition	SIGNOR-PF1
+# Reference PMID: 11702783
+PEA15	inhibition	SIGNOR-PF1
+# Reference PMID: 11971971; 11730323
+SIGNOR-PF25	stimulation	SIGNOR-PF1
+# Reference PMID: 12270934; 11730323
+MAP2K1	stimulation	SIGNOR-PF1
+# Reference PMID: 12840032
+DUSP6	inhibition	SIGNOR-PF1
+# Reference PMID: 11971971; 11730323
+MAP2K2	stimulation	SIGNOR-PF1
+# Reference PMID: 21900390
+BRAF	stimulation	SIGNOR-PF1
+# Reference PMID: 12840032
+PPP2CA	inhibition	SIGNOR-PF1
+# Reference PMID: 15340381
+FBXW7	form_complex	SIGNOR-C135
+# Reference PMID: 15498859
+FLT3	stimulation	PIM1
+# Reference PMID: 15498859; 16146838
+STAT5A	stimulation	PIM1
+# Reference PMID: 30017192
+PRKACA	stimulation	PIM1
+# Reference PMID: 27153534
+ULK1	inhibition	ENO1
+# Reference PMID: 24841372; 7629021
+SRC	stimulation	ENO1
+# Reference PMID: 10023660
+BTRC	form_complex	SIGNOR-C5
+# Reference PMID: 21962518
+BECN1	stimulation	USP13
+# Reference PMID: 36528756
+METTL3	stimulation	USP13
+# Reference PMID: 25438055
+AMBRA1	stimulation	PPP2CB
+# Reference PMID: 17613434
+RXRA	stimulation	SIGNOR-FP2
+# Reference PMID: 20427287
+TTI1	stimulation	SIGNOR-C2
+# Reference PMID: 25628925
+MTOR	form_complex	SIGNOR-C2
+# Reference PMID: 20427287
+TELO2	stimulation	SIGNOR-C2
+# Reference PMID: 18423204
+RAC1	stimulation	MAPK9
+# Reference PMID: 8626452
+DUSP1	inhibition	MAPK9
+# Reference PMID: 8974401
+MAP2K6	stimulation	MAPK9
+# Reference PMID: 17525747
+MAPK8	stimulation	MAPK9
+# Reference PMID: 17761173; 22730327
+MAP2K4	stimulation	MAPK9
+# Reference PMID: 9843571
+SMAD4	form_complex	SIGNOR-C9
+# Reference PMID: 12793438
+SKIL	inhibition	SIGNOR-C9
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	HECTD4
+# Reference PMID: 25234168
+HES1	inhibition	FLT3
+# Reference PMID: 19276253
+CBL	inhibition	FLT3
+# Reference PMID: 17081971
+SIGNOR-PF40	stimulation	CTNNB1
+# Reference PMID: 23151663; 16293724; 22083140; 19303846; 9482734; 11955436
+SIGNOR-C110	inhibition	CTNNB1
+# Reference PMID: 18423204
+MAPK9	stimulation	CTNNB1
+# Reference PMID: 17851558
+FLT3	stimulation	CTNNB1
+# Reference PMID: 10228155
+BTRC	inhibition	CTNNB1
+# Reference PMID: 24970928; 17875931
+SOX4	stimulation	CTNNB1
+# Reference PMID: 12432063
+CSNK2B	stimulation	CTNNB1
+# Reference PMID: 33083751
+SOX17	inhibition	CTNNB1
+# Reference PMID: 18838960
+FASN	stimulation	CTNNB1
+# Reference PMID: 12000790; 12176352
+CSNK1E	inhibition	CTNNB1
+# Reference PMID: 12771132
+RXRA	inhibition	CTNNB1
+# Reference PMID: 19061640
+PPP2CA	stimulation	CTNNB1
+# Reference PMID: 11279024; 22056988
+SRC	stimulation	CTNNB1
+# Reference PMID: 21822311
+PAK1	stimulation	CTNNB1
+# Reference PMID: 21255999
+CDH17	stimulation	CTNNB1
+# Reference PMID: 16476742; 16199882
+PRKACA	stimulation	CTNNB1
+# Reference PMID: 19479054
+NKX2-5	inhibition	CTNNB1
+# Reference PMID: 16293724
+AKT2	stimulation	CTNNB1
+# Reference PMID: 18077326
+FHIT	inhibition	CTNNB1
+# Reference PMID: 10775268
+CREB1	stimulation	CTNNB1
+# Reference PMID: 11955436; 23151663; 19303846; 16293724
+GSK3B	inhibition	CTNNB1
+# Reference PMID: 12000790
+CSNK1D	inhibition	CTNNB1
+# Reference PMID: 17287208
+AKT1	stimulation	CTNNB1
+# Reference PMID: 10023660
+SIGNOR-C5	inhibition	CTNNB1
+# Reference PMID: 16293724
+SIGNOR-PF24	stimulation	CTNNB1
+# Reference PMID: 23209147; 18697834
+SIGNOR-PF11	stimulation	CTNNB1
+# Reference PMID: 15735151
+DVL1	stimulation	CTNNB1
+# Reference PMID: 32685004
+MYH9	stimulation	CTNNB1
+# Reference PMID: 23607968
+YAP1	stimulation	CTNNB1
+# Reference PMID: 20080667
+DAB2IP	inhibition	CTNNB1
+# Reference PMID: 19141652
+PRKD1	stimulation	CTNNB1
+# Reference PMID: 10607566
+RARA	inhibition	CTNNB1
+# Reference PMID: 15684397
+SMAD7	stimulation	CTNNB1
+# Reference PMID: 12640114
+FYN	inhibition	CTNNB1
+# Reference PMID: 12000790
+CSNK1A1L	inhibition	CTNNB1
+# Reference PMID: 20383333
+SIGNOR-C150	inhibition	CDR2
+# Reference PMID: 15627498
+SMARCA4	form_complex	SIGNOR-C92
+# Reference PMID: 32482868
+MAPK3	inhibition	BRD4
+# Reference PMID: 31875566
+ATAD5	stimulation	BRD4
+# Reference PMID: 15747065
+CSNK1E	inhibition	LEF1
+# Reference PMID: 10890911
+SMAD4	stimulation	LEF1
+# Reference PMID: 15747065
+CSNK1D	inhibition	LEF1
+# Reference PMID: 10890911
+SIGNOR-C9	stimulation	LEF1
+# Reference PMID: 19460168
+TLE1	inhibition	LEF1
+# Reference PMID: 22555612
+PIAS1	stimulation	PRDM1
+# Reference PMID: 31583686
+SIGNOR-C451	stimulation	PRDM1
+# Reference PMID: 15340381
+SKP2	form_complex	SIGNOR-C136
+# Reference PMID: 21912613
+NFKB1	inhibition	CTCF
+# Reference PMID: 26304119
+RANGAP1	inhibition	MYCBP2
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	MYCBP2
+# Reference PMID: 15870273
+SIGNOR-C93	stimulation	SIGNOR-PF74
+# Reference PMID: 24841372
+SRC	stimulation	SIGNOR-PF74
+# Reference PMID: 15998782
+POU1F1	stimulation	GH1
+# Reference PMID: 15821101
+PTPN1	inhibition	STAT3
+# Reference PMID: 14551213; 9566874
+SRC	stimulation	STAT3
+# Reference PMID: 19440292
+PPP1CA	inhibition	STAT3
+# Reference PMID: 18508557
+PTPN6	inhibition	STAT3
+# Reference PMID: 21628332; 24600449
+SOCS3	inhibition	STAT3
+# Reference PMID: 10542297; 30029643
+TYK2	stimulation	STAT3
+# Reference PMID: 24710148; 26260587; 19723038
+JAK1	stimulation	STAT3
+# Reference PMID: 18691976
+MAPK9	stimulation	STAT3
+# Reference PMID: 17563747
+MAP3K1	stimulation	STAT3
+# Reference PMID: 30029643
+JAK3	stimulation	STAT3
+# Reference PMID: 15096606
+CDK5	stimulation	STAT3
+# Reference PMID: 14551213; 19723038
+MAPK3	stimulation	STAT3
+# Reference PMID: 18691976; 17502367
+MAPK14	stimulation	STAT3
+# Reference PMID: 23869758
+IL6	stimulation	STAT3
+# Reference PMID: 16611743
+PTPN11	inhibition	STAT3
+# Reference PMID: 17360477
+PTPRR	inhibition	STAT3
+# Reference PMID: 18691976; 16740698
+MTOR	stimulation	STAT3
+# Reference PMID: 24067369
+HIC1	inhibition	STAT3
+# Reference PMID: 14967450; 22693070
+EGFR	stimulation	STAT3
+# Reference PMID: 25510553
+FOXO1	inhibition	STAT3
+# Reference PMID: 9575217
+JAK2	stimulation	STAT3
+# Reference PMID: 26512963
+DAB2IP	inhibition	STAT3
+# Reference PMID: 32454942
+IL1B	stimulation	STAT3
+# Reference PMID: 23255093
+MAPK8	stimulation	STAT3
+# Reference PMID: 26194464
+SIGNOR-C204	inhibition	STAT3
+# Reference PMID: 26522984
+ZMIZ1	stimulation	NOTCH1
+# Reference PMID: 22577461
+TCF3	stimulation	NOTCH1
+# Reference PMID: 11404076; 10713164
+SNW1	stimulation	NOTCH1
+# Reference PMID: 20940030
+SIAH1	stimulation	NOTCH1
+# Reference PMID: 24749067
+SIGNOR-PF27	inhibition	NOTCH1
+# Reference PMID: 24749067
+FOXO3	inhibition	NOTCH1
+# Reference PMID: 11739188; 16140393; 10837024
+DLL4	stimulation	NOTCH1
+# Reference PMID: 17636029
+KAT5	inhibition	NOTCH1
+# Reference PMID: 16140393
+DLL1	stimulation	NOTCH1
+# Reference PMID: 19800882
+RUNX3	inhibition	NOTCH1
+# Reference PMID: 14583609
+LCK	stimulation	NOTCH1
+# Reference PMID: 25344755
+SIGNOR-C545	inhibition	NOTCH1
+# Reference PMID: 10940313
+ITCH	inhibition	NOTCH1
+# Reference PMID: 12370315
+MAML2	stimulation	NOTCH1
+# Reference PMID: 19151708
+PIN1	stimulation	NOTCH1
+# Reference PMID: 19214430
+GSK3A	inhibition	NOTCH1
+# Reference PMID: 15546612
+FBXW7	inhibition	NOTCH1
+# Reference PMID: 9315665
+JAG2	stimulation	NOTCH1
+# Reference PMID: 16682003
+HEY2	inhibition	NOTCH1
+# Reference PMID: 22479394
+CSK	stimulation	NOTCH1
+# Reference PMID: 12682059
+NUMB	inhibition	NOTCH1
+# Reference PMID: 12123574
+GSK3B	stimulation	NOTCH1
+# Reference PMID: 12486116
+LFNG	stimulation	NOTCH1
+# Reference PMID: 21419176
+DLK1	inhibition	NOTCH1
+# Reference PMID: 11742987
+NR3C1	inhibition	MAPK1
+# Reference PMID: 9013873
+VAV1	stimulation	MAPK1
+# Reference PMID: 12840032
+PPP1CA	inhibition	MAPK1
+# Reference PMID: 17673906
+SHC1	stimulation	MAPK1
+# Reference PMID: 7780739
+PPP2CB	inhibition	MAPK1
+# Reference PMID: 10224087
+DUSP3	inhibition	MAPK1
+# Reference PMID: 20974802
+FGF2	stimulation	MAPK1
+# Reference PMID: 10706702
+CD19	stimulation	MAPK1
+# Reference PMID: 17998336
+LCK	stimulation	MAPK1
+# Reference PMID: 16456541
+PPP2R5C	inhibition	MAPK1
+# Reference PMID: 16153436
+RET	stimulation	MAPK1
+# Reference PMID: 11493009
+PTPRR	inhibition	MAPK1
+# Reference PMID: 19494114; 12771128
+PTPRJ	inhibition	MAPK1
+# Reference PMID: 12840032
+SIGNOR-PF54	inhibition	MAPK1
+# Reference PMID: 19447520
+SGK1	stimulation	MAPK1
+# Reference PMID: 10617468; 7535768
+DUSP1	inhibition	MAPK1
+# Reference PMID: 16226275; 10415025; 10702794
+PTPN7	inhibition	MAPK1
+# Reference PMID: 11702783
+PEA15	inhibition	MAPK1
+# Reference PMID: 12270934; 11971971; 11730323
+SIGNOR-PF25	stimulation	MAPK1
+# Reference PMID: 12270934; 11971971; 11730323
+MAP2K1	stimulation	MAPK1
+# Reference PMID: 12840032
+DUSP6	inhibition	MAPK1
+# Reference PMID: 11971971; 11730323
+MAP2K2	stimulation	MAPK1
+# Reference PMID: 16456541; 7780739; 12840032; 20626350
+PPP2CA	inhibition	MAPK1
+# Reference PMID: 12801888
+SIGNOR-PF1	stimulation	SMAD4
+# Reference PMID: 22298955
+SMAD6	inhibition	SMAD4
+# Reference PMID: 14988407
+BTRC	inhibition	SMAD4
+# Reference PMID: 12801888
+MAPK3	stimulation	SMAD4
+# Reference PMID: 19135894; 22298955; 20016939
+USP9X	stimulation	SMAD4
+# Reference PMID: 21454478
+SIGNOR-PF35	stimulation	SMAD4
+# Reference PMID: 20957627
+SMAD5	stimulation	SMAD4
+# Reference PMID: 20957627
+SMAD9	stimulation	SMAD4
+# Reference PMID: 12801888
+MAPK1	stimulation	SMAD4
+# Reference PMID: 15314162
+SKP2	inhibition	SMAD4
+# Reference PMID: 14701756
+STUB1	inhibition	SMAD4
+# Reference PMID: 25373906
+GSK3B	inhibition	SMAD4
+# Reference PMID: 12793438; 10531062
+SKIL	inhibition	SMAD4
+# Reference PMID: 12801888
+SIGNOR-PF4	stimulation	SMAD4
+# Reference PMID: 15028714
+PIAS1	stimulation	SMAD4
+# Reference PMID: 34589486
+FKBP5	stimulation	YY1
+# Reference PMID: 23226345
+PLK1	stimulation	YY1
+# Reference PMID: 20887952
+SIGNOR-C77	stimulation	YY1
+# Reference PMID: 23226345
+AURKB	stimulation	YY1
+# Reference PMID: 11486036
+HDAC1	inhibition	YY1
+# Reference PMID: 11486036
+HDAC2	inhibition	YY1
+# Reference PMID: 16118204
+PLK1	stimulation	PIN1
+# Reference PMID: 11723108
+PRKACA	inhibition	PIN1
+# Reference PMID: 23970419
+AURKA	inhibition	PIN1
+# Reference PMID: 21147854
+SGK1	stimulation	FBXW7
+# Reference PMID: 21620836
+AKT1	stimulation	FBXW7
+# Reference PMID: 18625840
+NPM1	stimulation	FBXW7
+# Reference PMID: 11035810
+SIGNOR-PF24	inhibition	GSK3A
+# Reference PMID: 11884598
+PRKCB	inhibition	GSK3A
+# Reference PMID: 16023596
+AKT2	inhibition	GSK3A
+# Reference PMID: 11035810
+PRKACA	inhibition	GSK3A
+# Reference PMID: 11035810
+AKT1	inhibition	GSK3A
+# Reference PMID: 11884598
+PRKCA	inhibition	GSK3A
+# Reference PMID: 11032804
+SIGNOR-C529	inhibition	SKP2
+# Reference PMID: 21212736
+TGFB1	inhibition	SKP2
+# Reference PMID: 9242638
+ID2	inhibition	TCF4
+# Reference PMID: 18250171
+FOXO1	inhibition	TCF4
+# Reference PMID: 9242638
+ID1	inhibition	TCF4
+# Reference PMID: 15928669
+HOXB13	inhibition	TCF4
+# Reference PMID: 9242638
+ID3	inhibition	TCF4
+# Reference PMID: 16682003
+HES1	inhibition	SIGNOR-C97
+# Reference PMID: 12361602; 23729744; 21873209
+RBPJ	form_complex	SIGNOR-C97
+# Reference PMID: 12271141
+SIGNOR-C101	inhibition	SIGNOR-C3
+# Reference PMID: 15829723; 17130464; 20138985
+AKT1	stimulation	SIGNOR-C3
+# Reference PMID: 20427287
+TTI1	stimulation	SIGNOR-C3
+# Reference PMID: 19593385; 20138985
+SIGNOR-PF24	stimulation	SIGNOR-C3
+# Reference PMID: 21757713; 19864431; 19346248; 19143636
+MAPK3	stimulation	SIGNOR-C3
+# Reference PMID: 18722121
+RPS6KA1	stimulation	SIGNOR-C3
+# Reference PMID: 17386266; 17277771
+AKT2	stimulation	SIGNOR-C3
+# Reference PMID: 19299511; 19222999
+RHEB	stimulation	SIGNOR-C3
+# Reference PMID: 25628925
+MTOR	form_complex	SIGNOR-C3
+# Reference PMID: 20427287
+TELO2	stimulation	SIGNOR-C3
+# Reference PMID: 24145169
+SIGNOR-C215	stimulation	SIGNOR-C3
+# Reference PMID: 15342917; 18722121
+SIGNOR-PF26	stimulation	SIGNOR-C3
+# Reference PMID: 27479033
+RAB1A	stimulation	SIGNOR-C3
+# Reference PMID: 23863160; 20083114; 18439900; 21460634
+SIGNOR-C15	inhibition	SIGNOR-C3
+# Reference PMID: 22749528
+SIGNOR-PH119	stimulation	SIGNOR-C3
+# Reference PMID: 16862174
+EP300	stimulation	SMAD3
+# Reference PMID: 10197981
+SIGNOR-PF1	inhibition	SMAD3
+# Reference PMID: 15048128
+AKT1	inhibition	SMAD3
+# Reference PMID: 11359933
+SIGNOR-C5	inhibition	SMAD3
+# Reference PMID: 9892110
+SMAD6	inhibition	SMAD3
+# Reference PMID: 15009097
+SIGNOR-C7	stimulation	SMAD3
+# Reference PMID: 22470139
+WWTR1	stimulation	SMAD3
+# Reference PMID: 15048128
+SIGNOR-PF24	inhibition	SMAD3
+# Reference PMID: 18321991
+BCAR1	inhibition	SMAD3
+# Reference PMID: 11359933
+BTRC	inhibition	SMAD3
+# Reference PMID: 10197981
+MAPK3	inhibition	SMAD3
+# Reference PMID: 14512875; 15520018
+MAPK14	stimulation	SMAD3
+# Reference PMID: 10197981; 19914161; 19914168
+MAPK1	inhibition	SMAD3
+# Reference PMID: 30017632; 9892110
+SMAD7	inhibition	SMAD3
+# Reference PMID: 15356634
+PML	stimulation	SMAD3
+# Reference PMID: 16751101
+PPM1A	inhibition	SMAD3
+# Reference PMID: 15009097
+KAT2A	stimulation	SMAD3
+# Reference PMID: 18172167
+GSK3B	inhibition	SMAD3
+# Reference PMID: 10197981
+SIGNOR-PF4	inhibition	SMAD3
+# Reference PMID: 19951945; 20704570
+PPP2CA	inhibition	SMAD3
+# Reference PMID: 10816576
+PRKCA	inhibition	EGFR
+# Reference PMID: 11983694; 8845374
+SRC	stimulation	EGFR
+# Reference PMID: 8621392
+PTPN1	inhibition	EGFR
+# Reference PMID: 9733788
+PTPN6	inhibition	EGFR
+# Reference PMID: 12783862
+RIN1	stimulation	EGFR
+# Reference PMID: 10347170
+CAMK2A	inhibition	EGFR
+# Reference PMID: 19054389
+EPN1	inhibition	EGFR
+# Reference PMID: 10816576
+SIGNOR-PF1	inhibition	EGFR
+# Reference PMID: 21262974
+DUSP3	inhibition	EGFR
+# Reference PMID: 23418353
+RNF126	inhibition	EGFR
+# Reference PMID: 16932740
+MAPK11	inhibition	EGFR
+# Reference PMID: 19882665
+SOX2	stimulation	EGFR
+# Reference PMID: 20332299
+CBL	inhibition	EGFR
+# Reference PMID: 1651322
+MAPK3	inhibition	EGFR
+# Reference PMID: 16932740
+MAPK14	inhibition	EGFR
+# Reference PMID: 8816440
+ERBB2	stimulation	EGFR
+# Reference PMID: 11788593
+RARA	inhibition	EGFR
+# Reference PMID: 12226085
+ITCH	inhibition	EGFR
+# Reference PMID: 14560030; 12582165
+PTPN11	inhibition	EGFR
+# Reference PMID: 1651322
+MAPK1	inhibition	EGFR
+# Reference PMID: 19836242
+PTPRJ	stimulation	EGFR
+# Reference PMID: 21749319
+PKN1	inhibition	EGFR
+# Reference PMID: 10029407
+TP53	stimulation	EGFR
+# Reference PMID: 9363897
+JAK2	stimulation	EGFR
+# Reference PMID: 1651322
+SIGNOR-PF4	inhibition	EGFR
+# Reference PMID: 27117702
+METTL3	stimulation	EGFR
+# Reference PMID: 33384352
+ATF4	stimulation	SARS1
+# Reference PMID: 15821101; 11970898; 15780598
+PTPN1	inhibition	JAK2
+# Reference PMID: 16705159
+SIGNOR-PF1	inhibition	JAK2
+# Reference PMID: 8943354
+PTPN6	inhibition	JAK2
+# Reference PMID: 24600449
+SOCS3	inhibition	JAK2
+# Reference PMID: 24252238; 11201744
+PTPRC	inhibition	JAK2
+# Reference PMID: 26260587
+IL10RA	stimulation	JAK2
+# Reference PMID: 16705159
+MAPK3	inhibition	JAK2
+# Reference PMID: 14522994
+PTPN11	stimulation	JAK2
+# Reference PMID: 16705159
+MAPK1	inhibition	JAK2
+# Reference PMID: 15284024
+EGFR	stimulation	JAK2
+# Reference PMID: 14522994
+SOCS1	inhibition	JAK2
+# Reference PMID: 27858941
+DAB2IP	inhibition	JAK2
+# Reference PMID: 16705159
+SIGNOR-PF4	inhibition	JAK2
+# Reference PMID: 7479834
+MAPK14	inhibition	MAX
+# Reference PMID: 16046550
+SIGNOR-PF1	stimulation	RUNX1
+# Reference PMID: 11179217
+CBFB	stimulation	RUNX1
+# Reference PMID: 28213513
+FLT3	stimulation	RUNX1
+# Reference PMID: 17015473
+SIGNOR-C83	inhibition	RUNX1
+# Reference PMID: 16046550
+MAPK1	bimodal	RUNX1
+# Reference PMID: 24332853
+CARM1	inhibition	RUNX1
+# Reference PMID: 22012064; 23817177
+KMT2A	stimulation	RUNX1
+# Reference PMID: 24392140
+BMI1	inhibition	NDN
+# Reference PMID: 25012566
+GNAO1	stimulation	NDN
+# Reference PMID: 31938050
+ATR	stimulation	USP28
+# Reference PMID: 11742987
+NR3C1	inhibition	SIGNOR-PF4
+# Reference PMID: 12840032
+PPP1CA	inhibition	SIGNOR-PF4
+# Reference PMID: 17673906
+SHC1	stimulation	SIGNOR-PF4
+# Reference PMID: 10224087
+DUSP3	inhibition	SIGNOR-PF4
+# Reference PMID: 20974802
+FGF2	stimulation	SIGNOR-PF4
+# Reference PMID: 17998336
+LCK	stimulation	SIGNOR-PF4
+# Reference PMID: 16456541
+PPP2R5C	inhibition	SIGNOR-PF4
+# Reference PMID: 20647423
+PRKAA2	stimulation	SIGNOR-PF4
+# Reference PMID: 16153436
+RET	stimulation	SIGNOR-PF4
+# Reference PMID: 12771128
+PTPRJ	inhibition	SIGNOR-PF4
+# Reference PMID: 12840032
+SIGNOR-PF54	inhibition	SIGNOR-PF4
+# Reference PMID: 10617468
+DUSP1	inhibition	SIGNOR-PF4
+# Reference PMID: 11702783
+PEA15	inhibition	SIGNOR-PF4
+# Reference PMID: 12270934
+SIGNOR-PF25	stimulation	SIGNOR-PF4
+# Reference PMID: 20647423
+SIGNOR-C15	stimulation	SIGNOR-PF4
+# Reference PMID: 12270934
+MAP2K1	stimulation	SIGNOR-PF4
+# Reference PMID: 12840032
+DUSP6	inhibition	SIGNOR-PF4
+# Reference PMID: 1411546
+MAP2K2	stimulation	SIGNOR-PF4
+# Reference PMID: 12840032
+PPP2CA	inhibition	SIGNOR-PF4
+# Reference PMID: 11742987
+NR3C1	inhibition	MAPK8
+# Reference PMID: 8824585
+MAP4K1	stimulation	MAPK8
+# Reference PMID: 20974802
+FGF2	stimulation	MAPK8
+# Reference PMID: 23151663
+RAC1	stimulation	MAPK8
+# Reference PMID: 12807881
+TRIM27	stimulation	MAPK8
+# Reference PMID: 8824197
+RHOA	stimulation	MAPK8
+# Reference PMID: 15068801
+ROCK1	stimulation	MAPK8
+# Reference PMID: 11062067; 9724739
+MAP2K4	stimulation	MAPK8
+# Reference PMID: 9020184
+DUSP1	inhibition	MAPK8
+# Reference PMID: 17181399
+RPS6KB1	inhibition	MAPK8
+# Reference PMID: 21559432
+DDX21	form_complex	SIGNOR-C447
+# Reference PMID: 21559432
+SF3B1	form_complex	SIGNOR-C447
+# Reference PMID: 21559432
+DEK	form_complex	SIGNOR-C447
+# Reference PMID: 21559432
+ERCC6	form_complex	SIGNOR-C447
+# Reference PMID: 17068183
+POU5F1	inhibition	HLX
+# Reference PMID: 12493754
+PLK1	stimulation	CHEK2
+# Reference PMID: 15668230
+PRKDC	stimulation	CHEK2
+# Reference PMID: 15618221
+TTK	stimulation	CHEK2
+# Reference PMID: 16596250
+PPP2CB	stimulation	CHEK2
+# Reference PMID: 16311512
+PPM1D	stimulation	CHEK2
+# Reference PMID: 10973490
+ATR	stimulation	CHEK2
+# Reference PMID: 16596250
+PPP2CA	stimulation	CHEK2
+# Reference PMID: 14967450
+SIGNOR-PF1	stimulation	MAPKAPK2
+# Reference PMID: 8846784
+MAPK1	stimulation	MAPKAPK2
+# Reference PMID: 23583303; 14967450
+MAPK3	stimulation	MAPKAPK2
+# Reference PMID: 7592979; 8846784; 14499342
+MAPK14	stimulation	MAPKAPK2
+# Reference PMID: 14967450
+SIGNOR-PF4	stimulation	MAPKAPK2
+# Reference PMID: 19734889
+CHEK1	stimulation	NEK11
+# Reference PMID: 15073170
+TP53	stimulation	SIGNOR-PF26
+# Reference PMID: 9430688
+SIGNOR-PF1	stimulation	SIGNOR-PF26
+# Reference PMID: 9687510; 12832467; 9430688
+MAPK1	stimulation	SIGNOR-PF26
+# Reference PMID: 33081032
+GSK3B	stimulation	SIGNOR-PF26
+# Reference PMID: 11914378
+MTOR	stimulation	SIGNOR-PF26
+# Reference PMID: 12832467; 9430688; 8387505
+MAPK3	stimulation	SIGNOR-PF26
+# Reference PMID: 10480933
+PDPK1	stimulation	SIGNOR-PF26
+# Reference PMID: 12832467
+SIGNOR-PF4	stimulation	SIGNOR-PF26
+# Reference PMID: 11914378
+SIGNOR-C3	stimulation	SIGNOR-PF26
+# Reference PMID: 27653696
+CCNF	inhibition	FZR1
+# Reference PMID: 21596315
+USP37	inhibition	FZR1
+# Reference PMID: 12359725
+SIGNOR-PF1	stimulation	CDK2
+# Reference PMID: 18354084
+AKT1	stimulation	CDK2
+# Reference PMID: 18354084
+SIGNOR-PF24	stimulation	CDK2
+# Reference PMID: 12359725
+MAPK1	stimulation	CDK2
+# Reference PMID: 25364462
+CCNO	stimulation	CDK2
+# Reference PMID: 21544813
+ARNT	inhibition	CDK2
+# Reference PMID: 10085115
+CDK7	stimulation	CDK2
+# Reference PMID: 10085115
+SIGNOR-C456	stimulation	CDK2
+# Reference PMID: 11029659
+WEE1	inhibition	CDK2
+# Reference PMID: 10611320
+TGFB1	inhibition	CDK2
+# Reference PMID: 15107605
+AKT1	inhibition	CHEK1
+# Reference PMID: 17015476
+PPP2CB	inhibition	CHEK1
+# Reference PMID: 15870257
+PPM1D	inhibition	CHEK1
+# Reference PMID: 15107605
+SIGNOR-PF24	inhibition	CHEK1
+# Reference PMID: 15775976
+ATR	stimulation	CHEK1
+# Reference PMID: 24260231
+GSK3B	inhibition	CHEK1
+# Reference PMID: 19716789
+SIGNOR-C529	inhibition	CHEK1
+# Reference PMID: 28138032
+SIGNOR-PF25	stimulation	CHEK1
+# Reference PMID: 17015476
+PPP2CA	inhibition	CHEK1
+# Reference PMID: 15073170
+TP53	stimulation	RPS6KA1
+# Reference PMID: 9430688
+SIGNOR-PF1	stimulation	RPS6KA1
+# Reference PMID: 9687510; 12832467; 9430688
+MAPK1	stimulation	RPS6KA1
+# Reference PMID: 12832467; 9430688; 8387505
+MAPK3	stimulation	RPS6KA1
+# Reference PMID: 10480933
+PDPK1	stimulation	RPS6KA1
+# Reference PMID: 8387505
+SIGNOR-PF4	stimulation	RPS6KA1
+# Reference PMID: 23616010
+SIGNOR-PF1	stimulation	E2F1
+# Reference PMID: 19891787
+HES1	inhibition	E2F1
+# Reference PMID: 19891787
+HES6	stimulation	E2F1
+# Reference PMID: 14967450; 22802261
+MAPK3	stimulation	E2F1
+# Reference PMID: 10559858
+SIGNOR-C136	inhibition	E2F1
+# Reference PMID: 9418871
+DDB2	stimulation	E2F1
+# Reference PMID: 19486893
+HIC1	inhibition	E2F1
+# Reference PMID: 11459832
+ATR	stimulation	E2F1
+# Reference PMID: 10428966
+CDK7	inhibition	E2F1
+# Reference PMID: 24392139
+NDN	inhibition	E2F1
+# Reference PMID: 14618416
+TFDP1	stimulation	E2F1
+# Reference PMID: 10362260
+GADD45A	inhibition	CDK1
+# Reference PMID: 7880537
+CDC25B	stimulation	CDK1
+# Reference PMID: 11687586
+RGCC	stimulation	CDK1
+# Reference PMID: 12049736
+ERBB2	inhibition	CDK1
+# Reference PMID: 22850745
+DCK	inhibition	CDK1
+# Reference PMID: 37197505
+CCNO	stimulation	CDK1
+# Reference PMID: 19574738
+CDC25C	stimulation	CDK1
+# Reference PMID: 8344251
+CDK7	stimulation	CDK1
+# Reference PMID: 16096060
+WEE1	inhibition	CDK1
+# Reference PMID: 14618416
+TFDP1	stimulation	CDK1
+# Reference PMID: 10362260
+GADD45A	inhibition	SIGNOR-C17
+# Reference PMID: 7880537
+CDC25B	stimulation	SIGNOR-C17
+# Reference PMID: 10913154
+CDC25C	stimulation	SIGNOR-C17
+# Reference PMID: 24488098
+PBXIP1	inhibition	PBX1
+# Reference PMID: 21746878
+KLF4	stimulation	PBX1
+# Reference PMID: 11081181
+CREB1	stimulation	POMC
+# Reference PMID: 19049975
+STAT3	stimulation	POMC
+# Reference PMID: 28270795
+FOXO1	inhibition	POMC
+# Reference PMID: 19389701
+USF1	stimulation	POMC
+# Reference PMID: 23504413
+CRHR1	stimulation	POMC
+# Reference PMID: 11741536
+CASP3	inhibition	IKBKB
+# Reference PMID: 11741536
+SIGNOR-C221	inhibition	IKBKB
+# Reference PMID: 12707358; 12645577
+SRC	stimulation	IKBKB
+# Reference PMID: 12192055; 20300203
+IKBKG	stimulation	IKBKB
+# Reference PMID: 20068069
+SIGNOR-C5	inhibition	IKBKB
+# Reference PMID: 19607706
+PPP2CB	inhibition	IKBKB
+# Reference PMID: 17956589
+RUNX3	inhibition	IKBKB
+# Reference PMID: 21673972
+PRKAA2	stimulation	IKBKB
+# Reference PMID: 10022904
+CHUK	stimulation	IKBKB
+# Reference PMID: 14743216
+TBK1	stimulation	IKBKB
+# Reference PMID: 18930133
+PPM1A	inhibition	IKBKB
+# Reference PMID: 18957422
+PLK1	inhibition	IKBKB
+# Reference PMID: 10321728
+SIGNOR-C529	inhibition	IKBKB
+# Reference PMID: 26059451
+STAT5A	stimulation	DNMT3A
+# Reference PMID: 20887952
+MAPK14	stimulation	SIGNOR-C130
+# Reference PMID: 22505453
+SIGNOR-PF24	stimulation	BMI1
+# Reference PMID: 22505453
+AKT2	stimulation	BMI1
+# Reference PMID: 24392140
+NDN	inhibition	BMI1
+# Reference PMID: 22505453
+AKT1	stimulation	BMI1
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	BMI1
+# Reference PMID: 22505453
+AKT3	stimulation	BMI1
+# Reference PMID: 15708980
+HIPK2	inhibition	CTBP1
+# Reference PMID: 12872159
+PAK1	inhibition	CTBP1
+# Reference PMID: 23291169
+PRKAA1	inhibition	CTBP1
+# Reference PMID: 23291169
+SIGNOR-C15	inhibition	CTBP1
+# Reference PMID: 16984892
+MAPK8	inhibition	CTBP1
+# Reference PMID: 19277896
+SNAI1	stimulation	CTBP1
+# Reference PMID: 15095414
+NKX2-5	stimulation	TBX5
+# Reference PMID: 21746878
+KLF4	stimulation	MEIS2
+# Reference PMID: 30755245
+TP53	inhibition	DRAM2
+# Reference PMID: 14592976
+SIGNOR-PF1	inhibition	TCF3
+# Reference PMID: 15719023
+MAPK11	stimulation	TCF3
+# Reference PMID: 9242638
+ID1	inhibition	TCF3
+# Reference PMID: 14592976
+MAPK3	inhibition	TCF3
+# Reference PMID: 15719023
+MAPK14	stimulation	TCF3
+# Reference PMID: 20626350
+MAPKAPK2	stimulation	TCF3
+# Reference PMID: 14592976
+MAPK1	inhibition	TCF3
+# Reference PMID: 9242638
+ID3	inhibition	TCF3
+# Reference PMID: 9242638
+ID2	inhibition	TCF3
+# Reference PMID: 9528794
+KRAS	stimulation	TCF3
+# Reference PMID: 11524435
+CSNK1E	stimulation	TCF3
+# Reference PMID: 14592976
+SIGNOR-PF4	inhibition	TCF3
+# Reference PMID: 9528794
+NOTCH2	inhibition	TCF3
+# Reference PMID: 25595898
+SIGNOR-PF24	stimulation	TBX3
+# Reference PMID: 25595898
+AKT3	stimulation	TBX3
+# Reference PMID: 9162033
+NR3C1	inhibition	AR
+# Reference PMID: 18511414
+SIGNOR-PF1	inhibition	AR
+# Reference PMID: 14609956
+ZMIZ1	stimulation	AR
+# Reference PMID: 17470458; 11404460
+AKT1	inhibition	AR
+# Reference PMID: 17470458; 11404460
+SIGNOR-PF24	inhibition	AR
+# Reference PMID: 21799006
+CDK5	stimulation	AR
+# Reference PMID: 19545546
+FKBP4	stimulation	AR
+# Reference PMID: 18829551
+DDX5	stimulation	AR
+# Reference PMID: 12771131
+NCOR2	inhibition	AR
+# Reference PMID: 15861399
+HSP90AB1	stimulation	AR
+# Reference PMID: 18511414
+MAPK1	inhibition	AR
+# Reference PMID: 15604291
+HOXB13	inhibition	AR
+# Reference PMID: 17251915
+PKN1	stimulation	AR
+# Reference PMID: 21157430
+CDK7	inhibition	AR
+# Reference PMID: 27858941
+DAB2IP	inhibition	AR
+# Reference PMID: 24875621
+FOXA1	inhibition	AR
+# Reference PMID: 21512132
+STK4	inhibition	AR
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	RNF126
+# Reference PMID: 17177604
+SIGNOR-PF24	inhibition	KHSRP
+# Reference PMID: 17177604
+AKT2	inhibition	KHSRP
+# Reference PMID: 17177604
+AKT1	inhibition	KHSRP
+# Reference PMID: 16364914
+MAPK14	inhibition	KHSRP
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	RNF144B
+# Reference PMID: 8878484
+NR3C1	stimulation	STAT5A
+# Reference PMID: 10993888
+PTPN1	inhibition	STAT5A
+# Reference PMID: 11641791
+SRC	stimulation	STAT5A
+# Reference PMID: 10194762
+SIGNOR-PF1	stimulation	STAT5A
+# Reference PMID: 12796379; 17356133
+FLT3	stimulation	STAT5A
+# Reference PMID: 19088846; 18250158
+JAK3	stimulation	STAT5A
+# Reference PMID: 20596030
+PTEN	inhibition	STAT5A
+# Reference PMID: 10194762
+MAPK3	stimulation	STAT5A
+# Reference PMID: 10679268
+STAP1	stimulation	STAT5A
+# Reference PMID: 11413148
+BTK	stimulation	STAT5A
+# Reference PMID: 10194762
+MAPK1	stimulation	STAT5A
+# Reference PMID: 16729043; 10358079
+EGFR	stimulation	STAT5A
+# Reference PMID: 9575217
+JAK2	stimulation	STAT5A
+# Reference PMID: 10194762
+SIGNOR-PF4	stimulation	STAT5A
+# Reference PMID: 11980910
+MAP2K3	stimulation	DYRK1B
+# Reference PMID: 20682797
+HIF1A	stimulation	KDM4B
+# Reference PMID: 28073943
+TP53	stimulation	KDM4B
+# Reference PMID: 23277204
+PPP1CA	stimulation	MDM2
+# Reference PMID: 15169778; 11504915
+AKT1	stimulation	MDM2
+# Reference PMID: 16082221
+USP7	stimulation	MDM2
+# Reference PMID: 11983168
+PPP2CB	stimulation	MDM2
+# Reference PMID: 17936559
+PPM1D	bimodal	MDM2
+# Reference PMID: 23277204
+PPP1CC	stimulation	MDM2
+# Reference PMID: 15169778; 11504915
+SIGNOR-PF24	stimulation	MDM2
+# Reference PMID: 15735705
+MDM4	stimulation	MDM2
+# Reference PMID: 23405218
+DAXX	stimulation	MDM2
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	MDM2
+# Reference PMID: 15688025
+MAPKAPK2	stimulation	MDM2
+# Reference PMID: 11504915
+AKT2	stimulation	MDM2
+# Reference PMID: 23277204
+PPP1CB	stimulation	MDM2
+# Reference PMID: 18292944
+CDKN2AIP	inhibition	MDM2
+# Reference PMID: 21333377
+TRIM13	inhibition	MDM2
+# Reference PMID: 15313915
+FHIT	inhibition	MDM2
+# Reference PMID: 14654783
+ATR	inhibition	MDM2
+# Reference PMID: 23277204
+SIGNOR-PF54	stimulation	MDM2
+# Reference PMID: 7958853
+TP53	stimulation	MDM2
+# Reference PMID: 19833129; 12383858
+PLK1	stimulation	MDM2
+# Reference PMID: 20940030
+NUMB	inhibition	MDM2
+# Reference PMID: 31138683
+SIGNOR-C529	inhibition	MDM2
+# Reference PMID: 20921405
+SIGNOR-C13	stimulation	MDM2
+# Reference PMID: 12167711; 20708156
+CSNK1D	inhibition	MDM2
+# Reference PMID: 11983168
+PPP2CA	stimulation	MDM2
+# Reference PMID: 1370476
+PRKD1	inhibition	PLCG1
+# Reference PMID: 7682059
+SRC	stimulation	PLCG1
+# Reference PMID: 9430633
+PIK3C2A	stimulation	PLCG1
+# Reference PMID: 7682059
+LYN	stimulation	PLCG1
+# Reference PMID: 1370476
+PRKACA	inhibition	PLCG1
+# Reference PMID: 16835467
+KDR	stimulation	PLCG1
+# Reference PMID: 14523024
+GIT1	stimulation	PLCG1
+# Reference PMID: 1676673
+ERBB2	stimulation	PLCG1
+# Reference PMID: 7535778
+PDGFRA	stimulation	PLCG1
+# Reference PMID: 11259588
+PTPRJ	inhibition	PLCG1
+# Reference PMID: 7535778
+PDGFRB	stimulation	PLCG1
+# Reference PMID: 24870244
+KAT2A	inhibition	PLCG1
+# Reference PMID: 1689310; 9176240
+EGFR	stimulation	PLCG1
+# Reference PMID: 11121408
+PTPRF	inhibition	PLCG1
+# Reference PMID: 9398617
+FLT1	stimulation	PLCG1
+# Reference PMID: 1370476
+PRKCA	inhibition	PLCG1
+# Reference PMID: 8657103
+SYK	stimulation	PLCG1
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	MKRN1
+# Reference PMID: 24142875
+GSK3B	inhibition	RBM38
+# Reference PMID: 19917614
+HEY1	inhibition	MYOG
+# Reference PMID: 23435416
+JARID2	inhibition	MYOG
+# Reference PMID: 21902831
+SIGNOR-C18	inhibition	MYOG
+# Reference PMID: 26042050
+ANGPT1	stimulation	MYOG
+# Reference PMID: 28163303
+CIITA	inhibition	MYOG
+# Reference PMID: 17194702
+SIGNOR-C93	stimulation	MYOG
+# Reference PMID: 15870273
+SMARCD3	stimulation	MYOG
+# Reference PMID: 14739161
+TGFB1	inhibition	MYOG
+# Reference PMID: 19261608; 17386267
+PHLPP1	inhibition	AKT2
+# Reference PMID: 16293724
+GNG12	stimulation	AKT2
+# Reference PMID: 8650155
+PPP2CB	inhibition	AKT2
+# Reference PMID: 12181443; 20626350
+MAPK14	bimodal	AKT2
+# Reference PMID: 16293724
+PIK3CA	stimulation	AKT2
+# Reference PMID: 21333377
+TRIM13	inhibition	AKT2
+# Reference PMID: 9512493; 15743829
+PDPK1	stimulation	AKT2
+# Reference PMID: 16407838
+FHIT	inhibition	AKT2
+# Reference PMID: 17353188
+ACP1	inhibition	AKT2
+# Reference PMID: 18160256; 15367694
+PPP2CA	inhibition	AKT2
+# Reference PMID: 31534127
+SIGNOR-C5	inhibition	CELF6
+# Reference PMID: 10930578
+AKT1	stimulation	IMPDH2
+# Reference PMID: 22142472
+GSK3B	inhibition	STK38
+# Reference PMID: 22142472
+PRKACA	inhibition	STK38
+# Reference PMID: 16682003
+HES1	inhibition	RBPJ
+# Reference PMID: 22302987
+MAPK14	inhibition	RBPJ
+# Reference PMID: 16682003
+HEY1	inhibition	RBPJ
+# Reference PMID: 11404076
+NOTCH3	stimulation	RBPJ
+# Reference PMID: 17615152
+SIGNOR-PF1	stimulation	ESR1
+# Reference PMID: 9500442
+SRC	stimulation	ESR1
+# Reference PMID: 12374744
+PAK1	stimulation	ESR1
+# Reference PMID: 11108261
+AKT1	stimulation	ESR1
+# Reference PMID: 23242655
+DNMT1	inhibition	ESR1
+# Reference PMID: 15193262; 9891036
+PRKACA	bimodal	ESR1
+# Reference PMID: 23242655
+HDAC1	inhibition	ESR1
+# Reference PMID: 19383985
+OTUB1	inhibition	ESR1
+# Reference PMID: 11108261
+SIGNOR-PF24	stimulation	ESR1
+# Reference PMID: 18372406; 17615152
+MAPK3	stimulation	ESR1
+# Reference PMID: 15879307; 12138194
+MAPK14	stimulation	ESR1
+# Reference PMID: 7838153
+RPS6KA1	stimulation	ESR1
+# Reference PMID: 10428798
+SIGNOR-C83	stimulation	ESR1
+# Reference PMID: 10571988; 9500442
+LCK	stimulation	ESR1
+# Reference PMID: 15173068
+ERBB2	stimulation	ESR1
+# Reference PMID: 11139588
+AKT2	stimulation	ESR1
+# Reference PMID: 18372406; 17615152; 12466266
+MAPK1	stimulation	ESR1
+# Reference PMID: 11887937
+EGFR	stimulation	ESR1
+# Reference PMID: 10949034
+CDK7	stimulation	ESR1
+# Reference PMID: 7838153
+SIGNOR-PF26	stimulation	ESR1
+# Reference PMID: 7838153
+RPS6KB1	stimulation	ESR1
+# Reference PMID: 16076840
+GSK3B	stimulation	ESR1
+# Reference PMID: 17615152
+SIGNOR-PF4	stimulation	ESR1
+# Reference PMID: 11244506
+BRCA1	inhibition	ESR1
+# Reference PMID: 25071155
+WWP2	inhibition	TP73
+# Reference PMID: 12890487
+HECW2	stimulation	TP73
+# Reference PMID: 19158275
+PRKCB	stimulation	TP73
+# Reference PMID: 21808241
+YAP1	stimulation	TP73
+# Reference PMID: 18418051
+PLK1	inhibition	TP73
+# Reference PMID: 19581926
+SIGNOR-C529	inhibition	TP73
+# Reference PMID: 14585975
+CHEK1	stimulation	TP73
+# Reference PMID: 19158275
+PRKCA	stimulation	TP73
+# Reference PMID: 15705594
+WNT7A	inhibition	SPRY4
+# Reference PMID: 15870257
+PPM1D	inhibition	TP53
+# Reference PMID: 17525747; 11896587
+MAPK9	stimulation	TP53
+# Reference PMID: 17308127
+KLF4	inhibition	TP53
+# Reference PMID: 12955074
+MAPK3	stimulation	TP53
+# Reference PMID: 19797274
+RPS6KA4	inhibition	TP53
+# Reference PMID: 20940030
+NUMB	stimulation	TP53
+# Reference PMID: 15866171
+PRKAA1	stimulation	TP53
+# Reference PMID: 21962518
+USP10	stimulation	TP53
+# Reference PMID: 15044535
+SIGNOR-C13	stimulation	TP53
+# Reference PMID: 9315650
+SIGNOR-C456	stimulation	TP53
+# Reference PMID: 12531896; 11283254; 9724739; 11896587
+MAPK8	stimulation	TP53
+# Reference PMID: 19536131
+MKRN1	inhibition	TP53
+# Reference PMID: 14712210; 17245430
+PPP2CA	bimodal	TP53
+# Reference PMID: 16082221
+USP7	stimulation	TP53
+# Reference PMID: 24173284; 23201157; 15469940
+AURKA	stimulation	TP53
+# Reference PMID: 16501611
+PPP1CC	inhibition	TP53
+# Reference PMID: 17591690
+CDK5	stimulation	TP53
+# Reference PMID: 10747897; 10781582; 11258706; 10581258; 22975381; 15642743; 17535811
+MAPK14	stimulation	TP53
+# Reference PMID: 16501611
+PPP1CB	inhibition	TP53
+# Reference PMID: 17245430
+PPP2R5C	stimulation	TP53
+# Reference PMID: 16803988
+CDKN2AIP	stimulation	TP53
+# Reference PMID: 15313915
+FHIT	stimulation	TP53
+# Reference PMID: 16678111
+VHL	stimulation	TP53
+# Reference PMID: 20501643
+SPRY4	stimulation	TP53
+# Reference PMID: 16501611
+SIGNOR-PF54	inhibition	TP53
+# Reference PMID: 9315650
+CDK7	stimulation	TP53
+# Reference PMID: 19473992
+PLK1	inhibition	TP53
+# Reference PMID: 11483158
+GSK3B	stimulation	TP53
+# Reference PMID: 15662138
+ING1	stimulation	TP53
+# Reference PMID: 10734067; 10606744
+CSNK1D	stimulation	TP53
+# Reference PMID: 14712210; 17245430
+PPP2CB	stimulation	TP53
+# Reference PMID: 17000778
+BAD	stimulation	TP53
+# Reference PMID: 34785775
+OTUB1	stimulation	TP53
+# Reference PMID: 17254968
+MAPK11	stimulation	TP53
+# Reference PMID: 9497376
+UBE3A	inhibition	TP53
+# Reference PMID: 19965871; 17349958
+DYRK2	stimulation	TP53
+# Reference PMID: 11865061
+ATR	stimulation	TP53
+# Reference PMID: 26868148
+SIGNOR-C529	inhibition	TP53
+# Reference PMID: 11070080; 12690203; 25545885
+EP300	stimulation	TP53
+# Reference PMID: 17210684
+HIPK2	stimulation	TP53
+# Reference PMID: 16501611
+PPP1CA	inhibition	TP53
+# Reference PMID: 30755245
+DRAM2	inhibition	TP53
+# Reference PMID: 19332559
+TTK	stimulation	TP53
+# Reference PMID: 12393902
+MDM4	inhibition	TP53
+# Reference PMID: 17108107
+STK11	stimulation	TP53
+# Reference PMID: 15660129
+DDX5	stimulation	TP53
+# Reference PMID: 20959462; 22611192
+AURKB	inhibition	TP53
+# Reference PMID: 14640983
+SIGNOR-C83	stimulation	TP53
+# Reference PMID: 9363941
+PRKDC	stimulation	TP53
+# Reference PMID: 12064478
+SIGNOR-C144	stimulation	TP53
+# Reference PMID: 15866171
+SIGNOR-C15	stimulation	TP53
+# Reference PMID: 15659650
+CHEK1	stimulation	TP53
+# Reference PMID: 9571186
+PRKCA	stimulation	TP53
+# Reference PMID: 15769897
+FLT3	stimulation	PIM2
+# Reference PMID: 31583686
+SIGNOR-C451	stimulation	PIM2
+# Reference PMID: 16146838; 15769897
+STAT5A	stimulation	PIM2
+# Reference PMID: 31583686
+SIGNOR-C73	stimulation	PIM2
+# Reference PMID: 15060146
+SIGNOR-PF1	inhibition	ETV6
+# Reference PMID: 15060146
+MAPK1	inhibition	ETV6
+# Reference PMID: 15060146
+MAPK3	inhibition	ETV6
+# Reference PMID: 15060146
+SIGNOR-PF4	inhibition	ETV6
+# Reference PMID: 10944526
+EP300	stimulation	MYOD1
+# Reference PMID: 20978344
+SIGNOR-PF83	stimulation	MYOD1
+# Reference PMID: 10066785
+HES1	inhibition	MYOD1
+# Reference PMID: 22944199; 9753670
+WNT7A	stimulation	MYOD1
+# Reference PMID: 11009425
+IFNG	inhibition	MYOD1
+# Reference PMID: 1649701
+TCF3	stimulation	MYOD1
+# Reference PMID: 12244043
+SIGNOR-C9	inhibition	MYOD1
+# Reference PMID: 18854138
+SIGNOR-PF27	stimulation	MYOD1
+# Reference PMID: 18854138
+FOXO3	stimulation	MYOD1
+# Reference PMID: 11684023
+HDAC1	inhibition	MYOD1
+# Reference PMID: 20466877
+WWTR1	stimulation	MYOD1
+# Reference PMID: 8380166
+ID1	inhibition	MYOD1
+# Reference PMID: 21936881
+KAT5	stimulation	MYOD1
+# Reference PMID: 15466486
+MAPK14	stimulation	MYOD1
+# Reference PMID: 15149596
+PBX1	stimulation	MYOD1
+# Reference PMID: 25194572
+STAT3	stimulation	MYOD1
+# Reference PMID: 9418854
+MEF2A	stimulation	MYOD1
+# Reference PMID: 21902831
+SIGNOR-C18	inhibition	MYOD1
+# Reference PMID: 18662193
+SHH	stimulation	MYOD1
+# Reference PMID: 15829723
+SIGNOR-C155	stimulation	MYOD1
+# Reference PMID: 26042050
+ANGPT1	stimulation	MYOD1
+# Reference PMID: 8380166
+ID2	inhibition	MYOD1
+# Reference PMID: 11073990
+EID1	inhibition	MYOD1
+# Reference PMID: 10066785
+SIGNOR-C97	inhibition	MYOD1
+# Reference PMID: 21902831
+CREB1	stimulation	MYOD1
+# Reference PMID: 19319192
+SIGNOR-C529	inhibition	MYOD1
+# Reference PMID: 20219869
+SIGNOR-C13	inhibition	MYOD1
+# Reference PMID: 1335366
+PRKCA	inhibition	MYOD1
+# Reference PMID: 22068056
+SMARCD3	stimulation	MYOD1
+# Reference PMID: 9753670
+WNT4	stimulation	MYOD1
+# Reference PMID: 17956589
+RUNX3	stimulation	ING1
+# Reference PMID: 29507660
+STAT5A	stimulation	SIGNOR-PF34
+# Reference PMID: 30017192
+PRKACA	stimulation	SIGNOR-PF34
+# Reference PMID: 7682059
+FYN	stimulation	PLCG2
+# Reference PMID: 11606584; 11507089
+BTK	stimulation	PLCG2
+# Reference PMID: 7682059
+LYN	stimulation	PLCG2
+# Reference PMID: 32323266
+INPP5D	inhibition	PLCG2
+# Reference PMID: 12181444
+LCK	stimulation	PLCG2
+# Reference PMID: 18162466
+PHLPP1	inhibition	PRKCA
+# Reference PMID: 14657015
+AKAP12	stimulation	PRKCA
+# Reference PMID: 15209375
+PDPK1	stimulation	PRKCA
+# Reference PMID: 12881490
+SYK	stimulation	PRKCA
+# Reference PMID: 12645577
+PLCG1	stimulation	PRKCA
+# Reference PMID: 18519638
+SOD1	stimulation	MAP3K5
+# Reference PMID: 11154276
+AKT1	inhibition	MAP3K5
+# Reference PMID: 17210579
+MAP3K6	stimulation	MAP3K5
+# Reference PMID: 16316999
+SLK	stimulation	MAP3K5
+# Reference PMID: 11154276
+SIGNOR-PF24	inhibition	MAP3K5
+# Reference PMID: 9743501
+DAXX	stimulation	MAP3K5
+# Reference PMID: 12697749
+AKT2	inhibition	MAP3K5
+# Reference PMID: 16709866
+MAPK1	stimulation	MAP3K5
+# Reference PMID: 19287004
+PTPN11	stimulation	MAP3K5
+# Reference PMID: 11427728
+RAF1	inhibition	MAP3K5
+# Reference PMID: 19287004
+JAK2	inhibition	MAP3K5
+# Reference PMID: 27858941
+DAB2IP	stimulation	MAP3K5
+# Reference PMID: 28143904
+SIGNOR-C15	stimulation	RBBP7
+# Reference PMID: 28143904
+PRKAA1	stimulation	RBBP7
+# Reference PMID: 16731620
+MYF5	stimulation	URS0000389B41_9606
+# Reference PMID: 21730352
+MYF5	stimulation	URS000075CF56_9606
+# Reference PMID: 25477897
+FOXO3	stimulation	URS000075CF56_9606
+# Reference PMID: 20887952
+SIGNOR-C77	form_complex	SIGNOR-C102
+# Reference PMID: 27840030
+KRAS	inhibition	CARM1
+# Reference PMID: 20940030
+SIAH1	stimulation	SIGNOR-PF30
+# Reference PMID: 24749067
+SIGNOR-PF27	inhibition	SIGNOR-PF30
+# Reference PMID: 24749067
+FOXO3	inhibition	SIGNOR-PF30
+# Reference PMID: 12361602; 16140393; 23729744
+DLL1	stimulation	SIGNOR-PF30
+# Reference PMID: 10940313
+ITCH	inhibition	SIGNOR-PF30
+# Reference PMID: 12370315
+MAML2	stimulation	SIGNOR-PF30
+# Reference PMID: 15546612
+FBXW7	inhibition	SIGNOR-PF30
+# Reference PMID: 10958687
+JAG2	stimulation	SIGNOR-PF30
+# Reference PMID: 23729744
+RBPJ	inhibition	SIGNOR-PF30
+# Reference PMID: 12370315
+MAML3	stimulation	SIGNOR-PF30
+# Reference PMID: 12361602
+NUMB	inhibition	SIGNOR-PF30
+# Reference PMID: 26235645
+UCHL3	stimulation	SIGNOR-PF89
+# Reference PMID: 26235645
+USP7	stimulation	SIGNOR-PF89
+# Reference PMID: 26235645
+USP9X	stimulation	SIGNOR-PF89
+# Reference PMID: 10604473
+PPP1R1B	inhibition	SIGNOR-PF17
+# Reference PMID: 14657015
+AKAP12	stimulation	SIGNOR-PF17
+# Reference PMID: 27858941
+AKT1	inhibition	DAB2IP
+# Reference PMID: 27858941
+FBXW7	inhibition	DAB2IP
+# Reference PMID: 27858941
+SKP2	inhibition	DAB2IP
+# Reference PMID: 29407449
+THRB	inhibition	GATA2
+# Reference PMID: 15837948
+AKT1	inhibition	GATA2
+# Reference PMID: 15983365
+NANOG	inhibition	GATA2
+# Reference PMID: 10938104
+SIGNOR-FP2	stimulation	GATA2
+# Reference PMID: 15837948
+SIGNOR-PF24	inhibition	GATA2
+# Reference PMID: 25056917
+HRAS	stimulation	GATA2
+# Reference PMID: 16399502
+SMO	stimulation	GATA2
+# Reference PMID: 15837948
+INS	inhibition	GATA2
+# Reference PMID: 25056917
+MAPK14	stimulation	GATA2
+# Reference PMID: 25670854
+FBXW7	inhibition	GATA2
+# Reference PMID: 29407449
+THRA	inhibition	GATA2
+# Reference PMID: 21853041
+ZFPM1	inhibition	GATA2
+# Reference PMID: 29407449
+SIGNOR-PF84	inhibition	GATA2
+# Reference PMID: 23858473
+PPP1CA	inhibition	MECOM
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	MECOM
+# Reference PMID: 24058639
+EP300	stimulation	FLI1
+# Reference PMID: 24727028
+ETV2	stimulation	FLI1
+# Reference PMID: 24058639
+HDAC1	stimulation	FLI1
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	RNF4
+# Reference PMID: 11085989
+SIGNOR-PF1	stimulation	EGR1
+# Reference PMID: 22431919
+BCAR1	stimulation	EGR1
+# Reference PMID: 21983014
+SIGNOR-C13	inhibition	EGR1
+# Reference PMID: 10671503
+RELA	stimulation	EGR1
+# Reference PMID: 10391889
+ATF1	stimulation	EGR1
+# Reference PMID: 21983014
+HDAC1	inhibition	EGR1
+# Reference PMID: 20008130
+HLX	inhibition	EGR1
+# Reference PMID: 27447856
+PXN	stimulation	BCAR1
+# Reference PMID: 22710723; 12972425; 11604500
+SRC	stimulation	BCAR1
+# Reference PMID: 12601080; 11019781
+FGFR1	stimulation	BCAR1
+# Reference PMID: 22431919
+EGR1	stimulation	BCAR1
+# Reference PMID: 10022916
+NFATC1	stimulation	IL2
+# Reference PMID: 12626549
+CREM	inhibition	IL2
+# Reference PMID: 9199329
+SIGNOR-PF1	inhibition	NR3C1
+# Reference PMID: 19129776; 24300895
+HES1	inhibition	NR3C1
+# Reference PMID: 24291004
+AKT1	inhibition	NR3C1
+# Reference PMID: 21164265
+CLOCK	inhibition	NR3C1
+# Reference PMID: 25790864
+FKBP5	inhibition	NR3C1
+# Reference PMID: 24291004
+SIGNOR-PF24	inhibition	NR3C1
+# Reference PMID: 17440046
+CDK5	inhibition	NR3C1
+# Reference PMID: 9199329
+MAPK3	inhibition	NR3C1
+# Reference PMID: 15817653; 20660302
+MAPK14	stimulation	NR3C1
+# Reference PMID: 18682536
+PELP1	stimulation	NR3C1
+# Reference PMID: 9199329
+MAPK1	inhibition	NR3C1
+# Reference PMID: 23650397
+SGK1	stimulation	NR3C1
+# Reference PMID: 18838540
+GSK3B	inhibition	NR3C1
+# Reference PMID: 9199329
+SIGNOR-PF4	inhibition	NR3C1
+# Reference PMID: 12351702
+MAPK8	inhibition	NR3C1
+# Reference PMID: 22219353
+SMAD5	stimulation	GATA3
+# Reference PMID: 17139329
+SMO	stimulation	GATA3
+# Reference PMID: 16109788
+SIGNOR-PF17	stimulation	GATA3
+# Reference PMID: 18762022
+NR3C1	stimulation	HDAC1
+# Reference PMID: 19182791
+CHFR	inhibition	HDAC1
+# Reference PMID: 17369852
+DDX5	stimulation	HDAC1
+# Reference PMID: 20674862
+CLOCK	stimulation	NR0B2
+# Reference PMID: 17909097
+PRKAA1	stimulation	NR0B2
+# Reference PMID: 17671192
+NME1	inhibition	FZD1
+# Reference PMID: 11279134; 27777311; 8754811; 10649448
+NR3C1	stimulation	PPARG
+# Reference PMID: 12270934; 11733495
+SIGNOR-PF1	stimulation	PPARG
+# Reference PMID: 14614508
+HES1	inhibition	PPARG
+# Reference PMID: 22395773
+NCOR1	inhibition	PPARG
+# Reference PMID: 29205155
+GLI2	inhibition	PPARG
+# Reference PMID: 16054042
+KLF5	stimulation	PPARG
+# Reference PMID: 17139329
+SIGNOR-C9	inhibition	PPARG
+# Reference PMID: 20638365
+PRKACA	stimulation	PPARG
+# Reference PMID: 16670091
+SIGNOR-PF27	inhibition	PPARG
+# Reference PMID: 9539737
+SREBF1	stimulation	PPARG
+# Reference PMID: 22153608
+WWTR1	inhibition	PPARG
+# Reference PMID: 10937998
+FZD1	inhibition	PPARG
+# Reference PMID: 11733495; 18596912
+MAPK3	inhibition	PPARG
+# Reference PMID: 22395773
+NCOR2	inhibition	PPARG
+# Reference PMID: 12589053
+MAPK14	stimulation	PPARG
+# Reference PMID: 11733495; 18596912
+MAPK1	inhibition	PPARG
+# Reference PMID: 18854943; 12589053
+SIGNOR-C85	stimulation	PPARG
+# Reference PMID: 18596912
+MAP2K2	stimulation	PPARG
+# Reference PMID: 19593385
+SIGNOR-C3	stimulation	PPARG
+# Reference PMID: 17543283
+FGFR2	stimulation	PPARG
+# Reference PMID: 16670091
+FOXO1	inhibition	PPARG
+# Reference PMID: 29212876
+EGR1	inhibition	PPARG
+# Reference PMID: 10937998
+FZD2	inhibition	PPARG
+# Reference PMID: 18719589
+BMP7	stimulation	PPARG
+# Reference PMID: 18596912
+SIGNOR-PF25	stimulation	PPARG
+# Reference PMID: 11237216
+RXRA	stimulation	PPARG
+# Reference PMID: 18596912
+SIGNOR-PF4	inhibition	PPARG
+# Reference PMID: 9030579
+MAPK8	inhibition	PPARG
+# Reference PMID: 11279134
+INS	stimulation	PPARG
+# Reference PMID: 31226023
+ATF4	stimulation	DDIT3
+# Reference PMID: 27650555
+PRKAA1	inhibition	DDIT3
+# Reference PMID: 8650547
+MAPK14	stimulation	DDIT3
+# Reference PMID: 19303849
+PRKDC	stimulation	USF1
+# Reference PMID: 21873430
+GSK3B	stimulation	USF1
+# Reference PMID: 19389701
+MAPK14	stimulation	USF1
+# Reference PMID: 12783165
+CDX2	stimulation	INS
+# Reference PMID: 8639160
+NR3C1	inhibition	JUN
+# Reference PMID: 23616010
+SIGNOR-PF1	stimulation	JUN
+# Reference PMID: 23136067
+RNF7	inhibition	JUN
+# Reference PMID: 8415704
+SIGNOR-FP2	stimulation	JUN
+# Reference PMID: 10973958
+SIGNOR-C9	inhibition	JUN
+# Reference PMID: 9405416; 12040039; 19118012
+MAPK9	stimulation	JUN
+# Reference PMID: 19592489
+TLR4	stimulation	JUN
+# Reference PMID: 1749429; 12169099
+HRAS	stimulation	JUN
+# Reference PMID: 22307329
+DYRK2	inhibition	JUN
+# Reference PMID: 12169099
+MAPK3	stimulation	JUN
+# Reference PMID: 18347071
+DVL1	stimulation	JUN
+# Reference PMID: 23616010
+MAPK1	stimulation	JUN
+# Reference PMID: 14739463
+FBXW7	inhibition	JUN
+# Reference PMID: 16023596; 1846781
+GSK3A	inhibition	JUN
+# Reference PMID: 18174238
+RELA	stimulation	JUN
+# Reference PMID: 21544813
+ARNT	inhibition	JUN
+# Reference PMID: 11823437
+DDX21	stimulation	JUN
+# Reference PMID: 16023596; 1846781
+GSK3B	inhibition	JUN
+# Reference PMID: 14739463
+SIGNOR-C529	inhibition	JUN
+# Reference PMID: 18174238
+SIGNOR-C13	stimulation	JUN
+# Reference PMID: 12169099
+SIGNOR-PF4	stimulation	JUN
+# Reference PMID: 8137421
+MAPK8	stimulation	JUN
+# Reference PMID: 17215518
+SIGNOR-PF18	stimulation	JUN
+# Reference PMID: 20008130
+HLX	stimulation	JUN
+# Reference PMID: 15489227
+IKBKG	stimulation	SIGNOR-C13
+# Reference PMID: 16543409
+SOCS3	inhibition	SIGNOR-C13
+# Reference PMID: 23667107
+IFNG	inhibition	SIGNOR-C13
+# Reference PMID: 11295495
+SIGNOR-C5	stimulation	SIGNOR-C13
+# Reference PMID: 10973958
+SIGNOR-C9	inhibition	SIGNOR-C13
+# Reference PMID: 9660950; 17959673
+PRKACA	stimulation	SIGNOR-C13
+# Reference PMID: 17183360
+HDAC1	inhibition	SIGNOR-C13
+# Reference PMID: 7635431
+TLR4	stimulation	SIGNOR-C13
+# Reference PMID: 10469655; 11158290
+IKBKB	inhibition	SIGNOR-C13
+# Reference PMID: 1340770; 9914500
+NFKBIA	inhibition	SIGNOR-C13
+# Reference PMID: 17183360
+RPS6KA4	stimulation	SIGNOR-C13
+# Reference PMID: 9450761
+NFKB1	form_complex	SIGNOR-C13
+# Reference PMID: 10469655
+CHUK	inhibition	SIGNOR-C13
+# Reference PMID: 9450761
+RELA	form_complex	SIGNOR-C13
+# Reference PMID: 15489227
+TBK1	stimulation	SIGNOR-C13
+# Reference PMID: 25309941
+GSK3B	stimulation	SIGNOR-C13
+# Reference PMID: 10075662
+TNFRSF11A	stimulation	SIGNOR-C13
+# Reference PMID: 18079694
+NOD2	stimulation	SIGNOR-C13
+# Reference PMID: 20404331
+PPARGC1A	inhibition	SIGNOR-C13
+# Reference PMID: 18586026
+TGFB1	stimulation	SIGNOR-C13
+# Reference PMID: 11591705
+PPP2CA	inhibition	SIGNOR-C13
+# Reference PMID: 12042304
+PTPRR	inhibition	MAPK7
+# Reference PMID: 11782488
+SRC	stimulation	MAPK7
+# Reference PMID: 18042454
+GSK3B	bimodal	MAF
+# Reference PMID: 18042454
+GSK3A	bimodal	MAF
+# Reference PMID: 11948419; 12869565
+SRC	stimulation	PTEN
+# Reference PMID: 24317448
+USP7	inhibition	PTEN
+# Reference PMID: 30921702
+KDM5C	inhibition	PTEN
+# Reference PMID: 21779440; 18321849
+STK11	inhibition	PTEN
+# Reference PMID: 20212113
+PIK3C3	stimulation	PTEN
+# Reference PMID: 19440552
+SALL4	inhibition	PTEN
+# Reference PMID: 11948419
+LCK	stimulation	PTEN
+# Reference PMID: 23995781
+INSR	inhibition	PTEN
+# Reference PMID: 15793569
+ROCK1	stimulation	PTEN
+# Reference PMID: 24012691
+PBK	inhibition	PTEN
+# Reference PMID: 16107342
+GSK3B	inhibition	PTEN
+# Reference PMID: 19884659
+BMI1	inhibition	PTEN
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	WWP2
+# Reference PMID: 7791754
+BMPR2	stimulation	ACVR1
+# Reference PMID: 11282024
+BMP7	stimulation	ACVR1
+# Reference PMID: 9973379
+FYN	stimulation	CTLA4
+# Reference PMID: 10842319
+JAK2	stimulation	CTLA4
+# Reference PMID: 9973379
+LCK	stimulation	CTLA4
+# Reference PMID: 20513426
+CDK5	inhibition	PIK3C3
+# Reference PMID: 12235291
+SRC	stimulation	INPPL1
+# Reference PMID: 22810696
+IRS2	stimulation	PIK3CA
+# Reference PMID: 16293724
+GNG12	stimulation	PIK3CA
+# Reference PMID: 24737791
+GAB2	stimulation	PIK3CA
+# Reference PMID: 18794881
+PTEN	inhibition	PIK3CA
+# Reference PMID: 8052307
+HRAS	stimulation	PIK3CA
+# Reference PMID: 20966354
+IRS1	stimulation	PIK3CA
+# Reference PMID: 21779497
+KRAS	stimulation	PIK3CA
+# Reference PMID: 27858941
+DAB2IP	inhibition	PIK3CA
+# Reference PMID: 21779497
+NRAS	stimulation	PIK3CA
+# Reference PMID: 28704656
+MTURN	inhibition	TBK1
+# Reference PMID: 18940792
+DDIT3	stimulation	TRIB3
+# Reference PMID: 24351927
+PRKACA	inhibition	LRRK2
+# Reference PMID: 23796501
+SRC	inhibition	PPP2CA
+# Reference PMID: 25207814
+MPG	inhibition	PPP2CA
+# Reference PMID: 24726876
+RACK1	stimulation	PPP2CA
+# Reference PMID: 7592815
+PPP2R5C	stimulation	PPP2CA
+# Reference PMID: 19114990
+PPP2R2A	inhibition	PPP2CA
+# Reference PMID: 15115390
+CASP3	form_complex	SIGNOR-C221
+# Reference PMID: 19797085
+GSK3B	inhibition	PHLPP1
+# Reference PMID: 11579209
+SIGNOR-PF24	inhibition	PTPN1
+# Reference PMID: 9355745
+EGFR	stimulation	PTPN1
+# Reference PMID: 11506178
+INSR	stimulation	PTPN1
+# Reference PMID: 11579209
+AKT2	inhibition	PTPN1
+# Reference PMID: 23348582
+PLK1	stimulation	PTPN1
+# Reference PMID: 16115959
+SIGNOR-C173	stimulation	PTPN1
+# Reference PMID: 11579209
+AKT1	inhibition	PTPN1
+# Reference PMID: 12414790
+SPRY2	stimulation	PTPN1
+# Reference PMID: 9632142
+EPHB2	stimulation	SRC
+# Reference PMID: 12857726; 11007774; 17974954
+PTPN1	stimulation	SRC
+# Reference PMID: 17974954; 9261115
+PTPN6	stimulation	SRC
+# Reference PMID: 18069897
+PPP2CA	inhibition	SRC
+# Reference PMID: 11804588
+PRKACA	stimulation	SRC
+# Reference PMID: 11007482
+GNAI1	stimulation	SRC
+# Reference PMID: 9858532
+KHSRP	stimulation	SRC
+# Reference PMID: 18455992
+SMO	stimulation	SRC
+# Reference PMID: 10544291
+CDK5	stimulation	SRC
+# Reference PMID: 18482983; 17974954
+PTPN11	bimodal	SRC
+# Reference PMID: 15489898
+PDGFRA	stimulation	SRC
+# Reference PMID: 15735685
+PTPRJ	stimulation	SRC
+# Reference PMID: 15489898
+PDGFRB	stimulation	SRC
+# Reference PMID: 19088431
+ACP1	stimulation	SRC
+# Reference PMID: 18614016
+CSK	inhibition	SRC
+# Reference PMID: 11007482
+GNAS	stimulation	SRC
+# Reference PMID: 10604473
+PPP1R1B	inhibition	PPP1CC
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	MUL1
+# Reference PMID: 18559972
+FLT3	stimulation	ID1
+# Reference PMID: 18025157
+SP1	stimulation	ID1
+# Reference PMID: 18025157
+SIGNOR-FP2	stimulation	ID1
+# Reference PMID: 20059950
+SIGNOR-PF24	stimulation	TTC3
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	TTC3
+# Reference PMID: 20059950
+AKT1	stimulation	TTC3
+# Reference PMID: 11304546
+PXN	stimulation	ILK
+# Reference PMID: 17420447
+PAK1	stimulation	ILK
+# Reference PMID: 12144526
+PPP1R14A	inhibition	PPP1CB
+# Reference PMID: 12144526
+PPP1R14B	inhibition	PPP1CB
+# Reference PMID: 10604473
+PPP1R1B	inhibition	PPP1CB
+# Reference PMID: 26055960
+URS0000759977_9606	stimulation	MTOR
+# Reference PMID: 12271141
+SIGNOR-C101	inhibition	MTOR
+# Reference PMID: 15829723
+AKT1	stimulation	MTOR
+# Reference PMID: 12782654
+SIGNOR-PF24	stimulation	MTOR
+# Reference PMID: 18721898
+PIK3CA	stimulation	MTOR
+# Reference PMID: 12782654
+AKT2	stimulation	MTOR
+# Reference PMID: 15854902; 20006481
+RHEB	stimulation	MTOR
+# Reference PMID: 15905173
+SIGNOR-PF26	inhibition	MTOR
+# Reference PMID: 15905173
+RPS6KB1	inhibition	MTOR
+# Reference PMID: 30274374
+SIGNOR-C15	inhibition	MTOR
+# Reference PMID: 12271141
+TSC1	inhibition	MTOR
+# Reference PMID: 15835917
+SRC	stimulation	FHIT
+# Reference PMID: 1322907
+PPP1R8	inhibition	SIGNOR-PF54
+# Reference PMID: 10604473
+PPP1R1B	inhibition	SIGNOR-PF54
+# Reference PMID: 12202491
+CDK5	inhibition	SIGNOR-PF54
+# Reference PMID: 18250156
+PPP1R2	inhibition	SIGNOR-PF54
+# Reference PMID: 36178070
+SRC	stimulation	TNK2
+# Reference PMID: 12149654
+CASP3	inhibition	BRCA1
+# Reference PMID: 24832651
+RBBP8	stimulation	BRCA1
+# Reference PMID: 12149654
+SIGNOR-C221	inhibition	BRCA1
+# Reference PMID: 17603999
+PPP1CA	inhibition	BRCA1
+# Reference PMID: 17428466; 20085797
+AKT1	stimulation	BRCA1
+# Reference PMID: 14990569
+AURKA	stimulation	BRCA1
+# Reference PMID: 10426999
+RAD50	stimulation	BRCA1
+# Reference PMID: 18985065
+SIGNOR-C302	stimulation	BRCA1
+# Reference PMID: 17428466; 20085797
+SIGNOR-PF24	stimulation	BRCA1
+# Reference PMID: 17525340
+ABRAXAS1	stimulation	BRCA1
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	BRCA1
+# Reference PMID: 17334399
+SIGNOR-C18	inhibition	BRCA1
+# Reference PMID: 23303449
+CTBP1	inhibition	BRCA1
+# Reference PMID: 11278964; 11114888; 23422745
+ATR	stimulation	BRCA1
+# Reference PMID: 23086937
+SIGNOR-C529	inhibition	BRCA1
+# Reference PMID: 23202365
+MAPKAPK2	stimulation	PIAS1
+# Reference PMID: 24911587
+NDN	inhibition	PIAS1
+# Reference PMID: 27256105
+PRKAA1	stimulation	PIAS1
+# Reference PMID: 26049753
+FLT3	stimulation	SIRT1
+# Reference PMID: 19262508
+PRKAA1	stimulation	SIRT1
+# Reference PMID: 19010791
+FOXL2	stimulation	SIRT1
+# Reference PMID: 20027304
+MAPK8	stimulation	SIRT1
+# Reference PMID: 22735644
+CCAR2	inhibition	SIRT1
+# Reference PMID: 21277938
+HIC1	inhibition	SIRT1
+# Reference PMID: 15657060; 9390557
+CASP9	stimulation	CASP3
+# Reference PMID: 23136067
+RNF7	inhibition	CASP3
+# Reference PMID: 11583623; 11447297; 10548111
+XIAP	inhibition	CASP3
+# Reference PMID: 16964285; 21295084; 10988287
+CASP8	stimulation	CASP3
+# Reference PMID: 14970175
+MAPK14	inhibition	CASP3
+# Reference PMID: 25787076
+STAT3	stimulation	CASP3
+# Reference PMID: 15657060; 9390557
+SIGNOR-C230	stimulation	CASP3
+# Reference PMID: 15662138
+ING1	stimulation	CASP3
+# Reference PMID: 9850056; 10587640
+BIRC5	inhibition	CASP3
+# Reference PMID: 27119228
+HECW2	stimulation	SIGNOR-C156
+# Reference PMID: 24811175
+IRS2	stimulation	SIGNOR-C156
+# Reference PMID: 16293724
+GNG12	stimulation	SIGNOR-C156
+# Reference PMID: 24737791
+GAB2	stimulation	SIGNOR-C156
+# Reference PMID: 23246379
+FLT3	stimulation	SIGNOR-C156
+# Reference PMID: 18794881
+PTEN	inhibition	SIGNOR-C156
+# Reference PMID: 8052307
+HRAS	stimulation	SIGNOR-C156
+# Reference PMID: 25673924; 10201980
+CD19	stimulation	SIGNOR-C156
+# Reference PMID: 26721223
+SIGNOR-PH59	inhibition	SIGNOR-C156
+# Reference PMID: 11278468
+KDR	stimulation	SIGNOR-C156
+# Reference PMID: 11526404
+CBL	inhibition	SIGNOR-C156
+# Reference PMID: 9461588
+LCK	inhibition	SIGNOR-C156
+# Reference PMID: 20966354; 21798082
+IRS1	stimulation	SIGNOR-C156
+# Reference PMID: 19805105
+PIK3CA	form_complex	SIGNOR-C156
+# Reference PMID: 8385099
+INSR	stimulation	SIGNOR-C156
+# Reference PMID: 18348712
+PTPRJ	inhibition	SIGNOR-C156
+# Reference PMID: 19436055
+SIGNOR-C212	stimulation	SIGNOR-C156
+# Reference PMID: 15016818
+PPM1A	stimulation	SIGNOR-C156
+# Reference PMID: 14967450; 26918608
+EGFR	stimulation	SIGNOR-C156
+# Reference PMID: 21779497
+KRAS	stimulation	SIGNOR-C156
+# Reference PMID: 18595745
+IGF1R	stimulation	SIGNOR-C156
+# Reference PMID: 21779497
+NRAS	stimulation	SIGNOR-C156
+# Reference PMID: 22179044
+GNAS	stimulation	SIGNOR-C156
+# Reference PMID: 19114990
+TGFB1	stimulation	SIGNOR-C156
+# Reference PMID: 11459935; 24627466
+FST	inhibition	MSTN
+# Reference PMID: 23217713
+PPARGC1A	inhibition	MSTN
+# Reference PMID: 9038134
+FYN	stimulation	ACP1
+# Reference PMID: 9038134
+LCK	stimulation	ACP1
+# Reference PMID: 10770941
+CALM1	stimulation	CAMKK1
+# Reference PMID: 10187789
+PRKACA	inhibition	CAMKK1
+# Reference PMID: 11884589
+PTPN1	inhibition	IGF1R
+# Reference PMID: 8940173; 7493944
+SRC	stimulation	IGF1R
+# Reference PMID: 1851182
+INS	stimulation	IGF1R
+# Reference PMID: 22509025
+GRK2	inhibition	IGF1R
+# Reference PMID: 18718903
+AKT1	stimulation	FSTL1
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	HECW2
+# Reference PMID: 1322907
+PPP1R8	inhibition	PPP1CA
+# Reference PMID: 10604473
+PPP1R1B	inhibition	PPP1CA
+# Reference PMID: 12202491; 17202132
+CDK5	inhibition	PPP1CA
+# Reference PMID: 16571110
+SMAD7	stimulation	PPP1CA
+# Reference PMID: 18250156
+PPP1R2	inhibition	PPP1CA
+# Reference PMID: 22378047
+KLF4	inhibition	TNF
+# Reference PMID: 32454942
+SIGNOR-PH54	stimulation	TNF
+# Reference PMID: 20219869
+SIGNOR-C13	stimulation	TNF
+# Reference PMID: 19656324
+MC1R	inhibition	TNF
+# Reference PMID: 11980664
+PRKCA	stimulation	NKX3-1
+# Reference PMID: 22832221
+RBBP8	stimulation	ATM
+# Reference PMID: 15510216
+PPP2CB	inhibition	ATM
+# Reference PMID: 19360021; 16949371
+PPM1D	inhibition	ATM
+# Reference PMID: 21763684; 18854157
+RAD50	stimulation	ATM
+# Reference PMID: 19151707
+CDK5	stimulation	ATM
+# Reference PMID: 30944854
+KAT5	stimulation	ATM
+# Reference PMID: 15758953; 18854157
+NBN	stimulation	ATM
+# Reference PMID: 22099307
+AURKB	stimulation	ATM
+# Reference PMID: 18571408
+AVEN	stimulation	ATM
+# Reference PMID: 17124492
+ATR	stimulation	ATM
+# Reference PMID: 30886146
+UFL1	stimulation	ATM
+# Reference PMID: 21763684; 18854157
+MRE11	stimulation	ATM
+# Reference PMID: 22832221
+BRCA1	stimulation	ATM
+# Reference PMID: 15510216
+PPP2CA	inhibition	ATM
+# Reference PMID: 11121408
+PTPRF	inhibition	RET
+# Reference PMID: 16778204
+PTPRJ	inhibition	RET
+# Reference PMID: 20682772
+PRKACA	inhibition	RET
+# Reference PMID: 19114990
+TGFB1	stimulation	PPP2R2A
+# Reference PMID: 11481331; 20643654
+SRC	stimulation	PDPK1
+# Reference PMID: 20044479; 20643654
+IGF1R	stimulation	PDPK1
+# Reference PMID: 35318320
+RPS6KB1	inhibition	PDPK1
+# Reference PMID: 12738763
+RET	stimulation	PDPK1
+# Reference PMID: 9768361
+PIK3CG	stimulation	PDPK1
+# Reference PMID: 23454242
+PPP2R2A	form_complex	SIGNOR-C132
+# Reference PMID: 23454242
+PPP2CA	form_complex	SIGNOR-C132
+# Reference PMID: 10347229
+CBL	inhibition	PDGFRA
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	TRIM13
+# Reference PMID: 12496362
+FYN	stimulation	PTPRF
+# Reference PMID: 26330344
+BMP4	stimulation	BMPR1A
+# Reference PMID: 10712517; 7791754; 18756288
+BMPR2	stimulation	BMPR1A
+# Reference PMID: 22298955
+SMURF2	inhibition	BMPR1A
+# Reference PMID: 10564272
+SMAD6	inhibition	BMPR1A
+# Reference PMID: 10564272
+BMPR1A	stimulation	SMAD5
+# Reference PMID: 22298955
+SMURF2	inhibition	SMAD5
+# Reference PMID: 12419246
+SKIL	inhibition	SMAD5
+# Reference PMID: 10564272
+ACVR1	stimulation	SMAD5
+# Reference PMID: 21454478; 22298955
+STUB1	inhibition	SMAD5
+# Reference PMID: 22298955
+SMURF2	inhibition	SIGNOR-PF35
+# Reference PMID: 9442019; 19620713
+BMPR1A	stimulation	SIGNOR-PF35
+# Reference PMID: 23871434
+PRKAA2	inhibition	HIPK2
+# Reference PMID: 18809579
+SIGNOR-C529	inhibition	HIPK2
+# Reference PMID: 23871434
+PRKAA1	stimulation	HIPK2
+# Reference PMID: 23871434
+SIGNOR-C15	inhibition	HIPK2
+# Reference PMID: 18536714
+SIAH1	inhibition	HIPK2
+# Reference PMID: 11062529; 11796223
+EP300	stimulation	MEF2C
+# Reference PMID: 9384584
+MAPK7	stimulation	MEF2C
+# Reference PMID: 10896679
+AKT1	stimulation	MEF2C
+# Reference PMID: 10737771
+HDAC4	inhibition	MEF2C
+# Reference PMID: 19917614
+HEY1	inhibition	MEF2C
+# Reference PMID: 11062529
+PPP3CA	stimulation	MEF2C
+# Reference PMID: 21261500
+STAT5A	inhibition	MEF2C
+# Reference PMID: 11062529
+PPP3CC	stimulation	MEF2C
+# Reference PMID: 9069290; 21902831; 9858528
+MAPK14	stimulation	MEF2C
+# Reference PMID: 15546868
+DYRK1B	stimulation	MEF2C
+# Reference PMID: 21261500
+NKX2-5	stimulation	MEF2C
+# Reference PMID: 21902831
+SIGNOR-C18	inhibition	MEF2C
+# Reference PMID: 11062529
+SIGNOR-C155	stimulation	MEF2C
+# Reference PMID: 11062529
+PPP3CB	stimulation	MEF2C
+# Reference PMID: 11062529
+SIGNOR-PF18	stimulation	MEF2C
+# Reference PMID: 15689616
+MAPK1	stimulation	DUSP16
+# Reference PMID: 23576563
+TP53	stimulation	GADD45A
+# Reference PMID: 17210579
+MAP3K5	stimulation	MAP3K6
+# Reference PMID: 11606045
+MAPK1	inhibition	TNFRSF1A
+# Reference PMID: 11684708
+KRT14	inhibition	TNFRSF1A
+# Reference PMID: 9151714
+VAV1	stimulation	ZAP70
+# Reference PMID: 1423621
+SIGNOR-C432	stimulation	ZAP70
+# Reference PMID: 10458769
+PTPN6	inhibition	ZAP70
+# Reference PMID: 34960191
+DLG1	stimulation	ZAP70
+# Reference PMID: 9685404; 8756661; 7642520; 10037717; 10318843; 7961936; 8798643; 10202147
+LCK	stimulation	ZAP70
+# Reference PMID: 23871434
+HIPK2	inhibition	PPM1D
+# Reference PMID: 33309518
+SIGNOR-C150	inhibition	PPM1D
+# Reference PMID: 10029407
+TP53	inhibition	FGF2
+# Reference PMID: 8756643
+HOXB7	stimulation	FGF2
+# Reference PMID: 28137827
+S100A9	stimulation	TLR4
+# Reference PMID: 23525006; 32203420
+VAV1	stimulation	RAC1
+# Reference PMID: 16280553
+MTSS1	stimulation	RAC1
+# Reference PMID: 23290138
+SDC4	stimulation	RAC1
+# Reference PMID: 18192505
+FLT3	stimulation	RAC1
+# Reference PMID: 17562871
+PLCG1	stimulation	RAC1
+# Reference PMID: 21779497
+PIK3CA	stimulation	RAC1
+# Reference PMID: 17991704
+SRC	stimulation	RAC1
+# Reference PMID: 11099498
+GNAI1	stimulation	RAC1
+# Reference PMID: 10617634
+AKT1	inhibition	RAC1
+# Reference PMID: 10617634
+SIGNOR-PF24	inhibition	RAC1
+# Reference PMID: 23151663
+DVL1	stimulation	RAC1
+# Reference PMID: 32203420
+TRIO	stimulation	RAC1
+# Reference PMID: 30755245
+DRAM2	stimulation	RAC1
+# Reference PMID: 23290138
+FZD7	stimulation	RAC1
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	TRIM27
+# Reference PMID: 17726008
+GSK3B	inhibition	MAP3K4
+# Reference PMID: 11737269
+SMAD7	inhibition	TAB1
+# Reference PMID: 19393267; 14592977
+MAPK14	inhibition	TAB1
+# Reference PMID: 11737269
+SMAD6	inhibition	TAB1
+# Reference PMID: 16888650
+NR3C1	stimulation	LCK
+# Reference PMID: 1639064
+CSK	inhibition	LCK
+# Reference PMID: 8618896
+SIGNOR-PF1	stimulation	LCK
+# Reference PMID: 12496362
+PTPRF	stimulation	LCK
+# Reference PMID: 8618896
+MAPK1	stimulation	LCK
+# Reference PMID: 11294838
+PTPN6	inhibition	LCK
+# Reference PMID: 11904433
+CBL	inhibition	LCK
+# Reference PMID: 11259588; 17719247
+PTPRC	stimulation	LCK
+# Reference PMID: 8618896
+MAPK3	stimulation	LCK
+# Reference PMID: 8618896
+SIGNOR-PF4	stimulation	LCK
+# Reference PMID: 8798764
+SYK	inhibition	LCK
+# Reference PMID: 11493009
+SIGNOR-PF1	stimulation	PTPRR
+# Reference PMID: 11493009
+MAPK1	stimulation	PTPRR
+# Reference PMID: 11493009
+MAPK3	stimulation	PTPRR
+# Reference PMID: 11493009
+SIGNOR-PF4	stimulation	PTPRR
+# Reference PMID: 10601328
+PRKACA	inhibition	PTPRR
+# Reference PMID: 9305639
+MAP3K4	stimulation	MAP2K3
+# Reference PMID: 8974401; 19920149
+MAP3K5	stimulation	MAP2K3
+# Reference PMID: 9786855
+TAOK1	stimulation	MAP2K3
+# Reference PMID: 11042191
+PRKCA	stimulation	GRK2
+# Reference PMID: 16725308
+SRC	stimulation	GRK2
+# Reference PMID: 10574913
+MAPK3	inhibition	GRK2
+# Reference PMID: 11278469
+PRKACA	stimulation	GRK2
+# Reference PMID: 27270401
+RHOA	stimulation	PKN1
+# Reference PMID: 10753910
+PDPK1	stimulation	PKN1
+# Reference PMID: 18482992
+PTEN	stimulation	PPM1A
+# Reference PMID: 22435554
+MAP3K8	stimulation	MAP2K4
+# Reference PMID: 11707464
+AKT1	inhibition	MAP2K4
+# Reference PMID: 9712898
+MAP3K1	stimulation	MAP2K4
+# Reference PMID: 11707464
+SIGNOR-PF24	inhibition	MAP2K4
+# Reference PMID: 9841871
+MAP3K4	stimulation	MAP2K4
+# Reference PMID: 8974401
+MAP3K5	stimulation	MAP2K4
+# Reference PMID: 12496362
+PTPRF	bimodal	FYN
+# Reference PMID: 18455992; 23074268
+SMO	stimulation	FYN
+# Reference PMID: 11909961
+PTPRC	stimulation	FYN
+# Reference PMID: 9425276
+PDGFRB	stimulation	FYN
+# Reference PMID: 20658524
+PRKACA	stimulation	FYN
+# Reference PMID: 11742987
+NR3C1	stimulation	DUSP1
+# Reference PMID: 11494141
+PTEN	stimulation	DUSP1
+# Reference PMID: 20626350
+EP300	stimulation	DUSP1
+# Reference PMID: 16286470
+SIGNOR-PF1	inhibition	DUSP1
+# Reference PMID: 16286470; 10617468
+MAPK1	bimodal	DUSP1
+# Reference PMID: 10617468; 16286470
+MAPK3	bimodal	DUSP1
+# Reference PMID: 11062068
+MAPK14	stimulation	DUSP1
+# Reference PMID: 16286470
+SIGNOR-PF4	inhibition	DUSP1
+# Reference PMID: 17158101
+RBPJ	stimulation	DUSP1
+# Reference PMID: 17158101
+SIGNOR-C97	stimulation	DUSP1
+# Reference PMID: 16479000
+PRKD1	stimulation	PTPN7
+# Reference PMID: 16226275
+SIGNOR-PF1	stimulation	PTPN7
+# Reference PMID: 16226275
+MAPK1	stimulation	PTPN7
+# Reference PMID: 16226275
+MAPK3	stimulation	PTPN7
+# Reference PMID: 10206983
+MAPK14	inhibition	PTPN7
+# Reference PMID: 16226275
+SIGNOR-PF4	stimulation	PTPN7
+# Reference PMID: 19047375; 10559944
+PRKACA	inhibition	PTPN7
+# Reference PMID: 9305639; 9841871
+MAP3K4	stimulation	MAP2K6
+# Reference PMID: 8974401
+MAP3K5	stimulation	MAP2K6
+# Reference PMID: 9712898
+MAP3K1	stimulation	MAP2K6
+# Reference PMID: 31583686
+SIGNOR-C451	stimulation	BMP7
+# Reference PMID: 19896409
+SIGNOR-C85	stimulation	BMP7
+# Reference PMID: 17023420
+PRKACA	inhibition	SIGNOR-C15
+# Reference PMID: 21460634
+ULK1	inhibition	SIGNOR-C15
+# Reference PMID: 14614828; 14976552
+STK11	stimulation	SIGNOR-C15
+# Reference PMID: 15980064
+CAMKK2	stimulation	SIGNOR-C15
+# Reference PMID: 23531613
+IL6	stimulation	SIGNOR-C15
+# Reference PMID: 16054041
+PRKAA2	form_complex	SIGNOR-C15
+# Reference PMID: 16054041
+PRKAA1	form_complex	SIGNOR-C15
+# Reference PMID: 14506284
+SRC	stimulation	CDC42
+# Reference PMID: 11099498
+GNAI1	stimulation	CDC42
+# Reference PMID: 16880529
+GLI2	stimulation	BMP2
+# Reference PMID: 14973297; 22298955
+IHH	stimulation	BMP2
+# Reference PMID: 15780951
+FGF2	stimulation	BMP2
+# Reference PMID: 11741538
+FZR1	inhibition	SKIL
+# Reference PMID: 11389444
+SMURF2	inhibition	SKIL
+# Reference PMID: 11741538
+SIGNOR-C150	inhibition	SKIL
+# Reference PMID: 22219353
+SMAD5	stimulation	SMAD6
+# Reference PMID: 12419246; 22298955
+EP300	stimulation	SMAD1
+# Reference PMID: 10197981
+SIGNOR-PF1	inhibition	SMAD1
+# Reference PMID: 9748228
+ACVR1	stimulation	SMAD1
+# Reference PMID: 12857866
+SMAD6	inhibition	SMAD1
+# Reference PMID: 9136927
+SIGNOR-C29	stimulation	SMAD1
+# Reference PMID: 10197981
+MAPK3	inhibition	SMAD1
+# Reference PMID: 19914161; 9335504; 19914168
+MAPK1	inhibition	SMAD1
+# Reference PMID: 17438144
+SMAD7	inhibition	SMAD1
+# Reference PMID: 23431053
+YAP1	stimulation	SMAD1
+# Reference PMID: 21454478; 14701756; 22298955
+STUB1	inhibition	SMAD1
+# Reference PMID: 16931515
+PPM1A	inhibition	SMAD1
+# Reference PMID: 18045539
+GSK3B	inhibition	SMAD1
+# Reference PMID: 9136927; 19620713
+BMPR1A	stimulation	SMAD1
+# Reference PMID: 22298955; 11158580
+SMURF2	inhibition	SMAD1
+# Reference PMID: 12419246
+SKIL	inhibition	SMAD1
+# Reference PMID: 10197981
+SIGNOR-PF4	inhibition	SMAD1
+# Reference PMID: 10514424
+BTRC	stimulation	SIGNOR-C529
+# Reference PMID: 22388891; 17298674
+FBXW7	stimulation	SIGNOR-C529
+# Reference PMID: 28948618; 10790373; 11439327
+SKP2	stimulation	SIGNOR-C529
+# Reference PMID: 11113184
+SIGNOR-C83	stimulation	CDK7
+# Reference PMID: 31583686
+SIGNOR-C451	stimulation	PRDM14
+# Reference PMID: 31583686
+SIGNOR-C73	stimulation	PRDM14
+# Reference PMID: 12359725
+MAPK1	stimulation	SIGNOR-C16
+# Reference PMID: 19665013
+CCNE2	form_complex	SIGNOR-C16
+# Reference PMID: 10611320
+TGFB1	inhibition	SIGNOR-C16
+# Reference PMID: 12123670
+SIGNOR-C184	stimulation	SIGNOR-C164
+# Reference PMID: 30889378
+SIGNOR-ST20	stimulation	SIGNOR-C164
+# Reference PMID: 19118207
+TLN1	stimulation	SIGNOR-C164
+# Reference PMID: 28581525
+GSK3B	inhibition	ZNF322
+# Reference PMID: 28581525
+CSNK1D	inhibition	ZNF322
+# Reference PMID: 28581525
+FBXW7	inhibition	ZNF322
+# Reference PMID: 19261608
+PHLPP1	inhibition	AKT3
+# Reference PMID: 9512493
+PDPK1	stimulation	AKT3
+# Reference PMID: 16407838
+FHIT	inhibition	AKT3
+# Reference PMID: 18160256
+PPP2CB	inhibition	AKT3
+# Reference PMID: 17353188
+ACP1	inhibition	AKT3
+# Reference PMID: 18160256; 15367694
+PPP2CA	inhibition	AKT3
+# Reference PMID: 12138205
+SIGNOR-PF24	stimulation	MAP3K8
+# Reference PMID: 22435554
+NFKB1	inhibition	MAP3K8
+# Reference PMID: 12138205
+AKT1	stimulation	MAP3K8
+# Reference PMID: 22435554
+SIGNOR-C13	inhibition	MAP3K8
+# Reference PMID: 16484370
+TLR4	stimulation	MAP3K8
+# Reference PMID: 14993270
+SIGNOR-PF1	inhibition	PAK1
+# Reference PMID: 18586681
+PPP2CB	inhibition	PAK1
+# Reference PMID: 8107774
+RAC1	stimulation	PAK1
+# Reference PMID: 20400510
+STK11	inhibition	PAK1
+# Reference PMID: 11604394
+CDK5	inhibition	PAK1
+# Reference PMID: 14993270
+MAPK3	inhibition	PAK1
+# Reference PMID: 10026169; 8824201; 11157752
+NCK1	stimulation	PAK1
+# Reference PMID: 15542607
+MAPK1	inhibition	PAK1
+# Reference PMID: 10995762
+PDPK1	stimulation	PAK1
+# Reference PMID: 18586681
+PPM1A	inhibition	PAK1
+# Reference PMID: 14993270
+SIGNOR-PF4	inhibition	PAK1
+# Reference PMID: 8107774
+CDC42	stimulation	PAK1
+# Reference PMID: 18586681
+PPP2CA	inhibition	PAK1
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	CHFR
+# Reference PMID: 17442268
+USP7	stimulation	CHFR
+# Reference PMID: 23442801
+GSK3B	stimulation	BORA
+# Reference PMID: 29870721
+SIGNOR-C420	stimulation	BORA
+# Reference PMID: 18521620; 18378770
+PLK1	inhibition	BORA
+# Reference PMID: 11551964
+PPP1CA	inhibition	AURKA
+# Reference PMID: 12023018
+FZR1	inhibition	AURKA
+# Reference PMID: 24867643
+PAK1	stimulation	AURKA
+# Reference PMID: 17442268
+CHFR	inhibition	AURKA
+# Reference PMID: 11039908
+PRKACA	stimulation	AURKA
+# Reference PMID: 16890155
+BORA	stimulation	AURKA
+# Reference PMID: 16824953
+INCENP	stimulation	AURKA
+# Reference PMID: 20383333
+CDR2	stimulation	AURKA
+# Reference PMID: 12023018
+SIGNOR-C150	inhibition	AURKA
+# Reference PMID: 23649807
+UBXN2B	inhibition	AURKA
+# Reference PMID: 11551964
+SIGNOR-PF54	inhibition	AURKA
+# Reference PMID: 26256210
+PRKCA	stimulation	FMNL2
+# Reference PMID: 21658950
+AURKB	stimulation	HASPIN
+# Reference PMID: 24413556
+PLK1	stimulation	HASPIN
+# Reference PMID: 9566916
+PTPN1	inhibition	ABL1
+# Reference PMID: 11847100
+SRC	stimulation	ABL1
+# Reference PMID: 18794806
+STK3	inhibition	ABL1
+# Reference PMID: 18794806
+TTK	inhibition	ABL1
+# Reference PMID: 18794806
+SIGNOR-PF41	inhibition	ABL1
+# Reference PMID: 11163214
+PSTPIP1	inhibition	ABL1
+# Reference PMID: 20675402
+CBL	inhibition	ABL1
+# Reference PMID: 11494134
+NCK1	inhibition	ABL1
+# Reference PMID: 23852372
+LATS2	inhibition	ABL1
+# Reference PMID: 9010225
+ABI1	stimulation	ABL1
+# Reference PMID: 18794806
+STK4	inhibition	ABL1
+# Reference PMID: 27065328
+SIGNOR-C83	inhibition	CEP76
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	FANCL
+# Reference PMID: 25400280
+BRCA1	form_complex	SIGNOR-C297
+# Reference PMID: 17396147
+FANCA	form_complex	SIGNOR-C300
+# Reference PMID: 17396147
+FANCL	form_complex	SIGNOR-C300
+# Reference PMID: 17396147
+FANCG	form_complex	SIGNOR-C300
+# Reference PMID: 18985065
+USP1	inhibition	FANCI
+# Reference PMID: 18985065
+FANCL	stimulation	FANCI
+# Reference PMID: 18985065
+SIGNOR-C300	stimulation	FANCI
+# Reference PMID: 22926518
+SIGNOR-C8	stimulation	SIGNOR-C154
+# Reference PMID: 12972619; 7816602
+SIGNOR-PF1	stimulation	SIGNOR-C154
+# Reference PMID: 8415704
+SIGNOR-FP2	stimulation	SIGNOR-C154
+# Reference PMID: 8137421
+MAPK8	stimulation	SIGNOR-C154
+# Reference PMID: 22926518; 9732876
+SIGNOR-C9	stimulation	SIGNOR-C154
+# Reference PMID: 12495904
+CBFB	form_complex	SIGNOR-C214
+# Reference PMID: 4709074
+ATR	stimulation	KMT2A
+# Reference PMID: 8939605
+SRC	stimulation	SHC1
+# Reference PMID: 9710204
+ZAP70	stimulation	SHC1
+# Reference PMID: 15769897; 10482988
+FLT3	stimulation	SHC1
+# Reference PMID: 9405464
+KDR	stimulation	SHC1
+# Reference PMID: 9710204
+LCK	stimulation	SHC1
+# Reference PMID: 10085134
+ERBB2	stimulation	SHC1
+# Reference PMID: 11075717
+INSR	stimulation	SHC1
+# Reference PMID: 8183561
+RET	stimulation	SHC1
+# Reference PMID: 16186108
+DDR2	stimulation	SHC1
+# Reference PMID: 8195171
+PDGFRB	stimulation	SHC1
+# Reference PMID: 9710204; 9741627
+FYN	stimulation	SHC1
+# Reference PMID: 11350724; 7518560
+EGFR	stimulation	SHC1
+# Reference PMID: 7541045
+IGF1R	stimulation	SHC1
+# Reference PMID: 12052829
+PRKCA	stimulation	SHC1
+# Reference PMID: 9710204
+SYK	stimulation	SHC1
+# Reference PMID: 17673906
+TGFB1	stimulation	SHC1
+# Reference PMID: 12447358
+SYK	stimulation	DUSP3
+# Reference PMID: 17785772
+TYK2	stimulation	DUSP3
+# Reference PMID: 12447358
+ZAP70	stimulation	DUSP3
+# Reference PMID: 16456541
+SIGNOR-PF1	inhibition	PPP2R5C
+# Reference PMID: 16456541
+MAPK1	inhibition	PPP2R5C
+# Reference PMID: 16456541
+MAPK3	inhibition	PPP2R5C
+# Reference PMID: 16456541
+SIGNOR-PF4	inhibition	PPP2R5C
+# Reference PMID: 22898603
+FYN	stimulation	PTPRJ
+# Reference PMID: 22438257
+FLT3	inhibition	PTPRJ
+# Reference PMID: 22898603
+SRC	stimulation	PTPRJ
+# Reference PMID: 12808093
+SIGNOR-PF24	stimulation	PEA15
+# Reference PMID: 15916534
+CAMK2A	stimulation	PEA15
+# Reference PMID: 12808093
+AKT1	stimulation	PEA15
+# Reference PMID: 17956589
+RUNX3	inhibition	PEA15
+# Reference PMID: 15917297
+PRKCA	inhibition	PEA15
+# Reference PMID: 15632084
+SIGNOR-PF1	inhibition	DUSP6
+# Reference PMID: 15632084
+MAPK1	inhibition	DUSP6
+# Reference PMID: 15632084
+MAPK3	inhibition	DUSP6
+# Reference PMID: 15632084
+SIGNOR-PF4	inhibition	DUSP6
+# Reference PMID: 21072196
+F2RL1	stimulation	DUSP6
+# Reference PMID: 22521266
+INS	inhibition	DUSP6
+# Reference PMID: 15466476
+MAP3K8	stimulation	MAP2K2
+# Reference PMID: 15175348
+PDPK1	stimulation	MAP2K2
+# Reference PMID: 21779497
+ARAF	stimulation	MAP2K2
+# Reference PMID: 8157000
+RAF1	stimulation	MAP2K2
+# Reference PMID: 8668348
+BRAF	stimulation	MAP2K2
+# Reference PMID: 20626350
+PPP2CA	inhibition	MAP2K2
+# Reference PMID: 20457810
+DLK1	stimulation	FN1
+# Reference PMID: 2243140
+FGG	inhibition	FN1
+# Reference PMID: 12228228; 7744823; 8649450
+KRAS	stimulation	MAP3K1
+# Reference PMID: 8824585
+MAP4K1	stimulation	MAP3K1
+# Reference PMID: 10085121
+SMAD7	inhibition	MAP3K1
+# Reference PMID: 12228228
+PAK1	stimulation	MAP3K1
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	MAP3K1
+# Reference PMID: 12807881
+TRIM27	stimulation	MAPK11
+# Reference PMID: 9430721
+MAP2K6	stimulation	MAPK11
+# Reference PMID: 8107774
+CDC42	stimulation	SIGNOR-PF13
+# Reference PMID: 8107774
+RAC1	stimulation	SIGNOR-PF13
+# Reference PMID: 24530606
+PHLPP1	inhibition	RAF1
+# Reference PMID: 15664191; 9922370; 16407412
+SIGNOR-PF1	inhibition	RAF1
+# Reference PMID: 12551923; 7692235; 10998357
+SRC	stimulation	RAF1
+# Reference PMID: 16630891
+PPP1CA	stimulation	RAF1
+# Reference PMID: 18775988
+PAK1	stimulation	RAF1
+# Reference PMID: 22798428; 16854453; 10576741
+AKT1	inhibition	RAF1
+# Reference PMID: 12801936; 11971957
+PRKACA	inhibition	RAF1
+# Reference PMID: 14967450; 16854453; 10576741
+SIGNOR-PF24	inhibition	RAF1
+# Reference PMID: 21779497; 9020159
+HRAS	stimulation	RAF1
+# Reference PMID: 15664191; 9922370; 16407412
+MAPK3	inhibition	RAF1
+# Reference PMID: 8288587
+PRKCB	stimulation	RAF1
+# Reference PMID: 10576742
+AKT2	inhibition	RAF1
+# Reference PMID: 15664191; 9922370
+MAPK1	inhibition	RAF1
+# Reference PMID: 16239230
+PPP2R2A	stimulation	RAF1
+# Reference PMID: 16239230
+PPP2R5D	stimulation	RAF1
+# Reference PMID: 15849194; 11733498
+PKN1	stimulation	RAF1
+# Reference PMID: 12717443
+SPRY4	inhibition	RAF1
+# Reference PMID: 16293107; 10882715
+KRAS	stimulation	RAF1
+# Reference PMID: 8876196
+JAK2	stimulation	RAF1
+# Reference PMID: 9091312; 11971957
+PRKAA1	inhibition	RAF1
+# Reference PMID: 21779497
+NRAS	stimulation	RAF1
+# Reference PMID: 9091312; 11971957
+SIGNOR-C15	bimodal	RAF1
+# Reference PMID: 16407412
+SIGNOR-PF4	inhibition	RAF1
+# Reference PMID: 7935389; 8288587; 12551925
+PRKCA	stimulation	RAF1
+# Reference PMID: 16239230
+SIGNOR-C132	stimulation	RAF1
+# Reference PMID: 16239230
+PPP2CA	stimulation	RAF1
+# Reference PMID: 7687739; 11390973
+FGF2	stimulation	FGFR2
+# Reference PMID: 23405013
+SIGNOR-PF1	inhibition	FGFR1
+# Reference PMID: 23405013
+MAPK1	inhibition	FGFR1
+# Reference PMID: 23405013
+MAPK3	inhibition	FGFR1
+# Reference PMID: 20626350
+MAPK14	inhibition	FGFR1
+# Reference PMID: 23405013
+SIGNOR-PF4	inhibition	FGFR1
+# Reference PMID: 21779497
+HRAS	stimulation	ARAF
+# Reference PMID: 9020159
+SRC	stimulation	ARAF
+# Reference PMID: 15710605
+PAK1	stimulation	ARAF
+# Reference PMID: 21779497
+NRAS	stimulation	ARAF
+# Reference PMID: 21478863; 21135229
+SIGNOR-PF1	inhibition	BRAF
+# Reference PMID: 10869359
+AKT1	inhibition	BRAF
+# Reference PMID: 11510412
+PRKACA	inhibition	BRAF
+# Reference PMID: 10869359
+SIGNOR-PF24	inhibition	BRAF
+# Reference PMID: 18098337; 21779497; 7706312
+HRAS	stimulation	BRAF
+# Reference PMID: 21478863; 16508002; 19933846
+MAPK3	inhibition	BRAF
+# Reference PMID: 10869359
+AKT3	inhibition	BRAF
+# Reference PMID: 10869359
+AKT2	inhibition	BRAF
+# Reference PMID: 21478863; 16508002
+MAPK1	inhibition	BRAF
+# Reference PMID: 21779497
+KRAS	stimulation	BRAF
+# Reference PMID: 21779497
+NRAS	stimulation	BRAF
+# Reference PMID: 16508002
+SIGNOR-PF4	inhibition	BRAF
+# Reference PMID: 24699139
+SRC	stimulation	GIT1
+# Reference PMID: 8622681
+SIGNOR-PF17	inhibition	MOS
+# Reference PMID: 11331872
+CDK5	form_complex	SIGNOR-C144
+# Reference PMID: 11331872
+CDK5R1	form_complex	SIGNOR-C144
+# Reference PMID: 14657015
+PRKACA	stimulation	AKAP12
+# Reference PMID: 17251915
+SMO	stimulation	GNG12
+# Reference PMID: 23290138
+SIGNOR-C210	stimulation	WNT7A
+# Reference PMID: 15187164
+PRKACA	stimulation	PRKAR2B
+# Reference PMID: 18838960
+FASN	stimulation	WNT1
+# Reference PMID: 19703466; 8327893
+GNAI3	inhibition	ADCY1
+# Reference PMID: 17652154
+GNAS	stimulation	ADCY1
+# Reference PMID: 19703466; 15922020
+GNAI1	inhibition	ADCY1
+# Reference PMID: 18413740
+DNMT1	stimulation	BAG1
+# Reference PMID: 16611981
+BTRC	inhibition	GLI2
+# Reference PMID: 16611981
+GSK3B	inhibition	GLI2
+# Reference PMID: 16880529
+SHH	stimulation	GLI2
+# Reference PMID: 33083751
+SOX17	stimulation	GLI2
+# Reference PMID: 16316410; 20463034
+SUFU	bimodal	GLI2
+# Reference PMID: 18698484; 16481469
+CSNK1A1L	stimulation	GLI2
+# Reference PMID: 19056373; 17419683; 16885213
+PRKACA	inhibition	GLI2
+# Reference PMID: 19549984
+KIF7	stimulation	GLI2
+# Reference PMID: 16885213
+CXCL1	stimulation	GLI2
+# Reference PMID: 22795133
+POU5F1	inhibition	SOX17
+# Reference PMID: 22795133
+NANOG	inhibition	SOX17
+# Reference PMID: 16684964
+FLT3	stimulation	PTPN11
+# Reference PMID: 8995399
+JAK2	stimulation	PTPN11
+# Reference PMID: 16611743
+DDR1	stimulation	PTPN11
+# Reference PMID: 8995399
+JAK1	stimulation	PTPN11
+# Reference PMID: 8041791
+PDGFRB	stimulation	PTPN11
+# Reference PMID: 16224021
+SIGNOR-PF24	inhibition	EZH2
+# Reference PMID: 23241245
+PPP1R8	stimulation	EZH2
+# Reference PMID: 24469040
+JAK2	inhibition	EZH2
+# Reference PMID: 24469040
+BTRC	inhibition	EZH2
+# Reference PMID: 16224021
+AKT1	inhibition	EZH2
+# Reference PMID: 21902831; 28067271
+MAPK14	bimodal	EZH2
+# Reference PMID: 28067271
+PJA1	inhibition	EZH2
+# Reference PMID: 24318128
+SIGNOR-C5	inhibition	MTSS1
+# Reference PMID: 24318128
+CSNK1D	inhibition	MTSS1
+# Reference PMID: 20802524
+TBX5	stimulation	MTSS1
+# Reference PMID: 16387660
+FYN	inhibition	ITCH
+# Reference PMID: 16888620
+CSK	inhibition	ITCH
+# Reference PMID: 20818436
+NUMB	stimulation	ITCH
+# Reference PMID: 30517763
+AKT1	stimulation	ITCH
+# Reference PMID: 15358865; 16469705; 16446428
+MAPK8	stimulation	ITCH
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	ITCH
+# Reference PMID: 32917954
+NR3C1	stimulation	KAT2B
+# Reference PMID: 15793248
+NR3C1	stimulation	SGK1
+# Reference PMID: 11254654
+MAPK7	stimulation	SGK1
+# Reference PMID: 35216681
+YAP1	stimulation	SGK1
+# Reference PMID: 18570873; 18925875
+MTOR	stimulation	SGK1
+# Reference PMID: 15209375; 12387817; 10191262
+PDPK1	stimulation	SGK1
+# Reference PMID: 18570873
+SIGNOR-C3	stimulation	SGK1
+# Reference PMID: 18925875
+SIGNOR-C2	stimulation	SGK1
+# Reference PMID: 11096081
+PRKACA	stimulation	SGK1
+# Reference PMID: 17022975
+CAMK1	inhibition	NUMB
+# Reference PMID: 20477901
+MSI1	inhibition	NUMB
+# Reference PMID: 11752454
+SIAH1	inhibition	NUMB
+# Reference PMID: 21986499
+PHLPP1	inhibition	RPS6KB1
+# Reference PMID: 14967450
+SIGNOR-PF1	stimulation	RPS6KB1
+# Reference PMID: 20444422
+PPP2R5C	inhibition	RPS6KB1
+# Reference PMID: 15774499; 7545671; 19085255; 11705993; 21035469; 14967450
+MAPK1	stimulation	RPS6KB1
+# Reference PMID: 11914378; 23486913; 10567431; 17510057; 12782654; 10579915
+MTOR	stimulation	RPS6KB1
+# Reference PMID: 14967450; 15774499
+MAPK3	stimulation	RPS6KB1
+# Reference PMID: 19864428; 9445476
+PDPK1	stimulation	RPS6KB1
+# Reference PMID: 35318320; 15809305; 11914378; 10567431; 17510057; 10579915
+SIGNOR-C3	stimulation	RPS6KB1
+# Reference PMID: 14967450
+SIGNOR-PF4	stimulation	RPS6KB1
+# Reference PMID: 2826472
+PPP2CA	inhibition	RPS6KB1
+# Reference PMID: 11560935; 21779497
+SOS1	stimulation	NRAS
+# Reference PMID: 26617336
+PTPN11	stimulation	NRAS
+# Reference PMID: 27858941
+DAB2IP	inhibition	NRAS
+# Reference PMID: 19201597
+RASGEF1B	stimulation	NRAS
+# Reference PMID: 19151334
+STAT3	stimulation	SALL4
+# Reference PMID: 31583686
+SIGNOR-C73	stimulation	SALL4
+# Reference PMID: 20153263
+SIGNOR-C238	form_complex	SIGNOR-C117
+# Reference PMID: 21316606
+JAK2	inhibition	PRMT5
+# Reference PMID: 15190079
+PLK1	stimulation	NPM1
+# Reference PMID: 20864535
+RNF144B	inhibition	NPM1
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	UBE3A
+# Reference PMID: 26255772
+PRKACA	inhibition	UBE3A
+# Reference PMID: 11283607
+CASP3	stimulation	ROCK1
+# Reference PMID: 27571105
+RAC1	stimulation	ROCK1
+# Reference PMID: 23151663; 25010901
+RHOA	stimulation	ROCK1
+# Reference PMID: 11283607
+SIGNOR-C221	stimulation	ROCK1
+# Reference PMID: 30755245
+DRAM2	stimulation	ROCK1
+# Reference PMID: 15917248
+KLF6	inhibition	DLK1
+# Reference PMID: 12865419
+FOXA2	stimulation	DLK1
+# Reference PMID: 20584981
+BMP7	inhibition	DLK1
+# Reference PMID: 19882665
+EGFR	stimulation	SOX2
+# Reference PMID: 18757303
+SIGNOR-C175	stimulation	SOX2
+# Reference PMID: 24942200
+SIGNOR-PF1	stimulation	SOX2
+# Reference PMID: 31776402
+KDM5B	inhibition	SOX2
+# Reference PMID: 18757303
+SIGNOR-C164	stimulation	SOX2
+# Reference PMID: 31583686
+SIGNOR-C73	stimulation	SOX2
+# Reference PMID: 17068183
+POU5F1	stimulation	SOX2
+# Reference PMID: 19609947
+SIGNOR-PF24	stimulation	CHUK
+# Reference PMID: 19609947
+AKT2	stimulation	CHUK
+# Reference PMID: 10321728
+SIGNOR-C529	inhibition	CHUK
+# Reference PMID: 19609947
+AKT1	stimulation	CHUK
+# Reference PMID: 17956589
+RUNX3	inhibition	CHUK
+# Reference PMID: 19609947
+AKT3	stimulation	CHUK
+# Reference PMID: 18682241; 19279133
+SIGNOR-C8	stimulation	NANOG
+# Reference PMID: 18757303
+SIGNOR-C175	stimulation	NANOG
+# Reference PMID: 31776402
+KDM5B	inhibition	NANOG
+# Reference PMID: 18757303
+SIGNOR-C164	stimulation	NANOG
+# Reference PMID: 16840789
+SALL4	stimulation	NANOG
+# Reference PMID: 31583686
+SIGNOR-C451	stimulation	NANOG
+# Reference PMID: 31583686
+SIGNOR-C73	stimulation	NANOG
+# Reference PMID: 18682241; 19279133
+SIGNOR-C9	stimulation	NANOG
+# Reference PMID: 17068183
+POU5F1	stimulation	NANOG
+# Reference PMID: 24550733
+ZNF322	stimulation	NANOG
+# Reference PMID: 34199813
+SIGNOR-C497	stimulation	RNF144A
+# Reference PMID: 26337656
+PRKDC	stimulation	XRCC6
+# Reference PMID: 20817722
+PER2	inhibition	SIGNOR-C195
+# Reference PMID: 22653727
+CLOCK	form_complex	SIGNOR-C195
+# Reference PMID: 22653727
+BMAL1	form_complex	SIGNOR-C195
+# Reference PMID: 20817722
+PER2	inhibition	SIGNOR-C431
+# Reference PMID: 20817722
+CLOCK	form_complex	SIGNOR-C431
+# Reference PMID: 17525164
+SIGNOR-C15	stimulation	CSNK1E
+# Reference PMID: 19946213
+GSK3B	inhibition	CLOCK
+# Reference PMID: 24235147
+CDK5	stimulation	CLOCK
+# Reference PMID: 12000790
+SIGNOR-C110	stimulation	CSNK1D
+# Reference PMID: 16556735
+PPARA	stimulation	BMAL1
+# Reference PMID: 20049328
+GSK3B	inhibition	BMAL1
+# Reference PMID: 21881539
+NR1D1	inhibition	BMAL1
+# Reference PMID: 17476214
+PPARGC1A	stimulation	BMAL1
+# Reference PMID: 19032342
+NR1H2	stimulation	BHLHE40
+# Reference PMID: 19032342
+NR1H3	stimulation	BHLHE40
+# Reference PMID: 19032342
+SIGNOR-C195	stimulation	BHLHE40
+# Reference PMID: 35670107
+TRIM27	inhibition	ULK1
+# Reference PMID: 19584320; 21205641
+PRKAA2	stimulation	ULK1
+# Reference PMID: 21460634
+PRKAA1	stimulation	ULK1
+# Reference PMID: 27334615
+RAB1A	stimulation	ULK1
+# Reference PMID: 21383122; 19690328; 21460634
+MTOR	inhibition	ULK1
+# Reference PMID: 19584320; 21205641; 21460634
+SIGNOR-C15	stimulation	ULK1
+# Reference PMID: 19690328
+SIGNOR-C3	inhibition	ULK1
+# Reference PMID: 18162466
+PHLPP1	inhibition	PRKCB
+# Reference PMID: 17115692; 15209375
+PDPK1	stimulation	PRKCB
+# Reference PMID: 8749392
+PPP2CB	inhibition	PRKCB
+# Reference PMID: 8749392
+PPP2CA	inhibition	PRKCB
+# Reference PMID: 25846811
+RPS6KA1	inhibition	STK11
+# Reference PMID: 25846811
+SIGNOR-PF1	inhibition	STK11
+# Reference PMID: 25846811
+SIGNOR-PF26	inhibition	STK11
+# Reference PMID: 25846811
+MAPK1	inhibition	STK11
+# Reference PMID: 25846811
+MAPK3	inhibition	STK11
+# Reference PMID: 25846811
+SIGNOR-PF4	inhibition	STK11
+# Reference PMID: 11297520
+PRKACA	stimulation	STK11
+# Reference PMID: 22848740
+FOXO3	inhibition	STK11
+# Reference PMID: 22778263
+CDK5	inhibition	CAMKK2
+# Reference PMID: 22778263
+GSK3B	inhibition	CAMKK2
+# Reference PMID: 9822657
+CALM1	stimulation	CAMKK2
+# Reference PMID: 22778263
+SIGNOR-PF17	inhibition	CAMKK2
+# Reference PMID: 22778263
+GSK3A	inhibition	CAMKK2
+# Reference PMID: 16870137
+SIGNOR-PF17	stimulation	BRSK2
+# Reference PMID: 14976552
+STK11	stimulation	BRSK2
