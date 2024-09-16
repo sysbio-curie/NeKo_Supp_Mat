@@ -1,0 +1,2 @@
+Function	Groups	Group Genes
+osteoblast differentiation	Group0	CTNNB1|LEF1|RUNX2

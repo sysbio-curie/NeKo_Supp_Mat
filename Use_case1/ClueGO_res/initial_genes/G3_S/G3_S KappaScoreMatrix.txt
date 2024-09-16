@@ -1,0 +1,10 @@
+NAME	telomerase activity	RNA-directed DNA polymerase activity	response to gamma radiation	protein-DNA complex disassembly	miRNA transcription	positive regulation of signal transduction by p53 class mediator	regulation of miRNA transcription	positive regulation of miRNA transcription	positive regulation of miRNA metabolic process
+telomerase activity	1.0	1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	-1.0
+RNA-directed DNA polymerase activity	1.0	1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	-1.0
+response to gamma radiation	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+protein-DNA complex disassembly	-1.0	-1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+miRNA transcription	-1.0	-1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+positive regulation of signal transduction by p53 class mediator	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+regulation of miRNA transcription	-1.0	-1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+positive regulation of miRNA transcription	-1.0	-1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0
+positive regulation of miRNA metabolic process	-1.0	-1.0	0.0	1.0	1.0	0.0	1.0	1.0	1.0

@@ -1,0 +1,3 @@
+Function	Groups	Group Genes
+histone H3-K4 monomethylation	Group1	KMT2C|KMT2D
+regulation of erythrocyte differentiation	Group0	CDK6|TAL1

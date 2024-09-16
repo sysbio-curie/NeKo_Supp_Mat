@@ -1,0 +1,7 @@
+NAME	telomerase activity	RNA-directed DNA polymerase activity	RNA-templated DNA biosynthetic process	DNA polymerase activity	negative regulation of cell cycle G1/S phase transition	positive regulation of apoptotic signaling pathway
+telomerase activity	1.0	1.0	1.0	1.0	0.16666666666666663	0.16666666666666663
+RNA-directed DNA polymerase activity	1.0	1.0	1.0	1.0	0.16666666666666663	0.16666666666666663
+RNA-templated DNA biosynthetic process	1.0	1.0	1.0	1.0	0.16666666666666663	0.16666666666666663
+DNA polymerase activity	1.0	1.0	1.0	1.0	0.16666666666666663	0.16666666666666663
+negative regulation of cell cycle G1/S phase transition	0.16666666666666663	0.16666666666666663	0.16666666666666663	0.16666666666666663	1.0	0.16666666666666663
+positive regulation of apoptotic signaling pathway	0.16666666666666663	0.16666666666666663	0.16666666666666663	0.16666666666666663	0.16666666666666663	1.0

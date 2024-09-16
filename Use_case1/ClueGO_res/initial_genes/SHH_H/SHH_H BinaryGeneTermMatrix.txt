@@ -1,0 +1,7 @@
+NAME	FBXW7	PTEN	SOX2	TERT	TP53
+telomerase activity	0	1	0	1	1
+RNA-directed DNA polymerase activity	0	1	0	1	1
+RNA-templated DNA biosynthetic process	0	1	0	1	1
+DNA polymerase activity	0	1	0	1	1
+negative regulation of cell cycle G1/S phase transition	0	1	1	0	1
+positive regulation of apoptotic signaling pathway	1	1	0	0	1

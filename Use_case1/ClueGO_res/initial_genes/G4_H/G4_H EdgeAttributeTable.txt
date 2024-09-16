@@ -1,0 +1,3 @@
+Edge1-Edge2	KappaScore
+GO:0097692 (term-term) GO:0051568	1.0
+GO:0097692 (term-term-ontology) GO:0051568	2.0

@@ -1,0 +1,4 @@
+NAME	regulation of erythrocyte differentiation	histone H3-K4 methylation	histone H3-K4 monomethylation
+regulation of erythrocyte differentiation	1.0	-1.0	-1.0
+histone H3-K4 methylation	-1.0	1.0	1.0
+histone H3-K4 monomethylation	-1.0	1.0	1.0

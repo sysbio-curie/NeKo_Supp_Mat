@@ -1,0 +1,10 @@
+NAME	ATM	MYC	PTEN	SMARCA4
+telomerase activity	1	0	1	0
+RNA-directed DNA polymerase activity	1	0	1	0
+response to gamma radiation	1	1	0	0
+protein-DNA complex disassembly	0	1	0	1
+miRNA transcription	0	1	0	1
+positive regulation of signal transduction by p53 class mediator	1	1	0	0
+regulation of miRNA transcription	0	1	0	1
+positive regulation of miRNA transcription	0	1	0	1
+positive regulation of miRNA metabolic process	0	1	0	1

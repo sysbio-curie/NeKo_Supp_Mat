@@ -1,0 +1,2 @@
+NAME	CTNNB1	LEF1	RUNX2
+osteoblast differentiation	1	1	1

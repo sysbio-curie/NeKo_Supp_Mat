@@ -1,0 +1,4 @@
+Function	Groups	Group Genes
+RNA-templated DNA biosynthetic process	Group2	PTEN|TERT|TP53
+negative regulation of cell cycle G1/S phase transition	Group0	PTEN|SOX2|TP53
+positive regulation of apoptotic signaling pathway	Group1	FBXW7|PTEN|TP53

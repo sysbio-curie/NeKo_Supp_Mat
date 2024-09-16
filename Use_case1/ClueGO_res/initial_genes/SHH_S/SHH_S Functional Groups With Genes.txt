@@ -1,0 +1,3 @@
+Function	Groups	Group Genes
+negative regulation of cell cycle G1/S phase transition	Group1	FBXW7|PTEN|SOX2|TERT|TP53
+smoothened signaling pathway	Group0	GLI2|SMO|SUFU

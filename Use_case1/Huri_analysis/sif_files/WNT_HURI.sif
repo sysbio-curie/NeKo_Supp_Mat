@@ -1,0 +1,520 @@
+# Reference PMID: ; 
+APC	undefined	CTNNB1
+# Reference PMID: ; 
+ARID1A	undefined	SMARCA4
+# Reference PMID: ; 
+SMARCA4	undefined	CTNNB1
+# Reference PMID: ; 
+PIK3CA	undefined	PIK3R1
+# Reference PMID: ; 
+PIK3R1	undefined	CTNNB1
+# Reference PMID: ; 
+ALX4	undefined	PARVG
+# Reference PMID: ; 
+PARVG	undefined	DDIT4L
+# Reference PMID: ; 
+DDIT4L	undefined	PITX2
+# Reference PMID: ; 
+PITX2	undefined	CTNNB1
+# Reference PMID: ; 
+DLX3	undefined	POU4F2
+# Reference PMID: ; 
+POU4F2	undefined	RBPMS
+# Reference PMID: ; 
+RBPMS	undefined	PITX2
+# Reference PMID: ; 
+LEF1	undefined	CTNNB1
+# Reference PMID: ; 
+MSX2	undefined	TCF7L2
+# Reference PMID: ; 
+TCF7L2	undefined	CTNNB1
+# Reference PMID: ; 
+PITX1	undefined	PLEKHB2
+# Reference PMID: ; 
+PLEKHB2	undefined	GLIS2
+# Reference PMID: ; 
+GLIS2	undefined	CTNNB1
+# Reference PMID: ; 
+PITX1	undefined	PTK6
+# Reference PMID: ; 
+PTK6	undefined	ERBB2
+# Reference PMID: ; 
+ERBB2	undefined	CTNNB1
+# Reference PMID: ; 
+PITX1	undefined	KRT34
+# Reference PMID: ; 
+KRT34	undefined	PITX2
+# Reference PMID: ; 
+PITX1	undefined	TLE5
+# Reference PMID: ; 
+TLE5	undefined	TCF7L2
+# Reference PMID: ; 
+TLE5	undefined	GLIS2
+# Reference PMID: ; 
+TLE5	undefined	PITX2
+# Reference PMID: ; 
+PITX1	undefined	TRIM23
+# Reference PMID: ; 
+TRIM23	undefined	CDC73
+# Reference PMID: ; 
+CDC73	undefined	CTNNB1
+# Reference PMID: ; 
+PITX1	undefined	ANKRD10
+# Reference PMID: ; 
+ANKRD10	undefined	PITX2
+# Reference PMID: ; 
+PITX1	undefined	RBPMS
+# Reference PMID: ; 
+PITX1	undefined	ATN1
+# Reference PMID: ; 
+ATN1	undefined	PITX2
+# Reference PMID: ; 
+PITX1	undefined	YPEL3
+# Reference PMID: ; 
+YPEL3	undefined	FHL2
+# Reference PMID: ; 
+FHL2	undefined	CTNNB1
+# Reference PMID: ; 
+PITX1	undefined	TBX22
+# Reference PMID: ; 
+TBX22	undefined	PITX2
+# Reference PMID: ; 
+PITX1	undefined	MSX2
+# Reference PMID: ; 
+PITX1	undefined	ENSG00000105991
+# Reference PMID: ; 
+ENSG00000105991	undefined	PTH1R
+# Reference PMID: ; 
+PTH1R	undefined	CTNNB1
+# Reference PMID: ; 
+ENSG00000105991	undefined	PITX2
+# Reference PMID: ; 
+PITX1	undefined	PFDN5
+# Reference PMID: ; 
+PFDN5	undefined	PITX2
+# Reference PMID: ; 
+PRRX1	undefined	SUOX
+# Reference PMID: ; 
+SUOX	undefined	DDIT4L
+# Reference PMID: ; 
+APC	undefined	ARHGEF4
+# Reference PMID: ; 
+ARHGEF4	undefined	RAC1
+# Reference PMID: ; 
+RAC1	undefined	VCAM1
+# Reference PMID: ; 
+VCAM1	undefined	CSNK2B
+# Reference PMID: ; 
+APC	undefined	SIAH1
+# Reference PMID: ; 
+SIAH1	undefined	H4C16
+# Reference PMID: ; 
+H4C16	undefined	VCAM1
+# Reference PMID: ; 
+VCAM1	undefined	DDX3X
+# Reference PMID: ; 
+PIK3CA	undefined	AKT1
+# Reference PMID: ; 
+AKT1	undefined	MAPKAPK2
+# Reference PMID: ; 
+MAPKAPK2	undefined	CSNK2B
+# Reference PMID: ; 
+ADGRB3	undefined	ENSG00000152133
+# Reference PMID: ; 
+ENSG00000152133	undefined	ZNF474
+# Reference PMID: ; 
+ZNF474	undefined	BANP
+# Reference PMID: ; 
+BANP	undefined	CSNK2B
+# Reference PMID: ; 
+SYNCRIP	undefined	VCAM1
+# Reference PMID: ; 
+ALX4	undefined	IQUB
+# Reference PMID: ; 
+IQUB	undefined	RHOH
+# Reference PMID: ; 
+RHOH	undefined	BANP
+# Reference PMID: ; 
+IQUB	undefined	KRT75
+# Reference PMID: ; 
+KRT75	undefined	WWOX
+# Reference PMID: ; 
+WWOX	undefined	CSNK2B
+# Reference PMID: ; 
+PARVG	undefined	TSGA10IP
+# Reference PMID: ; 
+TSGA10IP	undefined	WWOX
+# Reference PMID: ; 
+PARVG	undefined	REL
+# Reference PMID: ; 
+REL	undefined	BANP
+# Reference PMID: ; 
+REL	undefined	TLX3
+# Reference PMID: ; 
+TLX3	undefined	CSNK2B
+# Reference PMID: ; 
+DLX3	undefined	BANP
+# Reference PMID: ; 
+LHX8	undefined	BANP
+# Reference PMID: ; 
+MSX2	undefined	TLX3
+# Reference PMID: ; 
+SUOX	undefined	RUSC1
+# Reference PMID: ; 
+RUSC1	undefined	WWOX
+# Reference PMID: ; 
+SUOX	undefined	ITGB3BP
+# Reference PMID: ; 
+ITGB3BP	undefined	NTAQ1
+# Reference PMID: ; 
+NTAQ1	undefined	CSNK2B
+# Reference PMID: ; 
+SUOX	undefined	CTAG1A
+# Reference PMID: ; 
+CTAG1A	undefined	WWOX
+# Reference PMID: ; 
+SUOX	undefined	HMG20A
+# Reference PMID: ; 
+HMG20A	undefined	NTAQ1
+# Reference PMID: ; 
+SUOX	undefined	REL
+# Reference PMID: ; 
+SUOX	undefined	RHOH
+# Reference PMID: ; 
+SUOX	undefined	MORN3
+# Reference PMID: ; 
+MORN3	undefined	NTAQ1
+# Reference PMID: ; 
+SUOX	undefined	LMO4
+# Reference PMID: ; 
+LMO4	undefined	BANP
+# Reference PMID: ; 
+SUOX	undefined	PIH1D2
+# Reference PMID: ; 
+PIH1D2	undefined	NTAQ1
+# Reference PMID: ; 
+PIH1D2	undefined	BANP
+# Reference PMID: ; 
+PRRX1	undefined	SAAL1
+# Reference PMID: ; 
+SAAL1	undefined	TSGA10IP
+# Reference PMID: ; 
+AKT1	undefined	DDIT4L
+# Reference PMID: ; 
+DDIT4L	undefined	CLK3
+# Reference PMID: ; 
+CLK3	undefined	HOXC4
+# Reference PMID: ; 
+AKT1	undefined	EGFR
+# Reference PMID: ; 
+EGFR	undefined	BAIAP2
+# Reference PMID: ; 
+BAIAP2	undefined	HOXD8
+# Reference PMID: ; 
+PIK3R1	undefined	EGFR
+# Reference PMID: ; 
+AKT1	undefined	SMAD3
+# Reference PMID: ; 
+SMAD3	undefined	FOS
+# Reference PMID: ; 
+FOS	undefined	MAF
+# Reference PMID: ; 
+YPEL3	undefined	PIK3R3
+# Reference PMID: ; 
+PIK3R3	undefined	PIK3CA
+# Reference PMID: ; 
+MSX2	undefined	NAF1
+# Reference PMID: ; 
+NAF1	undefined	FUBP1
+# Reference PMID: ; 
+FUBP1	undefined	VCAM1
+# Reference PMID: ; 
+VCAM1	undefined	XRCC6
+# Reference PMID: ; 
+XRCC6	undefined	HOXC4
+# Reference PMID: ; 
+SYNCRIP	undefined	HMGA1
+# Reference PMID: ; 
+HMGA1	undefined	XRCC6
+# Reference PMID: ; 
+SYNCRIP	undefined	HMGA2
+# Reference PMID: ; 
+HMGA2	undefined	XRCC6
+# Reference PMID: ; 
+VCAM1	undefined	ATP5ME
+# Reference PMID: ; 
+ATP5ME	undefined	FOS
+# Reference PMID: ; 
+TLE5	undefined	DDX6
+# Reference PMID: ; 
+DDX6	undefined	FN1
+# Reference PMID: ; 
+FN1	undefined	SYNCRIP
+# Reference PMID: ; 
+YPEL3	undefined	PPP2CA
+# Reference PMID: ; 
+PPP2CA	undefined	FN1
+# Reference PMID: ; 
+PARVG	undefined	POLR2G
+# Reference PMID: ; 
+POLR2G	undefined	HOXC5
+# Reference PMID: ; 
+MSX2	undefined	SOX5
+# Reference PMID: ; 
+SOX5	undefined	LMO2
+# Reference PMID: ; 
+LMO2	undefined	POLR2G
+# Reference PMID: ; 
+SOX5	undefined	CBX8
+# Reference PMID: ; 
+CBX8	undefined	DVL3
+# Reference PMID: ; 
+DVL3	undefined	HOXC5
+# Reference PMID: ; 
+TLE5	undefined	IRX2
+# Reference PMID: ; 
+PFDN5	undefined	IRX2
+# Reference PMID: ; 
+LMO2	undefined	ABI2
+# Reference PMID: ; 
+ABI2	undefined	LHX8
+# Reference PMID: ; 
+RUNX2	undefined	FOS
+# Reference PMID: ; 
+YPEL3	undefined	PSMA3
+# Reference PMID: ; 
+PSMA3	undefined	OSR2
+# Reference PMID: ; 
+PITX1	undefined	IPO13
+# Reference PMID: ; 
+IPO13	undefined	PAX3
+# Reference PMID: 
+GLIS2	undefined	CSNK2B
+# Reference PMID: 
+FN1	undefined	CSNK2B
+# Reference PMID: 
+TLE5	undefined	MSX2
+# Reference PMID: 
+PITX1	undefined	DVL3
+# Reference PMID: 
+ERBB2	undefined	PIK3R1
+# Reference PMID: 
+TLE5	undefined	PARVG
+# Reference PMID: 
+KRT34	undefined	DDIT4L
+# Reference PMID: 
+FHL2	undefined	DDIT4L
+# Reference PMID: 
+DDIT4L	undefined	CTAG1A
+# Reference PMID: 
+HMG20A	undefined	DDIT4L
+# Reference PMID: 
+PITX2	undefined	WWOX
+# Reference PMID: 
+GLIS2	undefined	RBPMS
+# Reference PMID: 
+TLE5	undefined	RBPMS
+# Reference PMID: 
+YPEL3	undefined	RBPMS
+# Reference PMID: 
+ENSG00000105991	undefined	RBPMS
+# Reference PMID: 
+RBPMS	undefined	BANP
+# Reference PMID: 
+RBPMS	undefined	TSGA10IP
+# Reference PMID: 
+RBPMS	undefined	RUSC1
+# Reference PMID: 
+NTAQ1	undefined	RBPMS
+# Reference PMID: 
+LMO4	undefined	RBPMS
+# Reference PMID: 
+PLEKHB2	undefined	NTAQ1
+# Reference PMID: 
+GLIS2	undefined	WWOX
+# Reference PMID: 
+PTK6	undefined	REL
+# Reference PMID: 
+PTK6	undefined	EGFR
+# Reference PMID: 
+ERBB2	undefined	EGFR
+# Reference PMID: 
+TLE5	undefined	KRT34
+# Reference PMID: 
+ENSG00000105991	undefined	KRT34
+# Reference PMID: 
+KRT34	undefined	SUOX
+# Reference PMID: 
+KRT34	undefined	KRT75
+# Reference PMID: 
+KRT34	undefined	WWOX
+# Reference PMID: 
+KRT34	undefined	TLX3
+# Reference PMID: 
+KRT34	undefined	LMO4
+# Reference PMID: 
+DDX6	undefined	KRT34
+# Reference PMID: 
+KRT34	undefined	LMO2
+# Reference PMID: 
+KRT34	undefined	CBX8
+# Reference PMID: 
+KRT34	undefined	ABI2
+# Reference PMID: 
+YPEL3	undefined	TLE5
+# Reference PMID: 
+TLE5	undefined	ENSG00000105991
+# Reference PMID: 
+TLE5	undefined	PFDN5
+# Reference PMID: 
+TLE5	undefined	TSGA10IP
+# Reference PMID: 
+TLE5	undefined	REL
+# Reference PMID: 
+TLE5	undefined	RUSC1
+# Reference PMID: 
+TLE5	undefined	NTAQ1
+# Reference PMID: 
+TLE5	undefined	LMO4
+# Reference PMID: 
+TLE5	undefined	SMAD3
+# Reference PMID: 
+TLE5	undefined	NAF1
+# Reference PMID: 
+TLE5	undefined	SOX5
+# Reference PMID: 
+TLE5	undefined	LMO2
+# Reference PMID: 
+TLE5	undefined	DVL3
+# Reference PMID: 
+TLE5	undefined	ABI2
+# Reference PMID: 
+TRIM23	undefined	SIAH1
+# Reference PMID: 
+TRIM23	undefined	ZNF474
+# Reference PMID: 
+TRIM23	undefined	IQUB
+# Reference PMID: 
+TRIM23	undefined	KRT75
+# Reference PMID: 
+TRIM23	undefined	NTAQ1
+# Reference PMID: 
+TRIM23	undefined	LMO2
+# Reference PMID: 
+TRIM23	undefined	CBX8
+# Reference PMID: 
+ANKRD10	undefined	TLX3
+# Reference PMID: 
+ATN1	undefined	SIAH1
+# Reference PMID: 
+ATN1	undefined	BAIAP2
+# Reference PMID: 
+YPEL3	undefined	ENSG00000105991
+# Reference PMID: 
+YPEL3	undefined	WWOX
+# Reference PMID: 
+YPEL3	undefined	TLX3
+# Reference PMID: 
+YPEL3	undefined	MORN3
+# Reference PMID: 
+YPEL3	undefined	LMO2
+# Reference PMID: 
+FHL2	undefined	BANP
+# Reference PMID: 
+FHL2	undefined	REL
+# Reference PMID: 
+TBX22	undefined	TLX3
+# Reference PMID: 
+ENSG00000105991	undefined	WWOX
+# Reference PMID: 
+PFDN5	undefined	RUSC1
+# Reference PMID: 
+PFDN5	undefined	NTAQ1
+# Reference PMID: 
+PFDN5	undefined	ABI2
+# Reference PMID: 
+FN1	undefined	RAC1
+# Reference PMID: 
+VCAM1	undefined	H4C16
+# Reference PMID: 
+DDX6	undefined	VCAM1
+# Reference PMID: 
+PPP2CA	undefined	VCAM1
+# Reference PMID: 
+PSMA3	undefined	VCAM1
+# Reference PMID: 
+H4C16	undefined	SIAH1
+# Reference PMID: 
+NTAQ1	undefined	SIAH1
+# Reference PMID: 
+ABI2	undefined	ZNF474
+# Reference PMID: 
+LMO2	undefined	BANP
+# Reference PMID: 
+CBX8	undefined	BANP
+# Reference PMID: 
+PIH1D2	undefined	IQUB
+# Reference PMID: 
+PIK3R3	undefined	IQUB
+# Reference PMID: 
+LMO4	undefined	KRT75
+# Reference PMID: 
+LMO2	undefined	KRT75
+# Reference PMID: 
+ABI2	undefined	KRT75
+# Reference PMID: 
+WWOX	undefined	CTAG1A
+# Reference PMID: 
+ABI2	undefined	WWOX
+# Reference PMID: 
+TSGA10IP	undefined	CTAG1A
+# Reference PMID: 
+LMO2	undefined	TSGA10IP
+# Reference PMID: 
+PIH1D2	undefined	REL
+# Reference PMID: 
+DDX6	undefined	REL
+# Reference PMID: 
+LMO2	undefined	REL
+# Reference PMID: 
+NTAQ1	undefined	RUSC1
+# Reference PMID: 
+RUSC1	undefined	CTAG1A
+# Reference PMID: 
+HMG20A	undefined	RUSC1
+# Reference PMID: 
+MORN3	undefined	RUSC1
+# Reference PMID: 
+PIK3R3	undefined	RUSC1
+# Reference PMID: 
+LMO2	undefined	RUSC1
+# Reference PMID: 
+ABI2	undefined	RUSC1
+# Reference PMID: 
+ITGB3BP	undefined	PIH1D2
+# Reference PMID: 
+PIK3R3	undefined	ITGB3BP
+# Reference PMID: 
+NTAQ1	undefined	CTAG1A
+# Reference PMID: 
+LMO2	undefined	NTAQ1
+# Reference PMID: 
+HMG20A	undefined	CTAG1A
+# Reference PMID: 
+PIH1D2	undefined	CTAG1A
+# Reference PMID: 
+SOX5	undefined	MORN3
+# Reference PMID: 
+LMO2	undefined	LMO4
+# Reference PMID: 
+ABI2	undefined	LMO4
+# Reference PMID: 
+CBX8	undefined	PIH1D2
+# Reference PMID: 
+PIK3R3	undefined	EGFR
+# Reference PMID: 
+FN1	undefined	EGFR
+# Reference PMID: 
+FN1	undefined	XRCC6
+# Reference PMID: 
+FN1	undefined	HMGA1

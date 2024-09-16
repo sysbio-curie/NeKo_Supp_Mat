@@ -1,0 +1,4 @@
+NAME	CDK6	KMT2C	KMT2D	TAL1
+regulation of erythrocyte differentiation	1	0	0	1
+histone H3-K4 methylation	0	1	1	0
+histone H3-K4 monomethylation	0	1	1	0

@@ -1,0 +1,880 @@
+2024-07-12 12:14:01,660 - IDTranslator_137375133072064 - INFO - Starting ID translation process from Ensembl to UniProtKB-Swiss-Prot
+2024-07-12 12:14:01,699 - IDTranslator_137375133072064 - INFO - Loaded 64006 rows with 9094 unique IDs
+2024-07-12 12:14:01,701 - IDTranslator_137375133072064 - INFO - No existing progress found. Starting from scratch.
+2024-07-12 12:16:20,270 - IDTranslator_137375133072064 - INFO - Processed batch 1/91
+2024-07-12 12:16:20,272 - IDTranslator_137375133072064 - INFO - Processed batch 2/91
+2024-07-12 12:16:20,273 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_2.pkl
+2024-07-12 12:16:20,278 - IDTranslator_137375133072064 - INFO - Processed batch 3/91
+2024-07-12 12:16:20,359 - IDTranslator_137375133072064 - INFO - Processed batch 4/91
+2024-07-12 12:16:20,360 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_4.pkl
+2024-07-12 12:16:21,514 - IDTranslator_137375133072064 - INFO - Processed batch 5/91
+2024-07-12 12:16:21,534 - IDTranslator_137375133072064 - INFO - Processed batch 6/91
+2024-07-12 12:16:21,536 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_6.pkl
+2024-07-12 12:16:21,541 - IDTranslator_137375133072064 - INFO - Processed batch 7/91
+2024-07-12 12:16:21,604 - IDTranslator_137375133072064 - INFO - Processed batch 8/91
+2024-07-12 12:16:21,605 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_8.pkl
+2024-07-12 12:16:22,627 - IDTranslator_137375133072064 - INFO - Processed batch 9/91
+2024-07-12 12:16:22,640 - IDTranslator_137375133072064 - INFO - Processed batch 10/91
+2024-07-12 12:16:22,642 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_10.pkl
+2024-07-12 12:16:22,799 - IDTranslator_137375133072064 - INFO - Processed batch 11/91
+2024-07-12 12:16:23,775 - IDTranslator_137375133072064 - INFO - Processed batch 12/91
+2024-07-12 12:16:23,777 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_12.pkl
+2024-07-12 12:18:26,767 - IDTranslator_137375133072064 - INFO - Processed batch 13/91
+2024-07-12 12:18:27,121 - IDTranslator_137375133072064 - INFO - Processed batch 14/91
+2024-07-12 12:18:27,123 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_14.pkl
+2024-07-12 12:18:27,758 - IDTranslator_137375133072064 - INFO - Processed batch 15/91
+2024-07-12 12:18:27,912 - IDTranslator_137375133072064 - INFO - Processed batch 16/91
+2024-07-12 12:18:27,914 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_16.pkl
+2024-07-12 12:18:27,998 - IDTranslator_137375133072064 - INFO - Processed batch 17/91
+2024-07-12 12:18:28,141 - IDTranslator_137375133072064 - INFO - Processed batch 18/91
+2024-07-12 12:18:28,143 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_18.pkl
+2024-07-12 12:18:29,224 - IDTranslator_137375133072064 - INFO - Processed batch 19/91
+2024-07-12 12:18:29,228 - IDTranslator_137375133072064 - INFO - Processed batch 20/91
+2024-07-12 12:18:29,230 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_20.pkl
+2024-07-12 12:18:29,252 - IDTranslator_137375133072064 - INFO - Processed batch 21/91
+2024-07-12 12:18:29,303 - IDTranslator_137375133072064 - INFO - Processed batch 22/91
+2024-07-12 12:18:29,305 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_22.pkl
+2024-07-12 12:18:29,507 - IDTranslator_137375133072064 - INFO - Processed batch 23/91
+2024-07-12 12:18:30,469 - IDTranslator_137375133072064 - INFO - Processed batch 24/91
+2024-07-12 12:18:30,472 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_24.pkl
+2024-07-12 12:20:41,798 - IDTranslator_137375133072064 - INFO - Processed batch 25/91
+2024-07-12 12:20:41,909 - IDTranslator_137375133072064 - INFO - Processed batch 26/91
+2024-07-12 12:20:41,911 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_26.pkl
+2024-07-12 12:20:41,995 - IDTranslator_137375133072064 - INFO - Processed batch 27/91
+2024-07-12 12:20:41,999 - IDTranslator_137375133072064 - INFO - Processed batch 28/91
+2024-07-12 12:20:42,001 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_28.pkl
+2024-07-12 12:20:42,057 - IDTranslator_137375133072064 - INFO - Processed batch 29/91
+2024-07-12 12:20:43,046 - IDTranslator_137375133072064 - INFO - Processed batch 30/91
+2024-07-12 12:20:43,048 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_30.pkl
+2024-07-12 12:20:43,078 - IDTranslator_137375133072064 - INFO - Processed batch 31/91
+2024-07-12 12:20:43,234 - IDTranslator_137375133072064 - INFO - Processed batch 32/91
+2024-07-12 12:20:43,235 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_32.pkl
+2024-07-12 12:20:43,260 - IDTranslator_137375133072064 - INFO - Processed batch 33/91
+2024-07-12 12:20:44,588 - IDTranslator_137375133072064 - INFO - Processed batch 34/91
+2024-07-12 12:20:44,590 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_34.pkl
+2024-07-12 12:20:44,830 - IDTranslator_137375133072064 - INFO - Processed batch 35/91
+2024-07-12 12:20:45,750 - IDTranslator_137375133072064 - INFO - Processed batch 36/91
+2024-07-12 12:20:45,753 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_36.pkl
+2024-07-12 12:22:50,991 - IDTranslator_137375133072064 - INFO - Processed batch 37/91
+2024-07-12 12:22:51,082 - IDTranslator_137375133072064 - INFO - Processed batch 38/91
+2024-07-12 12:22:51,085 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_38.pkl
+2024-07-12 12:22:51,960 - IDTranslator_137375133072064 - INFO - Processed batch 39/91
+2024-07-12 12:22:52,167 - IDTranslator_137375133072064 - INFO - Processed batch 40/91
+2024-07-12 12:22:52,169 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_40.pkl
+2024-07-12 12:22:57,184 - IDTranslator_137375133072064 - INFO - Processed batch 41/91
+2024-07-12 12:22:57,185 - IDTranslator_137375133072064 - INFO - Processed batch 42/91
+2024-07-12 12:22:57,187 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_42.pkl
+2024-07-12 12:22:57,212 - IDTranslator_137375133072064 - INFO - Processed batch 43/91
+2024-07-12 12:22:58,327 - IDTranslator_137375133072064 - INFO - Processed batch 44/91
+2024-07-12 12:22:58,330 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_44.pkl
+2024-07-12 12:22:58,425 - IDTranslator_137375133072064 - INFO - Processed batch 45/91
+2024-07-12 12:22:58,457 - IDTranslator_137375133072064 - INFO - Processed batch 46/91
+2024-07-12 12:22:58,460 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_46.pkl
+2024-07-12 12:22:59,674 - IDTranslator_137375133072064 - INFO - Processed batch 47/91
+2024-07-12 12:22:59,984 - IDTranslator_137375133072064 - INFO - Processed batch 48/91
+2024-07-12 12:22:59,986 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_48.pkl
+2024-07-12 12:25:00,722 - IDTranslator_137375133072064 - INFO - Processed batch 49/91
+2024-07-12 12:25:00,763 - IDTranslator_137375133072064 - INFO - Processed batch 50/91
+2024-07-12 12:25:00,766 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_50.pkl
+2024-07-12 12:25:01,485 - IDTranslator_137375133072064 - INFO - Processed batch 51/91
+2024-07-12 12:25:01,778 - IDTranslator_137375133072064 - INFO - Processed batch 52/91
+2024-07-12 12:25:01,780 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_52.pkl
+2024-07-12 12:25:01,834 - IDTranslator_137375133072064 - INFO - Processed batch 53/91
+2024-07-12 12:25:02,012 - IDTranslator_137375133072064 - INFO - Processed batch 54/91
+2024-07-12 12:25:02,015 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_54.pkl
+2024-07-12 12:25:03,029 - IDTranslator_137375133072064 - INFO - Processed batch 55/91
+2024-07-12 12:25:03,217 - IDTranslator_137375133072064 - INFO - Processed batch 56/91
+2024-07-12 12:25:03,219 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_56.pkl
+2024-07-12 12:25:03,564 - IDTranslator_137375133072064 - INFO - Processed batch 57/91
+2024-07-12 12:25:04,262 - IDTranslator_137375133072064 - INFO - Processed batch 58/91
+2024-07-12 12:25:04,264 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_58.pkl
+2024-07-12 12:25:04,378 - IDTranslator_137375133072064 - INFO - Processed batch 59/91
+2024-07-12 12:25:05,527 - IDTranslator_137375133072064 - INFO - Processed batch 60/91
+2024-07-12 12:25:05,529 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_60.pkl
+2024-07-12 12:27:06,153 - IDTranslator_137375133072064 - INFO - Processed batch 61/91
+2024-07-12 12:27:06,271 - IDTranslator_137375133072064 - INFO - Processed batch 62/91
+2024-07-12 12:27:06,274 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_62.pkl
+2024-07-12 12:27:07,096 - IDTranslator_137375133072064 - INFO - Processed batch 63/91
+2024-07-12 12:27:07,559 - IDTranslator_137375133072064 - INFO - Processed batch 64/91
+2024-07-12 12:27:07,562 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_64.pkl
+2024-07-12 12:27:07,563 - IDTranslator_137375133072064 - INFO - Processed batch 65/91
+2024-07-12 12:27:08,861 - IDTranslator_137375133072064 - INFO - Processed batch 66/91
+2024-07-12 12:27:08,864 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_66.pkl
+2024-07-12 12:27:09,787 - IDTranslator_137375133072064 - INFO - Processed batch 67/91
+2024-07-12 12:27:10,016 - IDTranslator_137375133072064 - INFO - Processed batch 68/91
+2024-07-12 12:27:10,019 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_68.pkl
+2024-07-12 12:27:10,027 - IDTranslator_137375133072064 - INFO - Processed batch 69/91
+2024-07-12 12:27:10,060 - IDTranslator_137375133072064 - INFO - Processed batch 70/91
+2024-07-12 12:27:10,063 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_70.pkl
+2024-07-12 12:27:10,466 - IDTranslator_137375133072064 - INFO - Processed batch 71/91
+2024-07-12 12:27:11,849 - IDTranslator_137375133072064 - INFO - Processed batch 72/91
+2024-07-12 12:27:11,851 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_72.pkl
+2024-07-12 12:29:10,677 - IDTranslator_137375133072064 - INFO - Processed batch 73/91
+2024-07-12 12:29:11,104 - IDTranslator_137375133072064 - INFO - Processed batch 74/91
+2024-07-12 12:29:11,107 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_74.pkl
+2024-07-12 12:29:11,901 - IDTranslator_137375133072064 - INFO - Processed batch 75/91
+2024-07-12 12:29:11,996 - IDTranslator_137375133072064 - INFO - Processed batch 76/91
+2024-07-12 12:29:11,999 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_76.pkl
+2024-07-12 12:29:12,110 - IDTranslator_137375133072064 - INFO - Processed batch 77/91
+2024-07-12 12:29:13,004 - IDTranslator_137375133072064 - INFO - Processed batch 78/91
+2024-07-12 12:29:13,008 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_78.pkl
+2024-07-12 12:29:14,103 - IDTranslator_137375133072064 - INFO - Processed batch 79/91
+2024-07-12 12:29:14,164 - IDTranslator_137375133072064 - INFO - Processed batch 80/91
+2024-07-12 12:29:14,168 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_80.pkl
+2024-07-12 12:29:14,213 - IDTranslator_137375133072064 - INFO - Processed batch 81/91
+2024-07-12 12:29:15,131 - IDTranslator_137375133072064 - INFO - Processed batch 82/91
+2024-07-12 12:29:15,135 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_82.pkl
+2024-07-12 12:29:15,253 - IDTranslator_137375133072064 - INFO - Processed batch 83/91
+2024-07-12 12:29:16,689 - IDTranslator_137375133072064 - INFO - Processed batch 84/91
+2024-07-12 12:29:16,692 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_84.pkl
+2024-07-12 12:31:12,327 - IDTranslator_137375133072064 - INFO - Processed batch 85/91
+2024-07-12 12:31:15,186 - IDTranslator_137375133072064 - INFO - Processed batch 86/91
+2024-07-12 12:31:15,189 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_86.pkl
+2024-07-12 12:31:16,321 - IDTranslator_137375133072064 - INFO - Processed batch 87/91
+2024-07-12 12:31:16,323 - IDTranslator_137375133072064 - INFO - Processed batch 88/91
+2024-07-12 12:31:16,325 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_88.pkl
+2024-07-12 12:31:16,475 - IDTranslator_137375133072064 - INFO - Processed batch 89/91
+2024-07-12 12:31:17,082 - IDTranslator_137375133072064 - INFO - Processed batch 90/91
+2024-07-12 12:31:17,086 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_90.pkl
+2024-07-12 12:31:18,318 - IDTranslator_137375133072064 - INFO - Processed batch 91/91
+2024-07-12 12:31:18,321 - IDTranslator_137375133072064 - INFO - Progress saved to checkpoint_batch_91.pkl
+2024-07-12 12:31:18,333 - IDTranslator_137375133072064 - INFO - Applying translation to dataframe...
+2024-07-12 12:31:45,805 - IDTranslator_137375133072064 - INFO - Results saved to ../data/HI-union_translated.csv
+2024-07-12 12:31:45,893 - IDTranslator_137375133072064 - INFO - ID translation process completed in 1064.23 seconds
+2024-07-12 12:31:45,899 - IDTranslator_137375133072064 - INFO - Original entry count: 64065
+2024-07-12 12:31:45,900 - IDTranslator_137375133072064 - INFO - Translated entry count: 64065
+2024-07-12 12:31:45,901 - IDTranslator_137375133072064 - INFO - Expansion factor: 1.00
+2024-07-12 12:31:45,901 - IDTranslator_137375133072064 - INFO - Translation success rate: 100.00%
+2024-07-12 12:31:45,918 - IDTranslator_137376234816128 - INFO - Starting ID translation process from Ensembl to UniProtKB-Swiss-Prot
+2024-07-12 12:31:45,936 - IDTranslator_137376234816128 - INFO - Loaded 52548 rows with 8272 unique IDs
+2024-07-12 12:31:45,938 - IDTranslator_137376234816128 - INFO - No existing progress found. Starting from scratch.
+2024-07-12 12:33:55,720 - IDTranslator_137376234816128 - INFO - Processed batch 1/83
+2024-07-12 12:33:55,763 - IDTranslator_137376234816128 - INFO - Processed batch 2/83
+2024-07-12 12:33:55,765 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_2.pkl
+2024-07-12 12:33:55,766 - IDTranslator_137376234816128 - INFO - Processed batch 3/83
+2024-07-12 12:33:56,740 - IDTranslator_137376234816128 - INFO - Processed batch 4/83
+2024-07-12 12:33:56,741 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_4.pkl
+2024-07-12 12:33:56,832 - IDTranslator_137376234816128 - INFO - Processed batch 5/83
+2024-07-12 12:33:56,834 - IDTranslator_137376234816128 - INFO - Processed batch 6/83
+2024-07-12 12:33:56,835 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_6.pkl
+2024-07-12 12:33:56,950 - IDTranslator_137376234816128 - INFO - Processed batch 7/83
+2024-07-12 12:33:57,084 - IDTranslator_137376234816128 - INFO - Processed batch 8/83
+2024-07-12 12:33:57,085 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_8.pkl
+2024-07-12 12:33:57,096 - IDTranslator_137376234816128 - INFO - Processed batch 9/83
+2024-07-12 12:33:57,168 - IDTranslator_137376234816128 - INFO - Processed batch 10/83
+2024-07-12 12:33:57,170 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_10.pkl
+2024-07-12 12:33:57,231 - IDTranslator_137376234816128 - INFO - Processed batch 11/83
+2024-07-12 12:33:58,021 - IDTranslator_137376234816128 - INFO - Processed batch 12/83
+2024-07-12 12:33:58,032 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_12.pkl
+2024-07-12 12:36:10,258 - IDTranslator_137376234816128 - INFO - Processed batch 13/83
+2024-07-12 12:36:11,520 - IDTranslator_137376234816128 - INFO - Processed batch 14/83
+2024-07-12 12:36:11,522 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_14.pkl
+2024-07-12 12:36:11,643 - IDTranslator_137376234816128 - INFO - Processed batch 15/83
+2024-07-12 12:36:12,462 - IDTranslator_137376234816128 - INFO - Processed batch 16/83
+2024-07-12 12:36:12,464 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_16.pkl
+2024-07-12 12:36:12,535 - IDTranslator_137376234816128 - INFO - Processed batch 17/83
+2024-07-12 12:36:12,788 - IDTranslator_137376234816128 - INFO - Processed batch 18/83
+2024-07-12 12:36:12,790 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_18.pkl
+2024-07-12 12:36:12,812 - IDTranslator_137376234816128 - INFO - Processed batch 19/83
+2024-07-12 12:36:12,853 - IDTranslator_137376234816128 - INFO - Processed batch 20/83
+2024-07-12 12:36:12,855 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_20.pkl
+2024-07-12 12:36:12,910 - IDTranslator_137376234816128 - INFO - Processed batch 21/83
+2024-07-12 12:36:12,914 - IDTranslator_137376234816128 - INFO - Processed batch 22/83
+2024-07-12 12:36:12,915 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_22.pkl
+2024-07-12 12:36:12,919 - IDTranslator_137376234816128 - INFO - Processed batch 23/83
+2024-07-12 12:36:14,222 - IDTranslator_137376234816128 - INFO - Processed batch 24/83
+2024-07-12 12:36:14,224 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_24.pkl
+2024-07-12 12:38:21,214 - IDTranslator_137376234816128 - INFO - Processed batch 25/83
+2024-07-12 12:38:22,981 - IDTranslator_137376234816128 - INFO - Processed batch 26/83
+2024-07-12 12:38:22,982 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_26.pkl
+2024-07-12 12:38:23,134 - IDTranslator_137376234816128 - INFO - Processed batch 27/83
+2024-07-12 12:38:23,194 - IDTranslator_137376234816128 - INFO - Processed batch 28/83
+2024-07-12 12:38:23,196 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_28.pkl
+2024-07-12 12:38:24,047 - IDTranslator_137376234816128 - INFO - Processed batch 29/83
+2024-07-12 12:38:24,124 - IDTranslator_137376234816128 - INFO - Processed batch 30/83
+2024-07-12 12:38:24,125 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_30.pkl
+2024-07-12 12:38:24,208 - IDTranslator_137376234816128 - INFO - Processed batch 31/83
+2024-07-12 12:38:24,307 - IDTranslator_137376234816128 - INFO - Processed batch 32/83
+2024-07-12 12:38:24,309 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_32.pkl
+2024-07-12 12:38:24,407 - IDTranslator_137376234816128 - INFO - Processed batch 33/83
+2024-07-12 12:38:24,602 - IDTranslator_137376234816128 - INFO - Processed batch 34/83
+2024-07-12 12:38:24,604 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_34.pkl
+2024-07-12 12:38:24,820 - IDTranslator_137376234816128 - INFO - Processed batch 35/83
+2024-07-12 12:38:25,950 - IDTranslator_137376234816128 - INFO - Processed batch 36/83
+2024-07-12 12:38:25,952 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_36.pkl
+2024-07-12 12:40:26,368 - IDTranslator_137376234816128 - INFO - Processed batch 37/83
+2024-07-12 12:40:27,296 - IDTranslator_137376234816128 - INFO - Processed batch 38/83
+2024-07-12 12:40:27,299 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_38.pkl
+2024-07-12 12:40:27,671 - IDTranslator_137376234816128 - INFO - Processed batch 39/83
+2024-07-12 12:40:28,000 - IDTranslator_137376234816128 - INFO - Processed batch 40/83
+2024-07-12 12:40:28,003 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_40.pkl
+2024-07-12 12:40:28,426 - IDTranslator_137376234816128 - INFO - Processed batch 41/83
+2024-07-12 12:40:28,862 - IDTranslator_137376234816128 - INFO - Processed batch 42/83
+2024-07-12 12:40:28,865 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_42.pkl
+2024-07-12 12:40:28,920 - IDTranslator_137376234816128 - INFO - Processed batch 43/83
+2024-07-12 12:40:29,178 - IDTranslator_137376234816128 - INFO - Processed batch 44/83
+2024-07-12 12:40:29,180 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_44.pkl
+2024-07-12 12:40:29,605 - IDTranslator_137376234816128 - INFO - Processed batch 45/83
+2024-07-12 12:40:29,655 - IDTranslator_137376234816128 - INFO - Processed batch 46/83
+2024-07-12 12:40:29,657 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_46.pkl
+2024-07-12 12:40:29,675 - IDTranslator_137376234816128 - INFO - Processed batch 47/83
+2024-07-12 12:40:31,059 - IDTranslator_137376234816128 - INFO - Processed batch 48/83
+2024-07-12 12:40:31,062 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_48.pkl
+2024-07-12 12:42:45,289 - IDTranslator_137376234816128 - INFO - Processed batch 49/83
+2024-07-12 12:42:46,636 - IDTranslator_137376234816128 - INFO - Processed batch 50/83
+2024-07-12 12:42:46,638 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_50.pkl
+2024-07-12 12:42:46,645 - IDTranslator_137376234816128 - INFO - Processed batch 51/83
+2024-07-12 12:42:47,668 - IDTranslator_137376234816128 - INFO - Processed batch 52/83
+2024-07-12 12:42:47,670 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_52.pkl
+2024-07-12 12:42:47,771 - IDTranslator_137376234816128 - INFO - Processed batch 53/83
+2024-07-12 12:42:47,779 - IDTranslator_137376234816128 - INFO - Processed batch 54/83
+2024-07-12 12:42:47,781 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_54.pkl
+2024-07-12 12:42:47,792 - IDTranslator_137376234816128 - INFO - Processed batch 55/83
+2024-07-12 12:42:47,797 - IDTranslator_137376234816128 - INFO - Processed batch 56/83
+2024-07-12 12:42:47,800 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_56.pkl
+2024-07-12 12:42:47,883 - IDTranslator_137376234816128 - INFO - Processed batch 57/83
+2024-07-12 12:42:49,118 - IDTranslator_137376234816128 - INFO - Processed batch 58/83
+2024-07-12 12:42:49,121 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_58.pkl
+2024-07-12 12:42:49,140 - IDTranslator_137376234816128 - INFO - Processed batch 59/83
+2024-07-12 12:42:50,354 - IDTranslator_137376234816128 - INFO - Processed batch 60/83
+2024-07-12 12:42:50,357 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_60.pkl
+2024-07-12 12:44:54,802 - IDTranslator_137376234816128 - INFO - Processed batch 61/83
+2024-07-12 12:44:56,977 - IDTranslator_137376234816128 - INFO - Processed batch 62/83
+2024-07-12 12:44:56,980 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_62.pkl
+2024-07-12 12:44:57,025 - IDTranslator_137376234816128 - INFO - Processed batch 63/83
+2024-07-12 12:44:57,152 - IDTranslator_137376234816128 - INFO - Processed batch 64/83
+2024-07-12 12:44:57,154 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_64.pkl
+2024-07-12 12:44:57,205 - IDTranslator_137376234816128 - INFO - Processed batch 65/83
+2024-07-12 12:44:57,265 - IDTranslator_137376234816128 - INFO - Processed batch 66/83
+2024-07-12 12:44:57,268 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_66.pkl
+2024-07-12 12:44:57,732 - IDTranslator_137376234816128 - INFO - Processed batch 67/83
+2024-07-12 12:44:57,973 - IDTranslator_137376234816128 - INFO - Processed batch 68/83
+2024-07-12 12:44:57,975 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_68.pkl
+2024-07-12 12:44:58,535 - IDTranslator_137376234816128 - INFO - Processed batch 69/83
+2024-07-12 12:44:59,666 - IDTranslator_137376234816128 - INFO - Processed batch 70/83
+2024-07-12 12:44:59,669 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_70.pkl
+2024-07-12 12:44:59,810 - IDTranslator_137376234816128 - INFO - Processed batch 71/83
+2024-07-12 12:45:01,687 - IDTranslator_137376234816128 - INFO - Processed batch 72/83
+2024-07-12 12:45:01,690 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_72.pkl
+2024-07-12 12:46:34,372 - IDTranslator_137376234816128 - INFO - Processed batch 73/83
+2024-07-12 12:47:08,105 - IDTranslator_137376234816128 - INFO - Processed batch 74/83
+2024-07-12 12:47:08,109 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_74.pkl
+2024-07-12 12:47:10,550 - IDTranslator_137376234816128 - INFO - Processed batch 75/83
+2024-07-12 12:47:10,605 - IDTranslator_137376234816128 - INFO - Processed batch 76/83
+2024-07-12 12:47:10,607 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_76.pkl
+2024-07-12 12:47:10,664 - IDTranslator_137376234816128 - INFO - Processed batch 77/83
+2024-07-12 12:47:10,723 - IDTranslator_137376234816128 - INFO - Processed batch 78/83
+2024-07-12 12:47:10,726 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_78.pkl
+2024-07-12 12:47:11,785 - IDTranslator_137376234816128 - INFO - Processed batch 79/83
+2024-07-12 12:47:12,014 - IDTranslator_137376234816128 - INFO - Processed batch 80/83
+2024-07-12 12:47:12,017 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_80.pkl
+2024-07-12 12:47:12,080 - IDTranslator_137376234816128 - INFO - Processed batch 81/83
+2024-07-12 12:47:13,031 - IDTranslator_137376234816128 - INFO - Processed batch 82/83
+2024-07-12 12:47:13,034 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_82.pkl
+2024-07-12 12:47:14,249 - IDTranslator_137376234816128 - INFO - Processed batch 83/83
+2024-07-12 12:47:14,252 - IDTranslator_137376234816128 - INFO - Progress saved to checkpoint_batch_83.pkl
+2024-07-12 12:47:14,268 - IDTranslator_137376234816128 - INFO - Applying translation to dataframe...
+2024-07-12 12:47:36,563 - IDTranslator_137376234816128 - INFO - Results saved to ../data/HuRI_translated.csv
+2024-07-12 12:47:36,634 - IDTranslator_137376234816128 - INFO - ID translation process completed in 950.72 seconds
+2024-07-12 12:47:36,639 - IDTranslator_137376234816128 - INFO - Original entry count: 52596
+2024-07-12 12:47:36,640 - IDTranslator_137376234816128 - INFO - Translated entry count: 52596
+2024-07-12 12:47:36,641 - IDTranslator_137376234816128 - INFO - Expansion factor: 1.00
+2024-07-12 12:47:36,642 - IDTranslator_137376234816128 - INFO - Translation success rate: 100.00%
+2024-07-12 12:47:36,658 - IDTranslator_137376234981312 - INFO - Starting ID translation process from Ensembl to UniProtKB-Swiss-Prot
+2024-07-12 12:47:36,666 - IDTranslator_137376234981312 - INFO - Loaded 13441 rows with 6047 unique IDs
+2024-07-12 12:47:36,667 - IDTranslator_137376234981312 - INFO - No existing progress found. Starting from scratch.
+2024-07-12 12:49:41,358 - IDTranslator_137376234981312 - INFO - Processed batch 1/61
+2024-07-12 12:49:41,582 - IDTranslator_137376234981312 - INFO - Processed batch 2/61
+2024-07-12 12:49:41,583 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_2.pkl
+2024-07-12 12:49:41,637 - IDTranslator_137376234981312 - INFO - Processed batch 3/61
+2024-07-12 12:49:41,808 - IDTranslator_137376234981312 - INFO - Processed batch 4/61
+2024-07-12 12:49:41,810 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_4.pkl
+2024-07-12 12:49:42,022 - IDTranslator_137376234981312 - INFO - Processed batch 5/61
+2024-07-12 12:49:42,027 - IDTranslator_137376234981312 - INFO - Processed batch 6/61
+2024-07-12 12:49:42,028 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_6.pkl
+2024-07-12 12:49:42,075 - IDTranslator_137376234981312 - INFO - Processed batch 7/61
+2024-07-12 12:49:42,537 - IDTranslator_137376234981312 - INFO - Processed batch 8/61
+2024-07-12 12:49:42,538 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_8.pkl
+2024-07-12 12:49:42,555 - IDTranslator_137376234981312 - INFO - Processed batch 9/61
+2024-07-12 12:49:42,916 - IDTranslator_137376234981312 - INFO - Processed batch 10/61
+2024-07-12 12:49:42,918 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_10.pkl
+2024-07-12 12:49:43,178 - IDTranslator_137376234981312 - INFO - Processed batch 11/61
+2024-07-12 12:49:43,249 - IDTranslator_137376234981312 - INFO - Processed batch 12/61
+2024-07-12 12:49:43,251 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_12.pkl
+2024-07-12 12:51:45,895 - IDTranslator_137376234981312 - INFO - Processed batch 13/61
+2024-07-12 12:51:51,035 - IDTranslator_137376234981312 - INFO - Processed batch 14/61
+2024-07-12 12:51:51,037 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_14.pkl
+2024-07-12 12:51:51,051 - IDTranslator_137376234981312 - INFO - Processed batch 15/61
+2024-07-12 12:51:51,054 - IDTranslator_137376234981312 - INFO - Processed batch 16/61
+2024-07-12 12:51:51,057 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_16.pkl
+2024-07-12 12:51:51,058 - IDTranslator_137376234981312 - INFO - Processed batch 17/61
+2024-07-12 12:51:51,059 - IDTranslator_137376234981312 - INFO - Processed batch 18/61
+2024-07-12 12:51:51,060 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_18.pkl
+2024-07-12 12:51:51,061 - IDTranslator_137376234981312 - INFO - Processed batch 19/61
+2024-07-12 12:51:52,266 - IDTranslator_137376234981312 - INFO - Processed batch 20/61
+2024-07-12 12:51:52,268 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_20.pkl
+2024-07-12 12:51:52,290 - IDTranslator_137376234981312 - INFO - Processed batch 21/61
+2024-07-12 12:51:52,298 - IDTranslator_137376234981312 - INFO - Processed batch 22/61
+2024-07-12 12:51:52,300 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_22.pkl
+2024-07-12 12:51:52,305 - IDTranslator_137376234981312 - INFO - Processed batch 23/61
+2024-07-12 12:51:54,055 - IDTranslator_137376234981312 - INFO - Processed batch 24/61
+2024-07-12 12:51:54,057 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_24.pkl
+2024-07-12 12:54:00,215 - IDTranslator_137376234981312 - INFO - Processed batch 25/61
+2024-07-12 12:54:01,296 - IDTranslator_137376234981312 - INFO - Processed batch 26/61
+2024-07-12 12:54:01,298 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_26.pkl
+2024-07-12 12:54:01,454 - IDTranslator_137376234981312 - INFO - Processed batch 27/61
+2024-07-12 12:54:01,545 - IDTranslator_137376234981312 - INFO - Processed batch 28/61
+2024-07-12 12:54:01,547 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_28.pkl
+2024-07-12 12:54:01,567 - IDTranslator_137376234981312 - INFO - Processed batch 29/61
+2024-07-12 12:54:01,745 - IDTranslator_137376234981312 - INFO - Processed batch 30/61
+2024-07-12 12:54:01,746 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_30.pkl
+2024-07-12 12:54:02,554 - IDTranslator_137376234981312 - INFO - Processed batch 31/61
+2024-07-12 12:54:02,759 - IDTranslator_137376234981312 - INFO - Processed batch 32/61
+2024-07-12 12:54:02,761 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_32.pkl
+2024-07-12 12:54:02,873 - IDTranslator_137376234981312 - INFO - Processed batch 33/61
+2024-07-12 12:54:02,979 - IDTranslator_137376234981312 - INFO - Processed batch 34/61
+2024-07-12 12:54:02,981 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_34.pkl
+2024-07-12 12:54:03,831 - IDTranslator_137376234981312 - INFO - Processed batch 35/61
+2024-07-12 12:54:04,264 - IDTranslator_137376234981312 - INFO - Processed batch 36/61
+2024-07-12 12:54:04,266 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_36.pkl
+2024-07-12 12:56:04,930 - IDTranslator_137376234981312 - INFO - Processed batch 37/61
+2024-07-12 12:56:05,671 - IDTranslator_137376234981312 - INFO - Processed batch 38/61
+2024-07-12 12:56:05,673 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_38.pkl
+2024-07-12 12:56:05,944 - IDTranslator_137376234981312 - INFO - Processed batch 39/61
+2024-07-12 12:56:05,971 - IDTranslator_137376234981312 - INFO - Processed batch 40/61
+2024-07-12 12:56:05,973 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_40.pkl
+2024-07-12 12:56:05,974 - IDTranslator_137376234981312 - INFO - Processed batch 41/61
+2024-07-12 12:56:06,179 - IDTranslator_137376234981312 - INFO - Processed batch 42/61
+2024-07-12 12:56:06,181 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_42.pkl
+2024-07-12 12:56:06,747 - IDTranslator_137376234981312 - INFO - Processed batch 43/61
+2024-07-12 12:56:06,994 - IDTranslator_137376234981312 - INFO - Processed batch 44/61
+2024-07-12 12:56:06,996 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_44.pkl
+2024-07-12 12:56:07,229 - IDTranslator_137376234981312 - INFO - Processed batch 45/61
+2024-07-12 12:56:07,631 - IDTranslator_137376234981312 - INFO - Processed batch 46/61
+2024-07-12 12:56:07,633 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_46.pkl
+2024-07-12 12:56:08,119 - IDTranslator_137376234981312 - INFO - Processed batch 47/61
+2024-07-12 12:56:08,858 - IDTranslator_137376234981312 - INFO - Processed batch 48/61
+2024-07-12 12:56:08,860 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_48.pkl
+2024-07-12 12:58:10,514 - IDTranslator_137376234981312 - INFO - Processed batch 49/61
+2024-07-12 12:58:11,344 - IDTranslator_137376234981312 - INFO - Processed batch 50/61
+2024-07-12 12:58:11,347 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_50.pkl
+2024-07-12 12:58:11,348 - IDTranslator_137376234981312 - INFO - Processed batch 51/61
+2024-07-12 12:58:11,357 - IDTranslator_137376234981312 - INFO - Processed batch 52/61
+2024-07-12 12:58:11,359 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_52.pkl
+2024-07-12 12:58:11,455 - IDTranslator_137376234981312 - INFO - Processed batch 53/61
+2024-07-12 12:58:12,570 - IDTranslator_137376234981312 - INFO - Processed batch 54/61
+2024-07-12 12:58:12,573 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_54.pkl
+2024-07-12 12:58:12,577 - IDTranslator_137376234981312 - INFO - Processed batch 55/61
+2024-07-12 12:58:12,594 - IDTranslator_137376234981312 - INFO - Processed batch 56/61
+2024-07-12 12:58:12,596 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_56.pkl
+2024-07-12 12:58:12,881 - IDTranslator_137376234981312 - INFO - Processed batch 57/61
+2024-07-12 12:58:13,783 - IDTranslator_137376234981312 - INFO - Processed batch 58/61
+2024-07-12 12:58:13,786 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_58.pkl
+2024-07-12 12:58:13,962 - IDTranslator_137376234981312 - INFO - Processed batch 59/61
+2024-07-12 12:58:14,102 - IDTranslator_137376234981312 - INFO - Processed batch 60/61
+2024-07-12 12:58:14,104 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_60.pkl
+2024-07-12 12:59:09,241 - IDTranslator_137376234981312 - INFO - Processed batch 61/61
+2024-07-12 12:59:09,244 - IDTranslator_137376234981312 - INFO - Progress saved to checkpoint_batch_61.pkl
+2024-07-12 12:59:09,255 - IDTranslator_137376234981312 - INFO - Applying translation to dataframe...
+2024-07-12 12:59:14,668 - IDTranslator_137376234981312 - INFO - Results saved to ../data/Lit-BM_translated.csv
+2024-07-12 12:59:14,685 - IDTranslator_137376234981312 - INFO - ID translation process completed in 698.03 seconds
+2024-07-12 12:59:14,688 - IDTranslator_137376234981312 - INFO - Original entry count: 13544
+2024-07-12 12:59:14,689 - IDTranslator_137376234981312 - INFO - Translated entry count: 13544
+2024-07-12 12:59:14,689 - IDTranslator_137376234981312 - INFO - Expansion factor: 1.00
+2024-07-12 12:59:14,690 - IDTranslator_137376234981312 - INFO - Translation success rate: 100.00%
+2024-07-12 12:59:14,697 - IDTranslator_137376235062368 - INFO - Starting ID translation process from Ensembl to UniProtKB-Swiss-Prot
+2024-07-12 12:59:14,702 - IDTranslator_137376235062368 - INFO - Loaded 1159 rows with 672 unique IDs
+2024-07-12 12:59:14,703 - IDTranslator_137376235062368 - INFO - No existing progress found. Starting from scratch.
+2024-07-12 13:00:50,876 - IDTranslator_137376235062368 - INFO - Processed batch 1/7
+2024-07-12 13:01:23,622 - IDTranslator_137376235062368 - INFO - Processed batch 2/7
+2024-07-12 13:01:23,623 - IDTranslator_137376235062368 - INFO - Progress saved to checkpoint_batch_2.pkl
+2024-07-12 13:01:23,653 - IDTranslator_137376235062368 - INFO - Processed batch 3/7
+2024-07-12 13:01:23,743 - IDTranslator_137376235062368 - INFO - Processed batch 4/7
+2024-07-12 13:01:23,745 - IDTranslator_137376235062368 - INFO - Progress saved to checkpoint_batch_4.pkl
+2024-07-12 13:01:24,547 - IDTranslator_137376235062368 - INFO - Processed batch 5/7
+2024-07-12 13:01:24,550 - IDTranslator_137376235062368 - INFO - Processed batch 6/7
+2024-07-12 13:01:24,551 - IDTranslator_137376235062368 - INFO - Progress saved to checkpoint_batch_6.pkl
+2024-07-12 13:01:25,839 - IDTranslator_137376235062368 - INFO - Processed batch 7/7
+2024-07-12 13:01:25,841 - IDTranslator_137376235062368 - INFO - Progress saved to checkpoint_batch_7.pkl
+2024-07-12 13:01:25,851 - IDTranslator_137376235062368 - INFO - Applying translation to dataframe...
+2024-07-12 13:01:26,381 - IDTranslator_137376235062368 - INFO - Results saved to ../data/Test_space_screens-19_translated.csv
+2024-07-12 13:01:26,383 - IDTranslator_137376235062368 - INFO - ID translation process completed in 131.68 seconds
+2024-07-12 13:01:26,385 - IDTranslator_137376235062368 - INFO - Original entry count: 1164
+2024-07-12 13:01:26,386 - IDTranslator_137376235062368 - INFO - Translated entry count: 1164
+2024-07-12 13:01:26,386 - IDTranslator_137376235062368 - INFO - Expansion factor: 1.00
+2024-07-12 13:01:26,387 - IDTranslator_137376235062368 - INFO - Translation success rate: 100.00%
+2024-08-29 11:49:59,832 - IDTranslator_131487497748352 - INFO - Starting ID translation process from Ensembl to UniProtKB-Swiss-Prot
+2024-08-29 11:49:59,870 - IDTranslator_131487497748352 - INFO - Loaded 64006 rows with 9094 unique IDs
+2024-08-29 11:49:59,871 - IDTranslator_131487497748352 - INFO - No existing progress found. Starting from scratch.
+2024-08-29 11:49:59,956 - IDTranslator_131487497748352 - INFO - Applying translation to dataframe...
+2024-08-29 11:50:00,778 - IDTranslator_131487497748352 - INFO - Results saved to ../data/HI-union_translated.csv
+2024-08-29 11:54:15,235 - IDTranslator_131487497747008 - INFO - Starting ID translation process from Ensembl to UniProtKB-Swiss-Prot
+2024-08-29 11:54:15,256 - IDTranslator_131487497747008 - INFO - Loaded 64006 rows with 9094 unique IDs
+2024-08-29 11:54:15,257 - IDTranslator_131487497747008 - INFO - No existing progress found. Starting from scratch.
+2024-08-29 11:54:15,357 - IDTranslator_131487497747008 - INFO - Applying translation to dataframe...
+2024-08-29 11:54:16,172 - IDTranslator_131487497747008 - INFO - Results saved to ../data/HI-union_translated.csv
+2024-08-29 11:55:33,350 - IDTranslator_138505197439552 - INFO - Starting ID translation process from Ensembl to UniProtKB-Swiss-Prot
+2024-08-29 11:56:14,718 - IDTranslator_138505191765632 - INFO - Starting ID translation process from Ensembl to UniProtKB-Swiss-Prot
+2024-08-29 11:56:14,740 - IDTranslator_138505191765632 - INFO - Loaded 64006 rows with 9094 unique IDs
+2024-08-29 11:56:14,741 - IDTranslator_138505191765632 - INFO - No existing progress found. Starting from scratch.
+2024-08-29 11:56:14,873 - IDTranslator_138505191765632 - INFO - Applying translation to dataframe...
+2024-08-29 11:56:15,689 - IDTranslator_138505191765632 - INFO - Results saved to genes_translated.csv
+2024-08-29 11:59:05,505 - IDTranslator_138507049723488 - INFO - Starting ID translation process from Ensembl to UniProtKB-Swiss-Prot
+2024-08-29 11:59:05,530 - IDTranslator_138507049723488 - INFO - Loaded 52548 rows with 8272 unique IDs
+2024-08-29 11:59:05,532 - IDTranslator_138507049723488 - INFO - No existing progress found. Starting from scratch.
+2024-08-29 11:59:05,646 - IDTranslator_138507049723488 - INFO - Applying translation to dataframe...
+2024-08-29 11:59:06,321 - IDTranslator_138507049723488 - INFO - Results saved to ../data/HuRI_translated.csv
+2024-08-29 12:08:48,864 - IDTranslator_136967012870400 - INFO - Starting ID translation process from Ensembl to UniProtKB-Swiss-Prot
+2024-08-29 12:08:48,900 - IDTranslator_136967012870400 - INFO - Loaded 64006 rows with 9094 unique IDs
+2024-08-29 12:08:48,901 - IDTranslator_136967012870400 - INFO - No existing progress found. Starting from scratch.
+2024-08-29 12:08:49,034 - IDTranslator_136967012870400 - INFO - Applying translation to dataframe...
+2024-08-29 12:08:49,841 - IDTranslator_136967012870400 - INFO - Results saved to genes_translated.csv
+2024-08-29 12:19:00,263 - IDTranslator_140213341929296 - INFO - Starting ID translation process from Ensembl to UniProtKB-Swiss-Prot
+2024-08-29 12:19:00,287 - IDTranslator_140213341929296 - INFO - Loaded 64006 rows with 9094 unique IDs
+2024-08-29 12:19:00,289 - IDTranslator_140213341929296 - INFO - No existing progress found. Starting from scratch.
+2024-08-29 12:22:05,511 - IDTranslator_140213341929296 - INFO - Processed batch 1/91
+2024-08-29 12:22:08,354 - IDTranslator_140213341929296 - INFO - Processed batch 2/91
+2024-08-29 12:22:08,355 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_2.pkl
+2024-08-29 12:22:08,998 - IDTranslator_140213341929296 - INFO - Processed batch 3/91
+2024-08-29 12:22:09,776 - IDTranslator_140213341929296 - INFO - Processed batch 4/91
+2024-08-29 12:22:09,778 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_4.pkl
+2024-08-29 12:22:10,555 - IDTranslator_140213341929296 - INFO - Processed batch 5/91
+2024-08-29 12:22:10,862 - IDTranslator_140213341929296 - INFO - Processed batch 6/91
+2024-08-29 12:22:10,864 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_6.pkl
+2024-08-29 12:22:11,212 - IDTranslator_140213341929296 - INFO - Processed batch 7/91
+2024-08-29 12:22:11,302 - IDTranslator_140213341929296 - INFO - Processed batch 8/91
+2024-08-29 12:22:11,303 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_8.pkl
+2024-08-29 12:22:12,589 - IDTranslator_140213341929296 - INFO - Processed batch 9/91
+2024-08-29 12:22:13,191 - IDTranslator_140213341929296 - INFO - Processed batch 10/91
+2024-08-29 12:22:13,193 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_10.pkl
+2024-08-29 12:22:13,656 - IDTranslator_140213341929296 - INFO - Processed batch 11/91
+2024-08-29 12:22:15,974 - IDTranslator_140213341929296 - INFO - Processed batch 12/91
+2024-08-29 12:22:15,983 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_12.pkl
+2024-08-29 12:25:19,152 - IDTranslator_140213341929296 - INFO - Processed batch 13/91
+2024-08-29 12:25:19,542 - IDTranslator_140213341929296 - INFO - Processed batch 14/91
+2024-08-29 12:25:19,544 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_14.pkl
+2024-08-29 12:25:20,464 - IDTranslator_140213341929296 - INFO - Processed batch 15/91
+2024-08-29 12:25:20,713 - IDTranslator_140213341929296 - INFO - Processed batch 16/91
+2024-08-29 12:25:20,715 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_16.pkl
+2024-08-29 12:25:21,352 - IDTranslator_140213341929296 - INFO - Processed batch 17/91
+2024-08-29 12:25:23,854 - IDTranslator_140213341929296 - INFO - Processed batch 18/91
+2024-08-29 12:25:23,856 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_18.pkl
+2024-08-29 12:25:24,546 - IDTranslator_140213341929296 - INFO - Processed batch 19/91
+2024-08-29 12:25:24,844 - IDTranslator_140213341929296 - INFO - Processed batch 20/91
+2024-08-29 12:25:24,847 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_20.pkl
+2024-08-29 12:25:30,213 - IDTranslator_140213341929296 - INFO - Processed batch 21/91
+2024-08-29 12:25:32,322 - IDTranslator_140213341929296 - INFO - Processed batch 22/91
+2024-08-29 12:25:32,324 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_22.pkl
+2024-08-29 12:25:32,720 - IDTranslator_140213341929296 - INFO - Processed batch 23/91
+2024-08-29 12:25:34,641 - IDTranslator_140213341929296 - INFO - Processed batch 24/91
+2024-08-29 12:25:34,643 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_24.pkl
+2024-08-29 12:28:34,600 - IDTranslator_140213341929296 - INFO - Processed batch 25/91
+2024-08-29 12:28:35,974 - IDTranslator_140213341929296 - INFO - Processed batch 26/91
+2024-08-29 12:28:35,976 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_26.pkl
+2024-08-29 12:28:37,877 - IDTranslator_140213341929296 - INFO - Processed batch 27/91
+2024-08-29 12:28:38,845 - IDTranslator_140213341929296 - INFO - Processed batch 28/91
+2024-08-29 12:28:38,847 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_28.pkl
+2024-08-29 12:28:38,889 - IDTranslator_140213341929296 - INFO - Processed batch 29/91
+2024-08-29 12:28:41,044 - IDTranslator_140213341929296 - INFO - Processed batch 30/91
+2024-08-29 12:28:41,046 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_30.pkl
+2024-08-29 12:28:41,643 - IDTranslator_140213341929296 - INFO - Processed batch 31/91
+2024-08-29 12:28:42,602 - IDTranslator_140213341929296 - INFO - Processed batch 32/91
+2024-08-29 12:28:42,604 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_32.pkl
+2024-08-29 12:28:43,929 - IDTranslator_140213341929296 - INFO - Processed batch 33/91
+2024-08-29 12:28:44,749 - IDTranslator_140213341929296 - INFO - Processed batch 34/91
+2024-08-29 12:28:44,751 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_34.pkl
+2024-08-29 12:28:45,246 - IDTranslator_140213341929296 - INFO - Processed batch 35/91
+2024-08-29 12:28:52,439 - IDTranslator_140213341929296 - INFO - Processed batch 36/91
+2024-08-29 12:28:52,442 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_36.pkl
+2024-08-29 12:31:45,847 - IDTranslator_140213341929296 - INFO - Processed batch 37/91
+2024-08-29 12:31:47,444 - IDTranslator_140213341929296 - INFO - Processed batch 38/91
+2024-08-29 12:31:47,446 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_38.pkl
+2024-08-29 12:31:47,637 - IDTranslator_140213341929296 - INFO - Processed batch 39/91
+2024-08-29 12:31:51,320 - IDTranslator_140213341929296 - INFO - Processed batch 40/91
+2024-08-29 12:31:51,323 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_40.pkl
+2024-08-29 12:31:51,561 - IDTranslator_140213341929296 - INFO - Processed batch 41/91
+2024-08-29 12:31:52,545 - IDTranslator_140213341929296 - INFO - Processed batch 42/91
+2024-08-29 12:31:52,547 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_42.pkl
+2024-08-29 12:31:54,683 - IDTranslator_140213341929296 - INFO - Processed batch 43/91
+2024-08-29 12:31:54,759 - IDTranslator_140213341929296 - INFO - Processed batch 44/91
+2024-08-29 12:31:54,761 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_44.pkl
+2024-08-29 12:31:55,689 - IDTranslator_140213341929296 - INFO - Processed batch 45/91
+2024-08-29 12:31:56,096 - IDTranslator_140213341929296 - INFO - Processed batch 46/91
+2024-08-29 12:31:56,105 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_46.pkl
+2024-08-29 12:31:57,366 - IDTranslator_140213341929296 - INFO - Processed batch 47/91
+2024-08-29 12:31:59,901 - IDTranslator_140213341929296 - INFO - Processed batch 48/91
+2024-08-29 12:31:59,904 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_48.pkl
+2024-08-29 12:34:57,568 - IDTranslator_140213341929296 - INFO - Processed batch 49/91
+2024-08-29 12:34:59,218 - IDTranslator_140213341929296 - INFO - Processed batch 50/91
+2024-08-29 12:34:59,220 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_50.pkl
+2024-08-29 12:35:00,048 - IDTranslator_140213341929296 - INFO - Processed batch 51/91
+2024-08-29 12:35:01,985 - IDTranslator_140213341929296 - INFO - Processed batch 52/91
+2024-08-29 12:35:01,987 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_52.pkl
+2024-08-29 12:35:03,988 - IDTranslator_140213341929296 - INFO - Processed batch 53/91
+2024-08-29 12:35:05,105 - IDTranslator_140213341929296 - INFO - Processed batch 54/91
+2024-08-29 12:35:05,108 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_54.pkl
+2024-08-29 12:35:05,774 - IDTranslator_140213341929296 - INFO - Processed batch 55/91
+2024-08-29 12:35:06,572 - IDTranslator_140213341929296 - INFO - Processed batch 56/91
+2024-08-29 12:35:06,575 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_56.pkl
+2024-08-29 12:35:08,559 - IDTranslator_140213341929296 - INFO - Processed batch 57/91
+2024-08-29 12:35:08,955 - IDTranslator_140213341929296 - INFO - Processed batch 58/91
+2024-08-29 12:35:08,958 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_58.pkl
+2024-08-29 12:35:09,310 - IDTranslator_140213341929296 - INFO - Processed batch 59/91
+2024-08-29 12:35:12,445 - IDTranslator_140213341929296 - INFO - Processed batch 60/91
+2024-08-29 12:35:12,448 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_60.pkl
+2024-08-29 12:38:08,219 - IDTranslator_140213341929296 - INFO - Processed batch 61/91
+2024-08-29 12:38:09,854 - IDTranslator_140213341929296 - INFO - Processed batch 62/91
+2024-08-29 12:38:09,856 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_62.pkl
+2024-08-29 12:38:12,139 - IDTranslator_140213341929296 - INFO - Processed batch 63/91
+2024-08-29 12:38:12,885 - IDTranslator_140213341929296 - INFO - Processed batch 64/91
+2024-08-29 12:38:12,887 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_64.pkl
+2024-08-29 12:38:16,873 - IDTranslator_140213341929296 - INFO - Processed batch 65/91
+2024-08-29 12:38:17,243 - IDTranslator_140213341929296 - INFO - Processed batch 66/91
+2024-08-29 12:38:17,246 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_66.pkl
+2024-08-29 12:38:18,636 - IDTranslator_140213341929296 - INFO - Processed batch 67/91
+2024-08-29 12:38:19,436 - IDTranslator_140213341929296 - INFO - Processed batch 68/91
+2024-08-29 12:38:19,438 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_68.pkl
+2024-08-29 12:38:19,956 - IDTranslator_140213341929296 - INFO - Processed batch 69/91
+2024-08-29 12:38:21,532 - IDTranslator_140213341929296 - INFO - Processed batch 70/91
+2024-08-29 12:38:21,535 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_70.pkl
+2024-08-29 12:38:23,706 - IDTranslator_140213341929296 - INFO - Processed batch 71/91
+2024-08-29 12:38:26,081 - IDTranslator_140213341929296 - INFO - Processed batch 72/91
+2024-08-29 12:38:26,085 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_72.pkl
+2024-08-29 12:41:24,047 - IDTranslator_140213341929296 - INFO - Processed batch 73/91
+2024-08-29 12:41:24,725 - IDTranslator_140213341929296 - INFO - Processed batch 74/91
+2024-08-29 12:41:24,730 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_74.pkl
+2024-08-29 12:41:26,166 - IDTranslator_140213341929296 - INFO - Processed batch 75/91
+2024-08-29 12:41:26,717 - IDTranslator_140213341929296 - INFO - Processed batch 76/91
+2024-08-29 12:41:26,720 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_76.pkl
+2024-08-29 12:41:30,305 - IDTranslator_140213341929296 - INFO - Processed batch 77/91
+2024-08-29 12:41:30,493 - IDTranslator_140213341929296 - INFO - Processed batch 78/91
+2024-08-29 12:41:30,496 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_78.pkl
+2024-08-29 12:41:32,985 - IDTranslator_140213341929296 - INFO - Processed batch 79/91
+2024-08-29 12:41:33,559 - IDTranslator_140213341929296 - INFO - Processed batch 80/91
+2024-08-29 12:41:33,563 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_80.pkl
+2024-08-29 12:41:34,883 - IDTranslator_140213341929296 - INFO - Processed batch 81/91
+2024-08-29 12:41:35,170 - IDTranslator_140213341929296 - INFO - Processed batch 82/91
+2024-08-29 12:41:35,173 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_82.pkl
+2024-08-29 12:41:36,890 - IDTranslator_140213341929296 - INFO - Processed batch 83/91
+2024-08-29 12:41:38,573 - IDTranslator_140213341929296 - INFO - Processed batch 84/91
+2024-08-29 12:41:38,576 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_84.pkl
+2024-08-29 12:44:38,212 - IDTranslator_140213341929296 - INFO - Processed batch 85/91
+2024-08-29 12:44:39,190 - IDTranslator_140213341929296 - INFO - Processed batch 86/91
+2024-08-29 12:44:39,193 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_86.pkl
+2024-08-29 12:44:39,450 - IDTranslator_140213341929296 - INFO - Processed batch 87/91
+2024-08-29 12:44:41,747 - IDTranslator_140213341929296 - INFO - Processed batch 88/91
+2024-08-29 12:44:41,750 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_88.pkl
+2024-08-29 12:44:43,215 - IDTranslator_140213341929296 - INFO - Processed batch 89/91
+2024-08-29 12:44:45,554 - IDTranslator_140213341929296 - INFO - Processed batch 90/91
+2024-08-29 12:44:45,556 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_90.pkl
+2024-08-29 12:44:46,081 - IDTranslator_140213341929296 - INFO - Processed batch 91/91
+2024-08-29 12:44:46,091 - IDTranslator_140213341929296 - INFO - Progress saved to checkpoint_batch_91.pkl
+2024-08-29 12:44:46,105 - IDTranslator_140213341929296 - INFO - Applying translation to dataframe...
+2024-08-29 12:45:04,754 - IDTranslator_140213341929296 - INFO - Results saved to genes_translated.csv
+2024-08-29 12:45:04,815 - IDTranslator_140213341929296 - INFO - Found 132 untranslated IDs to retry
+2024-08-29 12:45:04,816 - IDTranslator_140213341929296 - INFO - Retrying translation for 132 untranslated IDs
+2024-08-29 12:46:05,645 - IDTranslator_140213341929296 - INFO - Retried batch 1/2
+2024-08-29 12:48:15,660 - IDTranslator_140213341929296 - INFO - Retried batch 2/2
+2024-08-29 12:48:15,664 - IDTranslator_140213341929296 - INFO - Progress saved to retry_checkpoint_batch_2.pkl
+2024-08-29 12:48:15,677 - IDTranslator_140213341929296 - INFO - Applying translation to dataframe...
+2024-08-29 12:48:18,745 - IDTranslator_140213341929296 - INFO - Results saved to genes_translated.csv
+2024-08-29 12:48:18,766 - IDTranslator_140213341929296 - INFO - ID translation process completed in 1758.50 seconds
+2024-08-29 12:48:19,034 - IDTranslator_140213341929296 - INFO - Original entry count: 64183
+2024-08-29 12:48:19,035 - IDTranslator_140213341929296 - INFO - Translated entry count: 62768
+2024-08-29 12:48:19,036 - IDTranslator_140213341929296 - INFO - Expansion factor: 0.98
+2024-08-29 12:48:19,037 - IDTranslator_140213341929296 - INFO - Translation success rate: 97.80%
+2024-08-29 12:49:49,536 - IDTranslator_140213345721264 - INFO - Starting ID translation process from Ensembl to UniProtKB-Swiss-Prot
+2024-08-29 12:49:49,554 - IDTranslator_140213345721264 - INFO - Loaded 64006 rows with 9094 unique IDs
+2024-08-29 12:49:49,558 - IDTranslator_140213345721264 - INFO - Loaded progress from retry_checkpoint_batch_2.pkl
+2024-08-29 12:49:49,675 - IDTranslator_140213345721264 - INFO - Applying translation to dataframe...
+2024-08-29 12:50:08,444 - IDTranslator_140213345721264 - INFO - Results saved to genes_translated.csv
+2024-08-29 12:50:08,517 - IDTranslator_140213345721264 - INFO - Found 132 untranslated IDs to retry
+2024-08-29 12:50:08,518 - IDTranslator_140213345721264 - INFO - Retrying translation for 132 untranslated IDs
+2024-08-29 12:51:10,118 - IDTranslator_140213345721264 - INFO - Retried batch 1/2
+2024-08-29 12:53:22,746 - IDTranslator_140213345721264 - INFO - Retried batch 2/2
+2024-08-29 12:53:22,753 - IDTranslator_140213345721264 - INFO - Progress saved to retry_checkpoint_batch_2.pkl
+2024-08-29 12:53:22,768 - IDTranslator_140213345721264 - INFO - Applying translation to dataframe...
+2024-08-29 12:53:25,954 - IDTranslator_140213345721264 - INFO - Results saved to genes_translated.csv
+2024-08-29 12:53:25,991 - IDTranslator_140213345721264 - INFO - ID translation process completed in 216.45 seconds
+2024-08-29 12:53:26,267 - IDTranslator_140213345721264 - INFO - Original entry count: 64183
+2024-08-29 12:53:26,269 - IDTranslator_140213345721264 - INFO - Translated entry count: 62768
+2024-08-29 12:53:26,269 - IDTranslator_140213345721264 - INFO - Expansion factor: 0.98
+2024-08-29 12:53:26,270 - IDTranslator_140213345721264 - INFO - Translation success rate: 97.80%
+2024-08-29 12:54:24,285 - IDTranslator_140214130000384 - INFO - Starting ID translation process from Ensembl to UniProtKB-Swiss-Prot
+2024-08-29 12:54:24,301 - IDTranslator_140214130000384 - INFO - Loaded 52548 rows with 8272 unique IDs
+2024-08-29 12:54:24,302 - IDTranslator_140214130000384 - INFO - No existing progress found. Starting from scratch.
+2024-08-29 12:57:28,653 - IDTranslator_140214130000384 - INFO - Processed batch 1/83
+2024-08-29 12:57:33,175 - IDTranslator_140214130000384 - INFO - Processed batch 2/83
+2024-08-29 12:57:33,177 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_2.pkl
+2024-08-29 12:57:35,706 - IDTranslator_140214130000384 - INFO - Processed batch 3/83
+2024-08-29 12:57:36,324 - IDTranslator_140214130000384 - INFO - Processed batch 4/83
+2024-08-29 12:57:36,326 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_4.pkl
+2024-08-29 12:57:36,443 - IDTranslator_140214130000384 - INFO - Processed batch 5/83
+2024-08-29 12:57:36,644 - IDTranslator_140214130000384 - INFO - Processed batch 6/83
+2024-08-29 12:57:36,646 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_6.pkl
+2024-08-29 12:57:36,795 - IDTranslator_140214130000384 - INFO - Processed batch 7/83
+2024-08-29 12:57:37,953 - IDTranslator_140214130000384 - INFO - Processed batch 8/83
+2024-08-29 12:57:37,955 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_8.pkl
+2024-08-29 12:57:38,057 - IDTranslator_140214130000384 - INFO - Processed batch 9/83
+2024-08-29 12:57:38,930 - IDTranslator_140214130000384 - INFO - Processed batch 10/83
+2024-08-29 12:57:38,932 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_10.pkl
+2024-08-29 12:57:39,610 - IDTranslator_140214130000384 - INFO - Processed batch 11/83
+2024-08-29 12:57:40,697 - IDTranslator_140214130000384 - INFO - Processed batch 12/83
+2024-08-29 12:57:40,698 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_12.pkl
+2024-08-29 13:00:40,248 - IDTranslator_140214130000384 - INFO - Processed batch 13/83
+2024-08-29 13:00:44,232 - IDTranslator_140214130000384 - INFO - Processed batch 14/83
+2024-08-29 13:00:44,234 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_14.pkl
+2024-08-29 13:00:44,885 - IDTranslator_140214130000384 - INFO - Processed batch 15/83
+2024-08-29 13:00:45,456 - IDTranslator_140214130000384 - INFO - Processed batch 16/83
+2024-08-29 13:00:45,459 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_16.pkl
+2024-08-29 13:00:45,752 - IDTranslator_140214130000384 - INFO - Processed batch 17/83
+2024-08-29 13:00:47,540 - IDTranslator_140214130000384 - INFO - Processed batch 18/83
+2024-08-29 13:00:47,542 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_18.pkl
+2024-08-29 13:00:47,591 - IDTranslator_140214130000384 - INFO - Processed batch 19/83
+2024-08-29 13:00:49,609 - IDTranslator_140214130000384 - INFO - Processed batch 20/83
+2024-08-29 13:00:49,612 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_20.pkl
+2024-08-29 13:00:50,113 - IDTranslator_140214130000384 - INFO - Processed batch 21/83
+2024-08-29 13:00:50,644 - IDTranslator_140214130000384 - INFO - Processed batch 22/83
+2024-08-29 13:00:50,646 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_22.pkl
+2024-08-29 13:00:50,672 - IDTranslator_140214130000384 - INFO - Processed batch 23/83
+2024-08-29 13:00:55,253 - IDTranslator_140214130000384 - INFO - Processed batch 24/83
+2024-08-29 13:00:55,255 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_24.pkl
+2024-08-29 13:03:55,900 - IDTranslator_140214130000384 - INFO - Processed batch 25/83
+2024-08-29 13:03:56,989 - IDTranslator_140214130000384 - INFO - Processed batch 26/83
+2024-08-29 13:03:56,991 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_26.pkl
+2024-08-29 13:03:59,411 - IDTranslator_140214130000384 - INFO - Processed batch 27/83
+2024-08-29 13:04:00,401 - IDTranslator_140214130000384 - INFO - Processed batch 28/83
+2024-08-29 13:04:00,402 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_28.pkl
+2024-08-29 13:04:01,185 - IDTranslator_140214130000384 - INFO - Processed batch 29/83
+2024-08-29 13:04:03,542 - IDTranslator_140214130000384 - INFO - Processed batch 30/83
+2024-08-29 13:04:03,543 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_30.pkl
+2024-08-29 13:04:04,253 - IDTranslator_140214130000384 - INFO - Processed batch 31/83
+2024-08-29 13:04:05,490 - IDTranslator_140214130000384 - INFO - Processed batch 32/83
+2024-08-29 13:04:05,493 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_32.pkl
+2024-08-29 13:04:05,547 - IDTranslator_140214130000384 - INFO - Processed batch 33/83
+2024-08-29 13:04:06,230 - IDTranslator_140214130000384 - INFO - Processed batch 34/83
+2024-08-29 13:04:06,232 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_34.pkl
+2024-08-29 13:04:07,742 - IDTranslator_140214130000384 - INFO - Processed batch 35/83
+2024-08-29 13:04:09,399 - IDTranslator_140214130000384 - INFO - Processed batch 36/83
+2024-08-29 13:04:09,401 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_36.pkl
+2024-08-29 13:07:03,894 - IDTranslator_140214130000384 - INFO - Processed batch 37/83
+2024-08-29 13:07:09,298 - IDTranslator_140214130000384 - INFO - Processed batch 38/83
+2024-08-29 13:07:09,300 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_38.pkl
+2024-08-29 13:07:09,973 - IDTranslator_140214130000384 - INFO - Processed batch 39/83
+2024-08-29 13:07:10,867 - IDTranslator_140214130000384 - INFO - Processed batch 40/83
+2024-08-29 13:07:10,869 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_40.pkl
+2024-08-29 13:07:14,157 - IDTranslator_140214130000384 - INFO - Processed batch 41/83
+2024-08-29 13:07:14,692 - IDTranslator_140214130000384 - INFO - Processed batch 42/83
+2024-08-29 13:07:14,695 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_42.pkl
+2024-08-29 13:07:14,852 - IDTranslator_140214130000384 - INFO - Processed batch 43/83
+2024-08-29 13:07:17,340 - IDTranslator_140214130000384 - INFO - Processed batch 44/83
+2024-08-29 13:07:17,343 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_44.pkl
+2024-08-29 13:07:19,701 - IDTranslator_140214130000384 - INFO - Processed batch 45/83
+2024-08-29 13:07:20,166 - IDTranslator_140214130000384 - INFO - Processed batch 46/83
+2024-08-29 13:07:20,168 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_46.pkl
+2024-08-29 13:07:20,348 - IDTranslator_140214130000384 - INFO - Processed batch 47/83
+2024-08-29 13:07:20,763 - IDTranslator_140214130000384 - INFO - Processed batch 48/83
+2024-08-29 13:07:20,766 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_48.pkl
+2024-08-29 13:10:16,972 - IDTranslator_140214130000384 - INFO - Processed batch 49/83
+2024-08-29 13:10:17,842 - IDTranslator_140214130000384 - INFO - Processed batch 50/83
+2024-08-29 13:10:17,845 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_50.pkl
+2024-08-29 13:10:23,749 - IDTranslator_140214130000384 - INFO - Processed batch 51/83
+2024-08-29 13:10:24,045 - IDTranslator_140214130000384 - INFO - Processed batch 52/83
+2024-08-29 13:10:24,048 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_52.pkl
+2024-08-29 13:10:24,408 - IDTranslator_140214130000384 - INFO - Processed batch 53/83
+2024-08-29 13:10:27,447 - IDTranslator_140214130000384 - INFO - Processed batch 54/83
+2024-08-29 13:10:27,451 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_54.pkl
+2024-08-29 13:10:28,126 - IDTranslator_140214130000384 - INFO - Processed batch 55/83
+2024-08-29 13:10:32,055 - IDTranslator_140214130000384 - INFO - Processed batch 56/83
+2024-08-29 13:10:32,058 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_56.pkl
+2024-08-29 13:10:32,869 - IDTranslator_140214130000384 - INFO - Processed batch 57/83
+2024-08-29 13:10:34,339 - IDTranslator_140214130000384 - INFO - Processed batch 58/83
+2024-08-29 13:10:34,342 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_58.pkl
+2024-08-29 13:10:35,731 - IDTranslator_140214130000384 - INFO - Processed batch 59/83
+2024-08-29 13:10:37,855 - IDTranslator_140214130000384 - INFO - Processed batch 60/83
+2024-08-29 13:10:37,858 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_60.pkl
+2024-08-29 13:13:24,676 - IDTranslator_140214130000384 - INFO - Processed batch 61/83
+2024-08-29 13:13:34,209 - IDTranslator_140214130000384 - INFO - Processed batch 62/83
+2024-08-29 13:13:34,212 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_62.pkl
+2024-08-29 13:13:35,051 - IDTranslator_140214130000384 - INFO - Processed batch 63/83
+2024-08-29 13:13:36,575 - IDTranslator_140214130000384 - INFO - Processed batch 64/83
+2024-08-29 13:13:36,578 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_64.pkl
+2024-08-29 13:13:37,381 - IDTranslator_140214130000384 - INFO - Processed batch 65/83
+2024-08-29 13:13:39,340 - IDTranslator_140214130000384 - INFO - Processed batch 66/83
+2024-08-29 13:13:39,343 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_66.pkl
+2024-08-29 13:13:40,034 - IDTranslator_140214130000384 - INFO - Processed batch 67/83
+2024-08-29 13:13:42,441 - IDTranslator_140214130000384 - INFO - Processed batch 68/83
+2024-08-29 13:13:42,443 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_68.pkl
+2024-08-29 13:13:48,512 - IDTranslator_140214130000384 - INFO - Processed batch 69/83
+2024-08-29 13:13:49,620 - IDTranslator_140214130000384 - INFO - Processed batch 70/83
+2024-08-29 13:13:49,624 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_70.pkl
+2024-08-29 13:13:51,565 - IDTranslator_140214130000384 - INFO - Processed batch 71/83
+2024-08-29 13:13:54,465 - IDTranslator_140214130000384 - INFO - Processed batch 72/83
+2024-08-29 13:13:54,468 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_72.pkl
+2024-08-29 13:16:12,746 - IDTranslator_140214130000384 - INFO - Processed batch 73/83
+2024-08-29 13:16:39,540 - IDTranslator_140214130000384 - INFO - Processed batch 74/83
+2024-08-29 13:16:39,544 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_74.pkl
+2024-08-29 13:16:47,777 - IDTranslator_140214130000384 - INFO - Processed batch 75/83
+2024-08-29 13:16:48,964 - IDTranslator_140214130000384 - INFO - Processed batch 76/83
+2024-08-29 13:16:48,967 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_76.pkl
+2024-08-29 13:16:49,130 - IDTranslator_140214130000384 - INFO - Processed batch 77/83
+2024-08-29 13:16:50,583 - IDTranslator_140214130000384 - INFO - Processed batch 78/83
+2024-08-29 13:16:50,586 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_78.pkl
+2024-08-29 13:16:51,222 - IDTranslator_140214130000384 - INFO - Processed batch 79/83
+2024-08-29 13:16:54,953 - IDTranslator_140214130000384 - INFO - Processed batch 80/83
+2024-08-29 13:16:54,957 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_80.pkl
+2024-08-29 13:17:00,062 - IDTranslator_140214130000384 - INFO - Processed batch 81/83
+2024-08-29 13:17:04,310 - IDTranslator_140214130000384 - INFO - Processed batch 82/83
+2024-08-29 13:17:04,314 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_82.pkl
+2024-08-29 13:17:05,350 - IDTranslator_140214130000384 - INFO - Processed batch 83/83
+2024-08-29 13:17:05,354 - IDTranslator_140214130000384 - INFO - Progress saved to checkpoint_batch_83.pkl
+2024-08-29 13:17:05,376 - IDTranslator_140214130000384 - INFO - Applying translation to dataframe...
+2024-08-29 13:17:20,359 - IDTranslator_140214130000384 - INFO - Results saved to ../data/HuRI_translated.csv
+2024-08-29 13:17:20,409 - IDTranslator_140214130000384 - INFO - Found 117 untranslated IDs to retry
+2024-08-29 13:17:20,410 - IDTranslator_140214130000384 - INFO - Retrying translation for 117 untranslated IDs
+2024-08-29 13:17:51,455 - IDTranslator_140214130000384 - INFO - Retried batch 1/2
+2024-08-29 13:20:33,424 - IDTranslator_140214130000384 - INFO - Retried batch 2/2
+2024-08-29 13:20:33,430 - IDTranslator_140214130000384 - INFO - Progress saved to retry_checkpoint_batch_2.pkl
+2024-08-29 13:20:33,446 - IDTranslator_140214130000384 - INFO - Applying translation to dataframe...
+2024-08-29 13:20:36,049 - IDTranslator_140214130000384 - INFO - Results saved to ../data/HuRI_translated.csv
+2024-08-29 13:20:36,071 - IDTranslator_140214130000384 - INFO - ID translation process completed in 1571.78 seconds
+2024-08-29 13:20:36,271 - IDTranslator_140214130000384 - INFO - Original entry count: 52692
+2024-08-29 13:20:36,272 - IDTranslator_140214130000384 - INFO - Translated entry count: 51494
+2024-08-29 13:20:36,273 - IDTranslator_140214130000384 - INFO - Expansion factor: 0.98
+2024-08-29 13:20:36,273 - IDTranslator_140214130000384 - INFO - Translation success rate: 97.73%
+2024-08-29 13:20:36,282 - IDTranslator_140213322316544 - INFO - Starting ID translation process from Ensembl to UniProtKB-Swiss-Prot
+2024-08-29 13:20:36,289 - IDTranslator_140213322316544 - INFO - Loaded 13441 rows with 6047 unique IDs
+2024-08-29 13:20:36,290 - IDTranslator_140213322316544 - INFO - No existing progress found. Starting from scratch.
+2024-08-29 13:23:42,174 - IDTranslator_140213322316544 - INFO - Processed batch 1/61
+2024-08-29 13:23:45,457 - IDTranslator_140213322316544 - INFO - Processed batch 2/61
+2024-08-29 13:23:45,459 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_2.pkl
+2024-08-29 13:23:46,280 - IDTranslator_140213322316544 - INFO - Processed batch 3/61
+2024-08-29 13:23:46,338 - IDTranslator_140213322316544 - INFO - Processed batch 4/61
+2024-08-29 13:23:46,339 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_4.pkl
+2024-08-29 13:23:46,603 - IDTranslator_140213322316544 - INFO - Processed batch 5/61
+2024-08-29 13:23:47,758 - IDTranslator_140213322316544 - INFO - Processed batch 6/61
+2024-08-29 13:23:47,760 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_6.pkl
+2024-08-29 13:23:50,062 - IDTranslator_140213322316544 - INFO - Processed batch 7/61
+2024-08-29 13:23:50,392 - IDTranslator_140213322316544 - INFO - Processed batch 8/61
+2024-08-29 13:23:50,394 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_8.pkl
+2024-08-29 13:23:51,545 - IDTranslator_140213322316544 - INFO - Processed batch 9/61
+2024-08-29 13:23:51,989 - IDTranslator_140213322316544 - INFO - Processed batch 10/61
+2024-08-29 13:23:51,991 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_10.pkl
+2024-08-29 13:23:53,720 - IDTranslator_140213322316544 - INFO - Processed batch 11/61
+2024-08-29 13:23:54,124 - IDTranslator_140213322316544 - INFO - Processed batch 12/61
+2024-08-29 13:23:54,126 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_12.pkl
+2024-08-29 13:26:52,283 - IDTranslator_140213322316544 - INFO - Processed batch 13/61
+2024-08-29 13:26:52,302 - IDTranslator_140213322316544 - INFO - Processed batch 14/61
+2024-08-29 13:26:52,304 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_14.pkl
+2024-08-29 13:26:57,443 - IDTranslator_140213322316544 - INFO - Processed batch 15/61
+2024-08-29 13:26:57,775 - IDTranslator_140213322316544 - INFO - Processed batch 16/61
+2024-08-29 13:26:57,777 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_16.pkl
+2024-08-29 13:27:00,828 - IDTranslator_140213322316544 - INFO - Processed batch 17/61
+2024-08-29 13:27:01,726 - IDTranslator_140213322316544 - INFO - Processed batch 18/61
+2024-08-29 13:27:01,728 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_18.pkl
+2024-08-29 13:27:02,443 - IDTranslator_140213322316544 - INFO - Processed batch 19/61
+2024-08-29 13:27:02,446 - IDTranslator_140213322316544 - INFO - Processed batch 20/61
+2024-08-29 13:27:02,447 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_20.pkl
+2024-08-29 13:27:03,884 - IDTranslator_140213322316544 - INFO - Processed batch 21/61
+2024-08-29 13:27:05,319 - IDTranslator_140213322316544 - INFO - Processed batch 22/61
+2024-08-29 13:27:05,321 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_22.pkl
+2024-08-29 13:27:09,956 - IDTranslator_140213322316544 - INFO - Processed batch 23/61
+2024-08-29 13:27:10,352 - IDTranslator_140213322316544 - INFO - Processed batch 24/61
+2024-08-29 13:27:10,354 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_24.pkl
+2024-08-29 13:30:07,442 - IDTranslator_140213322316544 - INFO - Processed batch 25/61
+2024-08-29 13:30:11,546 - IDTranslator_140213322316544 - INFO - Processed batch 26/61
+2024-08-29 13:30:11,549 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_26.pkl
+2024-08-29 13:30:14,839 - IDTranslator_140213322316544 - INFO - Processed batch 27/61
+2024-08-29 13:30:16,830 - IDTranslator_140213322316544 - INFO - Processed batch 28/61
+2024-08-29 13:30:16,832 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_28.pkl
+2024-08-29 13:30:17,763 - IDTranslator_140213322316544 - INFO - Processed batch 29/61
+2024-08-29 13:30:18,146 - IDTranslator_140213322316544 - INFO - Processed batch 30/61
+2024-08-29 13:30:18,148 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_30.pkl
+2024-08-29 13:30:18,429 - IDTranslator_140213322316544 - INFO - Processed batch 31/61
+2024-08-29 13:30:21,852 - IDTranslator_140213322316544 - INFO - Processed batch 32/61
+2024-08-29 13:30:21,854 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_32.pkl
+2024-08-29 13:30:22,387 - IDTranslator_140213322316544 - INFO - Processed batch 33/61
+2024-08-29 13:30:23,580 - IDTranslator_140213322316544 - INFO - Processed batch 34/61
+2024-08-29 13:30:23,581 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_34.pkl
+2024-08-29 13:30:23,760 - IDTranslator_140213322316544 - INFO - Processed batch 35/61
+2024-08-29 13:30:30,536 - IDTranslator_140213322316544 - INFO - Processed batch 36/61
+2024-08-29 13:30:30,538 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_36.pkl
+2024-08-29 13:33:21,343 - IDTranslator_140213322316544 - INFO - Processed batch 37/61
+2024-08-29 13:33:23,295 - IDTranslator_140213322316544 - INFO - Processed batch 38/61
+2024-08-29 13:33:23,298 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_38.pkl
+2024-08-29 13:33:31,517 - IDTranslator_140213322316544 - INFO - Processed batch 39/61
+2024-08-29 13:33:31,538 - IDTranslator_140213322316544 - INFO - Processed batch 40/61
+2024-08-29 13:33:31,539 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_40.pkl
+2024-08-29 13:33:32,889 - IDTranslator_140213322316544 - INFO - Processed batch 41/61
+2024-08-29 13:33:33,889 - IDTranslator_140213322316544 - INFO - Processed batch 42/61
+2024-08-29 13:33:33,892 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_42.pkl
+2024-08-29 13:33:35,860 - IDTranslator_140213322316544 - INFO - Processed batch 43/61
+2024-08-29 13:33:36,296 - IDTranslator_140213322316544 - INFO - Processed batch 44/61
+2024-08-29 13:33:36,298 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_44.pkl
+2024-08-29 13:33:39,610 - IDTranslator_140213322316544 - INFO - Processed batch 45/61
+2024-08-29 13:33:40,020 - IDTranslator_140213322316544 - INFO - Processed batch 46/61
+2024-08-29 13:33:40,023 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_46.pkl
+2024-08-29 13:33:40,790 - IDTranslator_140213322316544 - INFO - Processed batch 47/61
+2024-08-29 13:33:41,536 - IDTranslator_140213322316544 - INFO - Processed batch 48/61
+2024-08-29 13:33:41,539 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_48.pkl
+2024-08-29 13:37:08,576 - IDTranslator_140213322316544 - INFO - Processed batch 49/61
+2024-08-29 13:37:20,132 - IDTranslator_140213322316544 - INFO - Processed batch 50/61
+2024-08-29 13:37:20,134 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_50.pkl
+2024-08-29 13:37:22,532 - IDTranslator_140213322316544 - INFO - Processed batch 51/61
+2024-08-29 13:37:27,578 - IDTranslator_140213322316544 - INFO - Processed batch 52/61
+2024-08-29 13:37:27,580 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_52.pkl
+2024-08-29 13:37:31,461 - IDTranslator_140213322316544 - INFO - Processed batch 53/61
+2024-08-29 13:37:32,342 - IDTranslator_140213322316544 - INFO - Processed batch 54/61
+2024-08-29 13:37:32,344 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_54.pkl
+2024-08-29 13:37:32,835 - IDTranslator_140213322316544 - INFO - Processed batch 55/61
+2024-08-29 13:37:33,780 - IDTranslator_140213322316544 - INFO - Processed batch 56/61
+2024-08-29 13:37:33,782 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_56.pkl
+2024-08-29 13:37:35,947 - IDTranslator_140213322316544 - INFO - Processed batch 57/61
+2024-08-29 13:37:37,744 - IDTranslator_140213322316544 - INFO - Processed batch 58/61
+2024-08-29 13:37:37,746 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_58.pkl
+2024-08-29 13:37:42,850 - IDTranslator_140213322316544 - INFO - Processed batch 59/61
+2024-08-29 13:37:43,993 - IDTranslator_140213322316544 - INFO - Processed batch 60/61
+2024-08-29 13:37:43,996 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_60.pkl
+2024-08-29 13:38:40,826 - IDTranslator_140213322316544 - INFO - Processed batch 61/61
+2024-08-29 13:38:40,828 - IDTranslator_140213322316544 - INFO - Progress saved to checkpoint_batch_61.pkl
+2024-08-29 13:38:40,846 - IDTranslator_140213322316544 - INFO - Applying translation to dataframe...
+2024-08-29 13:38:44,822 - IDTranslator_140213322316544 - INFO - Results saved to ../data/Lit-BM_translated.csv
+2024-08-29 13:38:44,838 - IDTranslator_140213322316544 - INFO - Found 145 untranslated IDs to retry
+2024-08-29 13:38:44,839 - IDTranslator_140213322316544 - INFO - Retrying translation for 145 untranslated IDs
+2024-08-29 13:40:11,719 - IDTranslator_140213322316544 - INFO - Retried batch 1/2
+2024-08-29 13:41:54,884 - IDTranslator_140213322316544 - INFO - Retried batch 2/2
+2024-08-29 13:41:54,888 - IDTranslator_140213322316544 - INFO - Progress saved to retry_checkpoint_batch_2.pkl
+2024-08-29 13:41:54,902 - IDTranslator_140213322316544 - INFO - Applying translation to dataframe...
+2024-08-29 13:41:55,582 - IDTranslator_140213322316544 - INFO - Results saved to ../data/Lit-BM_translated.csv
+2024-08-29 13:41:55,588 - IDTranslator_140213322316544 - INFO - ID translation process completed in 1279.31 seconds
+2024-08-29 13:41:55,642 - IDTranslator_140213322316544 - INFO - Original entry count: 13702
+2024-08-29 13:41:55,643 - IDTranslator_140213322316544 - INFO - Translated entry count: 13579
+2024-08-29 13:41:55,644 - IDTranslator_140213322316544 - INFO - Expansion factor: 0.99
+2024-08-29 13:41:55,644 - IDTranslator_140213322316544 - INFO - Translation success rate: 99.10%
+2024-08-29 13:41:55,650 - IDTranslator_140215111841072 - INFO - Starting ID translation process from Ensembl to UniProtKB-Swiss-Prot
+2024-08-29 13:41:55,653 - IDTranslator_140215111841072 - INFO - Loaded 1159 rows with 672 unique IDs
+2024-08-29 13:41:55,654 - IDTranslator_140215111841072 - INFO - No existing progress found. Starting from scratch.
+2024-08-29 13:44:10,006 - IDTranslator_140215111841072 - INFO - Processed batch 1/7
+2024-08-29 13:45:04,754 - IDTranslator_140215111841072 - INFO - Processed batch 2/7
+2024-08-29 13:45:04,756 - IDTranslator_140215111841072 - INFO - Progress saved to checkpoint_batch_2.pkl
+2024-08-29 13:45:07,049 - IDTranslator_140215111841072 - INFO - Processed batch 3/7
+2024-08-29 13:45:08,098 - IDTranslator_140215111841072 - INFO - Processed batch 4/7
+2024-08-29 13:45:08,100 - IDTranslator_140215111841072 - INFO - Progress saved to checkpoint_batch_4.pkl
+2024-08-29 13:45:08,127 - IDTranslator_140215111841072 - INFO - Processed batch 5/7
+2024-08-29 13:45:11,443 - IDTranslator_140215111841072 - INFO - Processed batch 6/7
+2024-08-29 13:45:11,445 - IDTranslator_140215111841072 - INFO - Progress saved to checkpoint_batch_6.pkl
+2024-08-29 13:45:13,116 - IDTranslator_140215111841072 - INFO - Processed batch 7/7
+2024-08-29 13:45:13,118 - IDTranslator_140215111841072 - INFO - Progress saved to checkpoint_batch_7.pkl
+2024-08-29 13:45:13,136 - IDTranslator_140215111841072 - INFO - Applying translation to dataframe...
+2024-08-29 13:45:13,457 - IDTranslator_140215111841072 - INFO - Results saved to ../data/Test_space_screens-19_translated.csv
+2024-08-29 13:45:13,461 - IDTranslator_140215111841072 - INFO - Found 7 untranslated IDs to retry
+2024-08-29 13:45:13,462 - IDTranslator_140215111841072 - INFO - Retrying translation for 7 untranslated IDs
+2024-08-29 13:45:26,931 - IDTranslator_140215111841072 - INFO - Retried batch 1/1
+2024-08-29 13:45:26,933 - IDTranslator_140215111841072 - INFO - Progress saved to retry_checkpoint_batch_1.pkl
+2024-08-29 13:45:26,954 - IDTranslator_140215111841072 - INFO - Applying translation to dataframe...
+2024-08-29 13:45:27,006 - IDTranslator_140215111841072 - INFO - Results saved to ../data/Test_space_screens-19_translated.csv
+2024-08-29 13:45:27,008 - IDTranslator_140215111841072 - INFO - ID translation process completed in 211.36 seconds
+2024-08-29 13:45:27,013 - IDTranslator_140215111841072 - INFO - Original entry count: 1174
+2024-08-29 13:45:27,014 - IDTranslator_140215111841072 - INFO - Translated entry count: 1160
+2024-08-29 13:45:27,015 - IDTranslator_140215111841072 - INFO - Expansion factor: 0.99
+2024-08-29 13:45:27,016 - IDTranslator_140215111841072 - INFO - Translation success rate: 98.81%

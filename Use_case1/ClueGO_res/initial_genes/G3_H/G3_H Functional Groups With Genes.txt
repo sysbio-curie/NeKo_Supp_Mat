@@ -1,0 +1,4 @@
+Function	Groups	Group Genes
+protein-DNA complex disassembly	Group2	MYC|SMARCA4
+response to gamma radiation	Group1	ATM|MYC
+telomerase activity	Group0	ATM|PTEN

@@ -1,0 +1,101 @@
+Selection Citeria:
+Statistical Test Used = Enrichment/Depletion (Two-sided hypergeometric test)
+Use pvalue cutoff = true
+pvalue cutoff = 0.05000000074505806
+Correction Method Used = Bonferroni step down
+Min GO Level = 3
+Max GO Level = 8
+Cluster #1
+Sample File Name = File selection: ManuallyAddedOrModifiedIDs
+Number of Genes = 3
+Min Percentage = 4.0
+
+Cluster #2
+Sample File Name = File selection: ManuallyAddedOrModifiedIDs
+Number of Genes = 3
+Min Percentage = 4.0
+
+Cluster #3
+Sample File Name = File selection: ManuallyAddedOrModifiedIDs
+Number of Genes = 3
+Min Percentage = 4.0
+
+Cluster #4
+Sample File Name = File selection: ManuallyAddedOrModifiedIDs
+Number of Genes = 3
+Min Percentage = 4.0
+
+Cluster #5
+Sample File Name = File selection: ManuallyAddedOrModifiedIDs
+Number of Genes = 3
+Min Percentage = 4.0
+
+Combine Clusters With 'Or' = true
+Percentage for a Cluster to be Specific = 60.0
+GO Fusion = false
+GO Group = true
+Kappa Score Threshold = 0.4
+Over View Term = SmallestPValue
+Group By Kappa Statistics = true
+Initial Group Size = 1
+Sharing Group Percentage = 50.0
+
+ClueGO Log:
+### All results were created with ClueGO v2.5.10 ###
+Organism analyzed: Homo Sapiens [9606]
+Identifier types used: [EnsemblGeneID, SymbolID]
+Evidence codes used: [All_Experimental_(EXP,IDA,IPI,IMP,IGI,IEP)]
+#Genes in GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00 : 10375
+
+#All unique genes in selected ontologies: 10375 (reference set for hypergeometric test)
+
+#Genes from Cluster#1: unique uploaded ids 24 -> corresponding genes 24, with 0 (0.0%) missing  -> All genes were recognized by ClueGO.
+#Genes from Cluster#2: unique uploaded ids 24 -> corresponding genes 24, with 0 (0.0%) missing  -> All genes were recognized by ClueGO.
+#Genes from Cluster#3: unique uploaded ids 9 -> corresponding genes 9, with 0 (0.0%) missing  -> All genes were recognized by ClueGO.
+#Genes from Cluster#4: unique uploaded ids 18 -> corresponding genes 18, with 0 (0.0%) missing  -> All genes were recognized by ClueGO.
+#Genes from Cluster#5: unique uploaded ids 321 -> corresponding genes 320, with 1 (0.31%) missing  -> 320 recognized by ClueGO.
+ -> To improve the % of found genes, verify gene identifiers, download new available ClueGO conversion files or add/request additional files.
+
+#Genes with functional annotations in all selected Ontologies from Cluster#1: 18 (75.0%) -> 6 (25.0%) are not functionally annotated in any selected Ontology!
+#Genes with functional annotations in all selected Ontologies from Cluster#2: 21 (87.5%) -> 3 (12.5%) are not functionally annotated in any selected Ontology!
+#Genes with functional annotations in all selected Ontologies from Cluster#3: 5 (55.56%) -> 4 (44.44%) are not functionally annotated in any selected Ontology!
+#Genes with functional annotations in all selected Ontologies from Cluster#4: 13 (72.22%) -> 5 (27.78%) are not functionally annotated in any selected Ontology!
+#Genes with functional annotations in all selected Ontologies from Cluster#5: 217 (67.81%) -> 103 (32.19%) are not functionally annotated in any selected Ontology!
+#Unique genes with functional annotations in all selected ontologies from the 5 Clusters: 269 (68.97%) -> 121 (31.03%) are not functionally annotated!
+ -> To improve the % of annotated genes, chose additional ontologies.
+
+#Genes from all Clusters associated to 648 representative Terms and Pathways (after applying general selection criteria): 247 (63.33%)
+#Genes from all Clusters associated to 150 representative Terms and Pathways (after p-value significance selection criteria): 226 (57.95%)
+
+KappaScore Grouping:
+Iteration: 0 with 42 groups
+Iteration: 1 with 46 groups
+Iteration: 2 with 23 groups
+Iteration: 3 with 20 groups
+Final KappaScore groups  = 20
+# Terms not grouped  = 0
+
+# Merge redundant groups with >50.0% overlap
+Final group size after merging: 20
+
+#GO All Terms Specific for Cluster #5: 84
+#GO All Terms not Specific for a Cluster: 66
+#GO Terms: 150
+#GO Term Connections: 674
+List of missing Genes -> make sure the ids exists or are written propperly -> if yes make sure you have their annotation in ClueGO!
+Cluster #1
+
+
+Cluster #2
+
+
+Cluster #3
+
+
+Cluster #4
+
+
+Cluster #5
+Gene IDs not found (no annotation or wrong ids) in Cluster#5:
+AIRIM
+
